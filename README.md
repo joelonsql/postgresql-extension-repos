@@ -1,0 +1,4991 @@
+# PostgreSQL Extension Repos
+
+This is a list of some PostgreSQL extension repos,
+listed in alphabetical order of parent repos,
+with forks listed under each parent.
+
+If some repo is missing, please add it and send a Pull Request.
+
+- https://github.com/michelleliza/1nf-stppattern-psql-extension
+- https://github.com/arkhipov/acl
+  - https://github.com/Chri-s/acl
+  - https://github.com/GanieLinn/acl
+  - https://github.com/JohnXZG/acl
+  - https://github.com/akorsukov/acl
+  - https://github.com/bookvik/acl
+  - https://github.com/cuulee/acl
+  - https://github.com/emrul/acl
+  - https://github.com/mariomka/acl
+  - https://github.com/mlt/acl
+  - https://github.com/nikatov/acl
+  - https://github.com/wolfgangwalther/acl
+  - https://github.com/zdenekhbr/acl
+  - https://github.com/zerojuls/acl
+- https://github.com/satya10x/advcopy
+- https://github.com/bitnine-oss/AgensGraph-Extension
+  - https://github.com/JoshInnis/AgensGraph-Extension
+  - https://github.com/aysko75/AgensGraph-Extension
+  - https://github.com/bor6fc57/AgensGraph-Extension
+  - https://github.com/cegorah/AgensGraph-Extension
+  - https://github.com/crypticspawn/AgensGraph-Extension
+  - https://github.com/cybernetics/AgensGraph-Extension
+  - https://github.com/dwtcourses/AgensGraph-Extension
+  - https://github.com/inventionzhang/agensgraph-ext
+  - https://github.com/joe2hpimn/agensgraph-ext
+  - https://github.com/lucaseo90/AgensGraph-Extension
+  - https://github.com/mintduck/AgensGraph-Extension
+  - https://github.com/protodef/agensgraph-ext
+  - https://github.com/shinhanbyeol/AgensGraph-Extension
+  - https://github.com/simsolTech/AgensGraph-Extension
+  - https://github.com/sshyran/agensgraph-ext
+- https://github.com/furkansahin/Aggregate-Average
+- https://github.com/pjungwir/aggs_for_arrays
+  - https://github.com/ArturFormella/aggs_for_arrays
+    - https://github.com/Irytacja/aggs_for_arrays
+  - https://github.com/johnsonc/aggs_for_arrays
+  - https://github.com/min-mwei/aggs_for_arrays
+  - https://github.com/semaperepelitsa/aggs_for_arrays
+  - https://github.com/tah-alv/aggs_for_arrays
+- https://github.com/pjungwir/aggs_for_vecs
+  - https://github.com/leszarna/aggs_for_vecs
+  - https://github.com/min-mwei/aggs_for_vecs
+  - https://github.com/tah-alv/aggs_for_vecs
+- https://github.com/x4m/ags
+- https://github.com/adjust/all_substrings_tokenizer
+  - https://github.com/chochkov/all_substrings_tokenizer
+- https://github.com/petergeoghegan/amcheck
+  - https://github.com/RekGRpth/amcheck
+  - https://github.com/blunney1/amcheck
+  - https://github.com/gregburek/amcheck
+  - https://github.com/hiroaikawa/amcheck
+  - https://github.com/jelmer/amcheck
+  - https://github.com/kostiantyn-nemchenko/amcheck
+  - https://github.com/omiday/amcheck
+  - https://github.com/ranjangajare/amcheck
+  - https://github.com/x4m/amcheck
+- https://github.com/danolivo/anotherSelfJoin
+- https://github.com/main--/append_only_heap
+- https://github.com/postgrespro/aqo
+  - https://github.com/Coraop/aqo
+  - https://github.com/Phil-Arena/aqo
+  - https://github.com/RekGRpth/aqo
+  - https://github.com/Yerzhaisang/aqo
+  - https://github.com/a-masterov/aqo
+  - https://github.com/bcui6611/aqo
+  - https://github.com/chubbymaggie/aqo
+    - https://github.com/JackBro/aqo
+  - https://github.com/cuulee/aqo
+  - https://github.com/emrul/aqo
+  - https://github.com/hailanwhu/aqo
+  - https://github.com/hisahin/aqo
+  - https://github.com/hoangdzung/aqo
+  - https://github.com/isgasho/aqo
+  - https://github.com/joe2hpimn/aqo
+  - https://github.com/kulaginm/aqo
+  - https://github.com/parimarjan/aqo
+  - https://github.com/pengzhanyuan/aqo
+  - https://github.com/rishatsharafiev/aqo
+  - https://github.com/samat1120/aqo
+  - https://github.com/tvondra/aqo
+  - https://github.com/vadv/aqo
+  - https://github.com/yoer77/aqo
+  - https://github.com/zhihuiFan/aqo
+- https://github.com/bashtanov/argm
+  - https://github.com/ddryden/argm
+  - https://github.com/matthewfranglen/argm
+  - https://github.com/mindis/argm
+- https://github.com/2ndQuadrant/array_textsort
+  - https://github.com/commandprompt/array_textsort
+  - https://github.com/dreamsxin/array_textsort
+- https://github.com/lizardoluis/ast_postgis
+  - https://github.com/gabrielmcf/ast_postgis
+  - https://github.com/lab-csx-ufmg/ast_postgis
+- https://github.com/karpov-sv/astrocat
+- https://github.com/ArturFormella/async_response
+  - https://github.com/Irytacja/async_response
+- https://github.com/XiaYingyin/atree
+- https://github.com/gfphoenix78/autofailover
+- https://github.com/petere/autopex
+- https://github.com/okbob/autoreindex
+  - https://github.com/RekGRpth/autoreindex
+- https://github.com/gleu/autovacuum_informations
+- https://github.com/JLockerman/bench_pg_unwind
+- https://github.com/sany1231/binvec
+- https://github.com/chenquanzhao/blackhole_fdw
+- https://github.com/pgsql-tw/blackhole_fdw
+- https://github.com/hcyGo/blackhole_fdw
+- https://github.com/davidfetter/blackhole_hook
+- https://github.com/ozum/boolean_cascaded
+- https://github.com/2ndquadrant-it/brin4postgis
+  - https://github.com/dalibo/brin4postgis
+  - https://github.com/gridl/brin4postgis
+- https://github.com/kayform/bwcontrol
+  - https://github.com/gogoickgick/bwcontrol
+  - https://github.com/goldnoh/bwcontrol
+  - https://github.com/happy6972/bwcontrol
+- https://github.com/postgrespro/bztree
+  - https://github.com/khalefa-phd/bztree
+- https://github.com/chobostar/calculate_markup
+- https://github.com/macdice/calendars
+- https://github.com/johto/call_graph
+  - https://github.com/klando/call_graph
+  - https://github.com/postsql/call_graph
+  - https://github.com/zhuomingliang/call_graph
+- https://github.com/philopon/cas
+- https://github.com/jaiminpan/cassandra2_fdw
+  - https://github.com/cristianprice/cassandra2_fdw
+  - https://github.com/wjch-krl/cassandra2_fdw
+- https://github.com/fedesilva/cassandra_fdw
+  - https://github.com/aosmith/cassandra_fdw
+- https://github.com/pgsql-io/cassandra_fdw
+- https://github.com/The-Alchemist/cassandra_fdw
+- https://github.com/yanliu8/cbtree
+- https://github.com/tvondra/ccnumber
+  - https://github.com/catharsis256/ccnumber
+  - https://github.com/compasses/ccnumber
+  - https://github.com/naveen1941/ccnumber
+  - https://github.com/scarbrofair/ccnumber
+- https://github.com/rafatower/cdb_extension_fw
+- https://github.com/mikeizbicki/chajda
+- https://github.com/olshevskiy87/check_digits
+- https://github.com/yvazquezo/check_orapg
+  - https://github.com/1newstar/check_orapg
+- https://github.com/chef/chef_pgtap
+- https://github.com/nate1001/chess_index
+- https://github.com/lacanoid/chkpass
+- https://github.com/cloud-sn2/cigration
+  - https://github.com/ChenHuajun/cigration
+  - https://github.com/digoal/cigration
+  - https://github.com/guanqingtao/cigration
+  - https://github.com/joe2hpimn/cigration
+  - https://github.com/justdoit1024/cigration
+  - https://github.com/myaniu/cigration
+  - https://github.com/qiuwenhuifx/cigration
+  - https://github.com/sonnary/cigration
+- https://github.com/messagebird/clickhouse-postgres-fdw
+  - https://github.com/guptaarchit/clickhouse-postgres-fdw
+  - https://github.com/isgasho/clickhouse-postgres-fdw
+- https://github.com/x4m/clickhouse_fdw
+  - https://github.com/chinaworld/clickhouse_fdw
+- https://github.com/Percona-Lab/clickhousedb_fdw
+  - https://github.com/SunGit-AI/clickhousedb_fdw
+  - https://github.com/a615549958/clickhousedb_fdw
+  - https://github.com/darthunix/clickhousedb_fdw
+  - https://github.com/digitalsanity/clickhousedb_fdw
+  - https://github.com/forestlzj/clickhousedb_fdw
+  - https://github.com/haplone/clickhousedb_fdw
+  - https://github.com/joe2hpimn/clickhousedb_fdw
+  - https://github.com/kunaldawn/clickhousedb_fdw
+  - https://github.com/lilingzj/clickhousedb_fdw
+  - https://github.com/min-mwei/clickhousedb_fdw
+  - https://github.com/mindis/clickhousedb_fdw
+  - https://github.com/samgaw-archive/clickhousedb_fdw
+  - https://github.com/sirmax2/clickhousedb_fdw
+  - https://github.com/thebf/clickhousedb_fdw
+  - https://github.com/wenqzheng/clickhousedb_fdw
+- https://github.com/vibhorkum/cloneschema
+- https://github.com/remzicanaksoy/cms_topn
+- https://github.com/ozturkosu/cms_topn
+  - https://github.com/SufianHassan/cms_topn
+  - https://github.com/blunney1/cms_topn
+  - https://github.com/mikeizbicki/cms_topn
+  - https://github.com/oudalab/mms
+- https://github.com/theory/colnames
+  - https://github.com/schalas2/colnames
+- https://github.com/semenikhind/complex_contrib
+- https://github.com/ibarwick/config_log
+  - https://github.com/3manuek/config_log
+  - https://github.com/chutzimir/config_log
+- https://github.com/tvondra/connection_limits
+  - https://github.com/bdrouvot/connection_limits
+- https://github.com/ibarwick/conninfo
+- https://github.com/katrinaibast/constr_name_unif
+- https://github.com/postgres-ci/core
+- https://github.com/ZhengYang/couchdb_fdw
+  - https://github.com/GunioRobot/couchdb_fdw
+  - https://github.com/golgauth/couchdb_fdw
+    - https://github.com/gsiz007/couchdb_fdw
+    - https://github.com/ivandasch/couchdb_fdw
+  - https://github.com/yaozhangPAN/couchdb_fdw
+- https://github.com/tvondra/count_distinct
+  - https://github.com/ArturFormella/count_distinct
+    - https://github.com/Irytacja/count_distinct
+  - https://github.com/BrandwatchLtd/count_distinct
+  - https://github.com/GuiPerGD/count_distinct
+    - https://github.com/jakubjedelsky/count_distinct
+  - https://github.com/HanumathRao/count_distinct
+  - https://github.com/barrycug/count_distinct
+  - https://github.com/bashtanov/count_distinct
+  - https://github.com/linwanggm/count_distinct
+  - https://github.com/rattrayalex/count_distinct
+  - https://github.com/theory/count_distinct
+  - https://github.com/wenqzheng/count_distinct
+- https://github.com/CrunchyData/crunchy_check_access
+  - https://github.com/Mechachleopteryx/crunchy_check_access
+  - https://github.com/ThomasPoty/crunchy_check_access
+  - https://github.com/davidfetter/crunchy_check_access
+  - https://github.com/keithf4/crunchy_check_access
+  - https://github.com/roberto-mello/crunchy_check_access
+- https://github.com/dverite/cryptint
+- https://github.com/wanghongxiang2018/cstore_fdw
+- https://github.com/citusdata/cstore_fdw
+  - https://github.com/8adre/cstore_fdw
+  - https://github.com/AnimeshChaudhry/cstore_fdw
+  - https://github.com/ArnabKar/cstore_fdw
+  - https://github.com/AtChina/cstore_fdw
+  - https://github.com/BruceMa7/cstore_fdw
+  - https://github.com/Gyokuro-cha/cstore_fdw
+  - https://github.com/HFTrader/cstore_fdw
+  - https://github.com/Indieinfluencers/cstore_fdw
+  - https://github.com/Kast0rTr0y/cstore_fdw
+  - https://github.com/Laeeth/cstore_fdw
+  - https://github.com/Layamon/cstore_fdw
+  - https://github.com/PerhunAndrey/cstore_fdw
+  - https://github.com/PeterNdiforchu/cstore_fdw
+  - https://github.com/PurusothRam/cstore_fdw
+  - https://github.com/VillageMD/cstore_fdw
+  - https://github.com/Vitaliy-Svinchyak/cstore_fdw
+  - https://github.com/a-lucas/cstore_fdw
+  - https://github.com/adjust/cstore_fdw
+  - https://github.com/ag1m4t/cstore_fdw
+  - https://github.com/akolts/cstore_fdw
+  - https://github.com/akumar1903/cstore_fdw
+  - https://github.com/alitrack/cstore_fdw
+  - https://github.com/am2222/cstore_fdw
+  - https://github.com/archenroot/cstore_fdw
+  - https://github.com/astream2018/cstore_fdw
+  - https://github.com/benthomasson/cstore_fdw
+  - https://github.com/beversmith/cstore_fdw
+  - https://github.com/bibekdw/cstore_fdw
+  - https://github.com/blunney1/cstore_fdw
+  - https://github.com/btubbs/cstore_fdw
+  - https://github.com/cbbrowne/cstore_fdw
+  - https://github.com/chinaworld/cstore_fdw
+  - https://github.com/cpcloud/cstore_fdw
+  - https://github.com/cyrusradfar/cstore_fdw
+  - https://github.com/databmk/cstore_fdw
+  - https://github.com/deleskie/cstore_fdw
+  - https://github.com/designerpages/cstore_fdw
+  - https://github.com/digideskio/cstore_fdw
+  - https://github.com/domoritz/cstore_fdw
+  - https://github.com/ergo70/cstore_fdw
+  - https://github.com/erickguan/cstore_fdw
+  - https://github.com/fanyeren/cstore_fdw
+  - https://github.com/fsgp/cstore_fdw
+  - https://github.com/furkansahin/cstore_fdw
+  - https://github.com/gabitoju/cstore_fdw
+  - https://github.com/geraldodev/cstore_fdw
+  - https://github.com/ghostsprofile/cstore_fdw
+  - https://github.com/godouxm/cstore_fdw
+  - https://github.com/guanqingtao/cstore_fdw
+  - https://github.com/harukat/cstore_fdw
+  - https://github.com/hbcbh1999/cstore_fdw
+  - https://github.com/henrywoo/cstore_fdw
+  - https://github.com/huiwenhan/cstore_fdw
+  - https://github.com/ibrarahmad/cstore_fdw
+    - https://github.com/ubuntu-repo/cstore_fdw
+  - https://github.com/inscriptive/cstore_fdw
+  - https://github.com/inuyasha1027/cstore_fdw
+  - https://github.com/isgasho/cstore_fdw
+  - https://github.com/jiaoyk/cstore_fdw
+  - https://github.com/jnicholls/cstore_fdw
+  - https://github.com/joe2hpimn/cstore_fdw
+  - https://github.com/junfenglu2016/cstore_fdw
+    - https://github.com/sanglijunfengDev/cstore_fdw
+  - https://github.com/karna1995/cstore_fdw
+  - https://github.com/keevol/cstore_fdw
+  - https://github.com/kingfs/cstore_fdw
+  - https://github.com/kkkato/cstore_fdw
+  - https://github.com/kod3r/cstore_fdw
+  - https://github.com/kuruv/cstore_fdw
+  - https://github.com/linpingchuan/cstore_fdw
+  - https://github.com/lizhanhui/cstore_fdw
+  - https://github.com/luiscape/cstore_fdw
+  - https://github.com/lunsir/cstore_fdw
+  - https://github.com/marian2015/cstore_fdw
+  - https://github.com/matheuscburger/cstore_fdw
+  - https://github.com/mauna-ai/cstore_fdw
+  - https://github.com/mdkmisc/cstore_fdw
+  - https://github.com/mengjin001/cstore_fdw
+  - https://github.com/michaelandrepearce/cstore_fdw
+  - https://github.com/mindis/cstore_fdw
+  - https://github.com/mmarich1/cstore_fdw
+  - https://github.com/mtuncer/cstore_fdw
+  - https://github.com/nagyistge/cstore_fdw
+  - https://github.com/nepur/cstore_fdw
+  - https://github.com/nunb/cstore_fdw
+  - https://github.com/nwut/cstore_fdw
+  - https://github.com/olivermel/cstore_fdw
+  - https://github.com/ossa619/cstore_fdw
+  - https://github.com/ozgune/cstore_fdw
+  - https://github.com/pha3z/cstore_fdw
+  - https://github.com/pombredanne/cstore_fdw
+  - https://github.com/rafatower/cstore_fdw
+  - https://github.com/rajeshveera/cstore_fdw
+  - https://github.com/ralamgstromg/cstore_fdw
+  - https://github.com/raonyguimaraes/cstore_fdw
+  - https://github.com/ray6080/cstore_fdw
+  - https://github.com/renevdzee/cstore_fdw
+  - https://github.com/rim99/cstore_fdw
+  - https://github.com/rongliang666/cstore_fdw
+  - https://github.com/rootfs-analytics/cstore_fdw
+  - https://github.com/rschumann/cstore_fdw
+  - https://github.com/rudigaspardo/cstore_fdw
+  - https://github.com/sangli00/cstore_fdw
+  - https://github.com/selenamarie/cstore_fdw
+  - https://github.com/shangshujie365/cstore_fdw
+  - https://github.com/shaunstoltz/cstore_fdw
+  - https://github.com/siwefe/cstore_fdw
+  - https://github.com/skykiker/cstore_fdw
+  - https://github.com/smartdigitalmedia/cstore_fdw
+  - https://github.com/smartinsightsfromdata/cstore_fdw
+  - https://github.com/smkingsoft/cstore_fdw
+  - https://github.com/splitgraph/cstore_fdw
+  - https://github.com/sshyran/cstore_fdw
+  - https://github.com/stvhanna/cstore_fdw
+  - https://github.com/suryatmodulus/cstore_fdw
+  - https://github.com/teamday/cstore_fdw
+  - https://github.com/tezhangmsvan/cstore_fdw
+  - https://github.com/timgates42/cstore_fdw
+  - https://github.com/turanozen/cstore_fdw
+  - https://github.com/ujjwalsh/cstore_fdw
+  - https://github.com/uzbekdev1/cstore_fdw
+  - https://github.com/vassterg/cstore_fdw
+  - https://github.com/vicgc/cstore_fdw
+  - https://github.com/vicnoo/cstore_fdw
+  - https://github.com/vlubarsky/cstore_fdw
+  - https://github.com/wanghaisheng/cstore_fdw
+  - https://github.com/wenfuwang/cstore_fdw
+  - https://github.com/wenqzheng/cstore_fdw
+  - https://github.com/wenshengzhang/cstore_fdw
+  - https://github.com/wiltonlazary/cstore_fdw
+  - https://github.com/wisarut462/cstore_fdw
+  - https://github.com/xjxia/cstore_fdw
+  - https://github.com/xunyou/cstore_fdw
+  - https://github.com/zhdk123456/cstore_fdw
+  - https://github.com/zhuomingliang/cstore_fdw
+  - https://github.com/zpzhao/cstore_fdw
+- https://github.com/XiaYingyin/ctidscan
+  - https://github.com/Fibird/ctidscan
+- https://github.com/kaigai/ctidscan
+  - https://github.com/nminoru/ctidscan
+- https://github.com/kelvich/cube
+- https://github.com/fusiongyro/damm
+- https://github.com/Octonica/data_rig
+- https://github.com/darold/datalink
+- https://github.com/lacanoid/datalink
+- https://github.com/apache/datasketches-postgresql
+  - https://github.com/erichilarysmithsr/datasketches-postgresql
+  - https://github.com/joe2hpimn/incubator-datasketches-postgresql
+  - https://github.com/mmusnjak/datasketches-postgresql
+  - https://github.com/phstudy/incubator-datasketches-postgresql
+  - https://github.com/yvette903/incubator-datasketches-postgresql
+- https://github.com/credativ/db2fce
+  - https://github.com/fglueck/db2fce
+  - https://github.com/jsoler/db2fce
+  - https://github.com/searcher32/db2fce
+- https://github.com/stanislawbartkowski/db2odbc_fdw
+- https://github.com/asotolongo/db_info
+- https://github.com/cybertec-postgresql/db_migrator
+  - https://github.com/conycz-cg/db_migrator
+  - https://github.com/yinlei168/db_migrator
+- https://github.com/ossc-db/dblink_plus
+  - https://github.com/isgasho/dblink_plus
+  - https://github.com/kiskk/dblink_plus
+  - https://github.com/ubuntu-repo/dblink_plus
+  - https://github.com/vinpokale/dblink_plus
+- https://github.com/okbob/dbms_sql
+- https://github.com/spd010273/dbstat
+- https://github.com/asotolongo/ddla
+- https://github.com/sebschrader/debian-pkg-postgresql-mysql-fdw
+- https://github.com/MasahikoSawada/debug_funcs
+- https://github.com/xstevens/decoderbufs
+  - https://github.com/bharathwajnr/decoderbufs
+  - https://github.com/debezium/postgres-decoderbufs
+    - https://github.com/2877206/postgres-decoderbufs
+    - https://github.com/CyberDem0n/postgres-decoderbufs
+    - https://github.com/Jacksn2014/postgres-decoderbufs
+    - https://github.com/Laeeth/postgres-decoderbufs
+    - https://github.com/LeonOnRoad/postgres-decoderbufs
+    - https://github.com/Naros/postgres-decoderbufs
+    - https://github.com/NemoAA/postgres-decoderbufs
+    - https://github.com/QazerLab/postgres-decoderbufs
+    - https://github.com/datadevopscloud/postgres-decoderbufs
+    - https://github.com/emrul/postgres-decoderbufs
+    - https://github.com/film42/postgres-decoderbufs
+    - https://github.com/gunnarmorling/postgres-decoderbufs
+    - https://github.com/hchiorean/postgres-decoderbufs
+    - https://github.com/jamestut/postgres-decoderbufs
+    - https://github.com/jpechane/postgres-decoderbufs
+    - https://github.com/kgtdbx/postgres-decoderbufs
+    - https://github.com/laxhcxh/postgres-decoderbufs
+    - https://github.com/markfarnan/postgres-decoderbufs
+    - https://github.com/maxim-s/postgres-decoderbufs
+    - https://github.com/phoenixhadoop/postgres-decoderbufs
+    - https://github.com/rhauch/postgres-decoderbufs
+    - https://github.com/taylor-rolison/postgres-decoderbufs
+    - https://github.com/wttw/postgres-decoderbufs
+    - https://github.com/xydoublez/postgres-decoderbufs
+    - https://github.com/zhaoshiling1017/postgres-decoderbufs
+  - https://github.com/gijs/decoderbufs
+  - https://github.com/gutiou/decoderbufs
+  - https://github.com/jsyvanen/decoderbufs
+  - https://github.com/nbhhcty/decoderbufs
+  - https://github.com/remerge/decoderbufs
+- https://github.com/liaorc/devel-master
+- https://github.com/no0p/dict_exclude
+- https://github.com/mohangk/dict_id
+  - https://github.com/andhikayuana/dict_id
+- https://github.com/obartunov/dict_regex
+- https://github.com/postgrespro/dict_regex
+  - https://github.com/gridl/dict_regex
+- https://github.com/obartunov/dict_roman
+- https://github.com/za-arthur/dict_translate
+- https://github.com/Houston-Inc/dict_voikko
+  - https://github.com/MattiL/dict_voikko
+  - https://github.com/hlinnaka/dict_voikko
+  - https://github.com/joux3/dict_voikko
+  - https://github.com/jussiarpalahti/dict_voikko
+  - https://github.com/sarkkine/dict_voikko
+    - https://github.com/pjlampil/dict_voikko
+    - https://github.com/tnatshood/dict_voikko
+- https://github.com/greenplum-db/diskquota
+  - https://github.com/HaozhouWang/diskquota
+  - https://github.com/JennyJennyChen/diskquota
+  - https://github.com/arenadata/diskquota
+  - https://github.com/gfphoenix78/diskquota
+  - https://github.com/weinan003/diskquota
+  - https://github.com/zhangh43/diskquota
+  - https://github.com/zwunix/diskquota
+- https://github.com/s-hironobu/dont_drop_db
+- https://github.com/xiaowing/douban_fdw
+- https://github.com/cybertec-postgresql/drop_role_helper
+- https://github.com/alitrack/duckdb_fdw
+  - https://github.com/zeta1999/duckdb_fdw
+- https://github.com/slaught/dummy_fdw
+  - https://github.com/3manuek/dummy_fdw
+  - https://github.com/deathwish/dummy_fdw
+  - https://github.com/eligoenergy/dummy_fdw
+  - https://github.com/skobets/dummy_fdw
+- https://github.com/MeetMe/dump_fdw
+  - https://github.com/bdrouvot/dump_fdw
+  - https://github.com/jiaoyk/dump_fdw
+  - https://github.com/jonahharris/dump_fdw
+  - https://github.com/nextgres/dump_fdw
+  - https://github.com/theory/dump_fdw
+- https://github.com/nmandery/dumppoints
+- https://github.com/vibhorkum/edb_block_commands
+- https://github.com/vibhorkum/edb_foreignkeyconstraintmanager
+  - https://github.com/EnterpriseDB/edb_foreignkeyconstraintmanager
+- https://github.com/vibhorkum/edb_pgpool_adm
+- https://github.com/vibhorkum/efm_extension
+- https://github.com/asotolongo/email
+- https://github.com/Kozea/emaj
+- https://github.com/tvondra/empty
+- https://github.com/spd010273/event_manager
+- https://github.com/danolivo/execplan
+- https://github.com/theory/explanation
+  - https://github.com/schalas2/explanation
+- https://github.com/ibarwick/extension_template
+- https://github.com/darold/external_file
+  - https://github.com/BRGM/external_file
+  - https://github.com/JoelSchecheleski/external_file
+  - https://github.com/ajstadlin/external_file_fork
+  - https://github.com/kliberty/external_file
+- https://github.com/xocolatl/extra_window_functions
+  - https://github.com/datadevopscloud/extra_window_functions
+  - https://github.com/emrul/extra_window_functions
+  - https://github.com/zecho/extra_window_functions
+- https://github.com/ehfeng/faker
+- https://github.com/accarniel/FESTIval
+- https://github.com/niquola/fhir_jsonb
+- https://github.com/niquola/fhirbase
+- https://github.com/niquola/fhirpath-pg
+  - https://github.com/billkien-github/fhirpath-pg
+  - https://github.com/datadevopscloud/fhirpath-pg
+  - https://github.com/koprinkov/fhirpath-pg
+  - https://github.com/nazrulworld/fhirpath-pg
+- https://github.com/japinli/fibonacci
+- https://github.com/corlogic-code/file_fdw_program
+  - https://github.com/coreyhuinker/file_fdw_program
+- https://github.com/ibarwick/filenode_map_inspect
+- https://github.com/ibarwick/firebird_fdw
+  - https://github.com/ms3rgio/firebird_fdw
+  - https://github.com/plasmorf/firebird_fdw
+  - https://github.com/puddingpimp/firebird_fdw
+- https://github.com/celian-garcia/firefly-database
+- https://github.com/nbonnotte/first_last
+- https://github.com/wulczer/first_last_agg
+  - https://github.com/AtkinsChang/first_last_agg
+  - https://github.com/StreetHawkInc/first_last_agg
+  - https://github.com/adjust/first_last_agg
+    - https://github.com/einhverfr/first_last_agg
+    - https://github.com/min-mwei/first_last_agg
+  - https://github.com/jacaetevha/first_last_agg
+  - https://github.com/mrimbault/first_last_agg
+- https://github.com/2ndQuadrant/fixeddecimal
+  - https://github.com/commandprompt/fixeddecimal
+  - https://github.com/digoal/fixeddecimal
+  - https://github.com/forkkit/fixeddecimal
+  - https://github.com/pgstuff/fixeddecimal
+- https://github.com/pjungwir/floatfile
+  - https://github.com/min-mwei/floatfile
+- https://github.com/pjungwir/floatvec
+  - https://github.com/widemeadows/floatvec
+- https://github.com/benchub/flux
+- https://github.com/komamitsu/foreign_table_exposer
+  - https://github.com/bernochoa/foreign_table_exposer
+- https://github.com/melanieplageman/format
+- https://github.com/melanieplageman/format_x
+  - https://github.com/cybertec-postgresql/format_x
+- https://github.com/rongfengliang/fpm-pg-extension-package-generate-demo
+- https://github.com/liminghu/fuzzystrmatch
+- https://github.com/huseynsnmz/gbdchecks
+- https://github.com/mnelemans/gbuilder
+- https://github.com/corlogic-code/generate_date_series
+  - https://github.com/coreyhuinker/generate_date_series
+- https://github.com/okbob/generic-scheduler
+  - https://github.com/RekGRpth/generic-scheduler
+  - https://github.com/skyformat99/generic-scheduler
+- https://github.com/mnelemans/geohash-extra
+- https://github.com/GeoHistoricalData/geohistorical_objects
+- https://github.com/tvondra/geoip
+  - https://github.com/GitDataOrg/geoip
+  - https://github.com/circlehd/geoip
+  - https://github.com/krasnoukhov/geoip
+  - https://github.com/min-mwei/geoip
+  - https://github.com/rvsoni/geoip
+- https://github.com/idrawone/get_sum
+- https://github.com/x4m/gevel
+- https://github.com/hoangpham96/gist-isax
+- https://github.com/franckverrot/git_fdw
+  - https://github.com/Mandelkind/git_fdw
+  - https://github.com/armos-git/git_fdw
+  - https://github.com/davidfetter/git_fdw
+  - https://github.com/dmolik/git_fdw
+  - https://github.com/ryanfmurphy/git_fdw
+- https://github.com/dennwc/go-fdw
+- https://github.com/durch/google-bigtable-postgres-extension
+- https://github.com/durch/google-bigtable-postgres-fdw
+  - https://github.com/hcyGo/google-bigtable-postgres-fdw
+  - https://github.com/mbrukman/google-bigtable-postgres-fdw
+- https://github.com/zeromax007/gpdb-roaringbitmap
+  - https://github.com/598609030/gpdb-roaringbitmap
+  - https://github.com/NoahZhang/gpdb-roaringbitmap
+  - https://github.com/YangJunzhou/gpdb-roaringbitmap
+  - https://github.com/ZhangzheBJUT/gpdb-roaringbitmap
+  - https://github.com/abc582915847/gpdb-roaringbitmap
+  - https://github.com/caicaimi/gpdb-roaringbitmap
+  - https://github.com/gaos1/gpdb-roaringbitmap
+  - https://github.com/hydgladiator/gpdb-roaringbitmap
+  - https://github.com/iamcrzay/gpdb-roaringbitmap
+  - https://github.com/ideepthink/gpdb-roaringbitmap
+  - https://github.com/min-mwei/gpdb-roaringbitmap
+  - https://github.com/qiuwenhuifx/gpdb-roaringbitmap
+  - https://github.com/sadancat123456/gpdb-roaringbitmap
+  - https://github.com/ynuosoft/gpdb-roaringbitmap
+  - https://github.com/zhaiyiting/gpdb-roaringbitmap
+- https://github.com/fsalc/gprom-pgsql
+- https://github.com/luxms/greenplum-fdw
+  - https://github.com/lanmengfei/greenplum-fdw
+- https://github.com/pgspider/griddb_fdw
+  - https://github.com/FFHixio/griddb_fdw
+  - https://github.com/b-xiang/griddb_fdw
+  - https://github.com/hafixo/griddb_fdw
+  - https://github.com/khieuvm/griddb_fdw
+  - https://github.com/redsiren204/griddb_fdw
+  - https://github.com/skyformat99/griddb_fdw
+  - https://github.com/skymysky/griddb_fdw
+  - https://github.com/thongpvn/griddb_fdw
+  - https://github.com/tunghdt/griddb_fdw
+- https://github.com/danolivo/gtables_fdw
+- https://github.com/nicklasaven/gunzip_pg
+- https://github.com/bytesandbrains/h3-pg
+  - https://github.com/AbelVM/h3-pg
+  - https://github.com/ArnaudSwail/h3-pg
+  - https://github.com/Komzpa/h3-pg
+  - https://github.com/Vincentdecursay/h3-pg
+  - https://github.com/datamacgyver/h3-pg
+  - https://github.com/greatathrun/h3-pg
+  - https://github.com/joe2hpimn/h3-pg
+  - https://github.com/konturio/h3-pg
+  - https://github.com/maesbri-forks-geo/h3-pg
+  - https://github.com/michaelwittmann/h3-pg
+  - https://github.com/tierralibre/h3-pg
+  - https://github.com/trylinka/h3-pg
+- https://github.com/palestamp/hamming_distance
+- https://github.com/sangli00/hash_fdw
+- https://github.com/pandrewhk/hashtypes
+  - https://github.com/adjust/hashtypes
+    - https://github.com/alexeyklyukin/hashtypes
+    - https://github.com/min-mwei/hashtypes
+    - https://github.com/myrkraverk/hashtypes
+  - https://github.com/aleksabl/hashtypes
+  - https://github.com/rapimo/hashtypes
+- https://github.com/fabriziomello/hba_fdw
+- https://github.com/timbira/hba_sql
+  - https://github.com/umovme/hba_sql
+- https://github.com/troels/hbase_fdw
+- https://github.com/wikrsh/hello_fdw
+  - https://github.com/xingweitian/hello_fdw
+- https://github.com/vadv/hide_statements_in_log
+- https://github.com/IrNesterova/hierarchicalClusteringForDiploma
+- https://github.com/GeoHistoricalData/historical_geocoding
+- https://github.com/pgsql-io/hive_fdw
+- https://github.com/bigsql/hive_fdw
+  - https://github.com/datadevopscloud/hive_fdw
+- https://github.com/franckverrot/holycorn
+  - https://github.com/abrandoned/holycorn
+  - https://github.com/dai-yamashita/holycorn
+  - https://github.com/dmajkic/holycorn
+  - https://github.com/gitter-badger/holycorn
+  - https://github.com/inohiro/holycorn
+  - https://github.com/jjb/holycorn
+  - https://github.com/nico-bechtelar-0719/holycorn
+- https://github.com/postgrespro/hstore_ops
+  - https://github.com/gridl/hstore_ops
+  - https://github.com/iroma/hstore_ops
+  - https://github.com/killthekitten/hstore_ops
+  - https://github.com/sshyran/hstore_ops
+- https://github.com/vpikulik/hunspell_de_compounds
+- https://github.com/Hermanverschooten/hv_date_functions
+- https://github.com/HypoPG/hypopg
+  - https://github.com/Empia/hypopg
+  - https://github.com/LittleLittleHamster/hypopg
+  - https://github.com/anayrat/hypopg
+  - https://github.com/ankane/hypopg
+  - https://github.com/bjyoungblood/hypopg
+  - https://github.com/blunney1/hypopg
+  - https://github.com/chrisma/hypopg
+  - https://github.com/credativ/hypopg
+  - https://github.com/cuulee/hypopg
+  - https://github.com/cxz/hypopg
+  - https://github.com/cybernetics/hypopg
+  - https://github.com/datadevopscloud/hypopg
+  - https://github.com/fabianrbz/hypopg
+  - https://github.com/godouxm/hypopg
+  - https://github.com/gridl/hypopg
+  - https://github.com/guanqingtao/hypopg
+  - https://github.com/hailanwhu/hypopg
+  - https://github.com/hunleyd/hypopg
+  - https://github.com/joelvh/hypopg
+  - https://github.com/kmosolov/hypopg
+  - https://github.com/littlehuihui/hypopg
+  - https://github.com/olleolleolle/hypopg
+  - https://github.com/pombredanne/hypopg
+  - https://github.com/ruiaylin/hypopg
+  - https://github.com/sherlockcpp/hypopg
+  - https://github.com/stjordanis/hypopg
+  - https://github.com/timgates42/hypopg
+  - https://github.com/trietphm/hypopg
+  - https://github.com/yuanhaitao/hypopg
+  - https://github.com/yuzupy/hypopg
+  - https://github.com/zhdk123456/hypopg
+  - https://github.com/zhuomingliang/hypopg
+- https://github.com/dverite/icu_ext
+  - https://github.com/PierreDucroquet/icu_ext
+  - https://github.com/RekGRpth/icu_ext
+  - https://github.com/jakob/icu_ext
+- https://github.com/knizhnik/imcs
+  - https://github.com/Junvn/imcs
+  - https://github.com/Madusudanan/imcs
+  - https://github.com/a5000eventsolutions/imcs
+  - https://github.com/amutu/imcs
+  - https://github.com/duocoda/imcs
+  - https://github.com/emrul/imcs
+  - https://github.com/gavioto/imcs
+  - https://github.com/goodluckliu123/imcs
+  - https://github.com/i386-64/imcs
+  - https://github.com/idrawone/imcs
+  - https://github.com/interma/imcs
+  - https://github.com/isgasho/imcs
+  - https://github.com/jarwin123/imcs
+  - https://github.com/joe2hpimn/imcs
+  - https://github.com/matteodurighetto/imcs
+  - https://github.com/mindis/imcs
+  - https://github.com/nzioki/imcs
+  - https://github.com/rikxqd/imcs
+  - https://github.com/rodevl/imcs
+  - https://github.com/simovesterinen/imcs
+  - https://github.com/smartinsightsfromdata/imcs
+  - https://github.com/strogo/imcs
+  - https://github.com/urevoleg/imcs
+  - https://github.com/wangguoke/imcs
+    - https://github.com/aidahz/imcs
+  - https://github.com/zhdk123456/imcs
+- https://github.com/postgrespro/imgsmlr
+  - https://github.com/ArturFormella/imgsmlr
+    - https://github.com/Irytacja/imgsmlr
+  - https://github.com/BlosmLLC/imgsmlr
+  - https://github.com/CyberShadow/imgsmlr
+  - https://github.com/JeromedC34/imgsmlr
+  - https://github.com/Ladyia/imgsmlr
+  - https://github.com/RekGRpth/imgsmlr
+  - https://github.com/Shyran-Systems/imgsmlr
+  - https://github.com/Sxq2004123/imgsmlr
+  - https://github.com/ahnqirage/imgsmlr
+  - https://github.com/deepdumbo/imgsmlr
+  - https://github.com/elesos/imgsmlr
+  - https://github.com/gisdevelope/imgsmlr
+  - https://github.com/gridl/imgsmlr
+  - https://github.com/ironfogre/imgsmlr
+  - https://github.com/jinghao666/imgsmlr
+  - https://github.com/lebrosoft/imgsmlr
+  - https://github.com/lyxsus/imgsmlr
+  - https://github.com/mickeyhaha/imgsmlr
+    - https://github.com/XDYB/imgsmlr
+  - https://github.com/min-mwei/imgsmlr
+  - https://github.com/qzren1982/imgsmlr
+  - https://github.com/sscotty71/imgsmlr
+  - https://github.com/team55/imgsmlr
+  - https://github.com/wanglc2008/imgsmlr
+  - https://github.com/xmkane/imgsmlr
+  - https://github.com/yibit/imgsmlr
+  - https://github.com/zgsxwsdxg/imgsmlr
+  - https://github.com/zhuomingliang/imgsmlr
+  - https://github.com/zjucsxxd/imgsmlr
+- https://github.com/apache/incubator-age
+  - https://github.com/Cafemug/incubator-age
+  - https://github.com/Hadryan/incubator-age
+  - https://github.com/Hyundong-Seo/incubator-age
+  - https://github.com/JoshInnis/incubator-age
+  - https://github.com/Kim-Changhyun/incubator-age
+  - https://github.com/OpenCoderX/incubator-age
+  - https://github.com/TomMD/incubator-age
+  - https://github.com/bitnine-oss/incubator-age
+  - https://github.com/bloomspes/incubator-age
+  - https://github.com/bor6fc57/incubator-age
+  - https://github.com/chiwanpark/incubator-age
+  - https://github.com/cs-kang/incubator-age
+  - https://github.com/goungoun/incubator-age
+  - https://github.com/hwha/incubator-age
+  - https://github.com/jaimep01/incubator-age
+  - https://github.com/joe-fagan/incubator-age
+  - https://github.com/karria/incubator-age
+  - https://github.com/manjung49/incubator-age
+  - https://github.com/panda-sheep/incubator-age
+  - https://github.com/procarrie/incubator-age
+  - https://github.com/shinhanbyeol/incubator-age
+  - https://github.com/sshyran/incubator-age
+  - https://github.com/syyunn/incubator-age
+  - https://github.com/xocolatl/incubator-age
+- https://github.com/tvondra/index_analyzer
+- https://github.com/pgspider/influxdb_fdw
+  - https://github.com/isgasho/influxdb_fdw
+  - https://github.com/kanegoon/influxdb_fdw
+  - https://github.com/khieuvm/influxdb_fdw
+  - https://github.com/mochizk/influxdb_fdw
+  - https://github.com/petergebruers/influxdb_fdw
+  - https://github.com/robe2/influxdb_fdw
+  - https://github.com/skyformat99/influxdb_fdw
+  - https://github.com/tunghdt/influxdb_fdw
+- https://github.com/RhodiumToad/ip4r
+  - https://github.com/amutu/ip4r
+  - https://github.com/antoniovl/ip4r
+  - https://github.com/crebelein/ip4r
+  - https://github.com/dynjnelson/ip4r
+  - https://github.com/hanumanacholia/ip4r
+  - https://github.com/lucperkins/ip4r
+  - https://github.com/lukas-gitl/ip4r
+  - https://github.com/petere/ip4r
+  - https://github.com/zhutony/ip4r
+  - https://github.com/ziqi521/ip4r
+- https://github.com/furstenheim/is_jsonb_valid
+  - https://github.com/aalsup/is_jsonb_valid
+  - https://github.com/cuulee/is_jsonb_valid
+  - https://github.com/youkefan18/is_jsonb_valid
+- https://github.com/adjust/istore
+  - https://github.com/min-mwei/istore
+  - https://github.com/zilder/istore
+- https://github.com/KiriakosGeorgiou/istoria
+- https://github.com/dvarrazzo/italian_codes
+- https://github.com/heimir-sverrisson/jdbc2_fdw
+  - https://github.com/TyrfingMjolnir/jdbc2_fdw
+  - https://github.com/dlp-cwarren/jdbc2_fdw
+  - https://github.com/fstfwd/jdbc2_fdw
+  - https://github.com/hcyGo/jdbc2_fdw
+  - https://github.com/kostiantyn-nemchenko/jdbc2_fdw
+  - https://github.com/numerigraphe/jdbc2_fdw
+  - https://github.com/pborne/jdbc2_fdw
+  - https://github.com/pchaozhong/jdbc2_fdw
+  - https://github.com/shenzt/jdbc2_fdw
+- https://github.com/atris/JDBC_FDW
+  - https://github.com/InfoSec812/JDBC_FDW
+  - https://github.com/SolutionQuadrant/JDBC_FDW
+  - https://github.com/TyrfingMjolnir/JDBC_FDW
+  - https://github.com/amarty76/JDBC_FDW
+  - https://github.com/bmolleman/JDBC_FDW
+  - https://github.com/brunosimioni/JDBC_FDW
+  - https://github.com/checkbook-org/JDBC_FDW
+  - https://github.com/datadevopscloud/JDBC_FDW
+  - https://github.com/dbh/JDBC_FDW
+  - https://github.com/deathwish/JDBC_FDW
+  - https://github.com/dillonhafer/JDBC_FDW
+  - https://github.com/dlp-cwarren/JDBC_FDW
+  - https://github.com/ecaresoft/JDBC_FDW
+  - https://github.com/felipefedel/JDBC_FDW
+  - https://github.com/freebsdjlu/JDBC_FDW
+  - https://github.com/ftzdomino/JDBC_FDW
+  - https://github.com/greina/JDBC_FDW
+  - https://github.com/hcyGo/JDBC_FDW
+  - https://github.com/hiro-yano/JDBC_FDW
+  - https://github.com/jcarloshorus/JDBC_FDW
+  - https://github.com/kostiantyn-nemchenko/JDBC_FDW
+  - https://github.com/learnerhub/JDBC_FDW
+  - https://github.com/pchaozhong/JDBC_FDW
+  - https://github.com/slaught/JDBC_FDW
+  - https://github.com/tinydevcrm/JDBC_FDW
+  - https://github.com/vrobinho/JDBC_FDW
+  - https://github.com/wefarrell/JDBC_FDW
+  - https://github.com/ww-it/JDBC_FDW
+  - https://github.com/ycku/JDBC_FDW
+  - https://github.com/zhuhuatong/JDBC_FDW
+- https://github.com/seanlong/jieba_parser
+- https://github.com/uphold/json-output
+  - https://github.com/7patricia/json-output
+- https://github.com/theirix/json_accessors
+  - https://github.com/schp/json_accessors
+  - https://github.com/shartte/json_accessors
+- https://github.com/pgexperts/json_build
+  - https://github.com/bunsenmcdubbs/json_build
+  - https://github.com/escribano/json_build
+- https://github.com/nkhorman/json_fdw
+  - https://github.com/briangu/json_fdw
+  - https://github.com/cuulee/json_fdw
+  - https://github.com/dchichkov/cpp_fdw
+  - https://github.com/dreamsxin/json_fdw
+  - https://github.com/jmealo/json_fdw
+  - https://github.com/mikejlong60/json_fdw
+  - https://github.com/smartinsightsfromdata/json_fdw
+  - https://github.com/theory/json_fdw
+  - https://github.com/vittrup88/json_fdw
+- https://github.com/koctep/jsonb-extend
+  - https://github.com/Envek/jsonb-extend
+  - https://github.com/pavel-xa/jsonb-extend
+  - https://github.com/samgaw/jsonb-extend
+- https://github.com/glynastill/jsonb_delete
+- https://github.com/mhagander/jsonb_delete_array
+- https://github.com/erthalion/jsonb_explorer
+  - https://github.com/min-mwei/jsonb_explorer
+- https://github.com/niquola/jsonb_extra
+- https://github.com/postgrespro/jsonb_schema
+- https://github.com/adunstan/jsonb_set_lax
+- https://github.com/postgrespro/jsonbd
+- https://github.com/erthalion/jsonbx
+  - https://github.com/chebevara/jsonbx
+  - https://github.com/dreamsxin/jsonbx
+  - https://github.com/hkarim/jsonbx
+  - https://github.com/lywaterman/jsonbx
+  - https://github.com/pgexperts/jsonbx
+- https://github.com/posix4e/jsoncdc
+  - https://github.com/addisonj/jsoncdc
+  - https://github.com/allenap/jsoncdc
+  - https://github.com/emrul/jsoncdc
+  - https://github.com/evome/jsoncdc
+  - https://github.com/gitter-badger/jsoncdc
+  - https://github.com/instructure/jsoncdc
+    - https://github.com/ponimas/jsoncdc
+    - https://github.com/zhaoshiling1017/jsoncdc
+  - https://github.com/jcoleman/jsoncdc
+  - https://github.com/jmealo/jsoncdc
+  - https://github.com/michael-ancestor/jsoncdc
+  - https://github.com/pgps/jsoncdc
+  - https://github.com/solidsnack/jsoncdc
+  - https://github.com/uphold-forks/jsoncdc
+  - https://github.com/venuebook/jsoncdc
+- https://github.com/everilae/jsonfun
+- https://github.com/postgrespro/jsquery
+  - https://github.com/FadiZahhar/jsquery
+  - https://github.com/RekGRpth/jsquery
+  - https://github.com/alexeyfadeev/jsquery
+    - https://github.com/mobiletta/jsquery
+  - https://github.com/bibekdw/jsquery
+  - https://github.com/credativ/jsquery
+  - https://github.com/db4u/jsquery
+  - https://github.com/decibel/jsquery
+  - https://github.com/dmitryck/jsquery
+  - https://github.com/dorbodwolf/jsquery
+  - https://github.com/gazimahmud/jsquery
+  - https://github.com/gogobook/jsquery
+  - https://github.com/gridl/jsquery
+  - https://github.com/gueritaslm/jsquery
+  - https://github.com/halu886/jsquery
+  - https://github.com/isgasho/jsquery
+  - https://github.com/ismiyati/jsquery
+  - https://github.com/joe2hpimn/jsquery
+  - https://github.com/jonike/jsquery
+  - https://github.com/jpwiedekopf/jsquery
+  - https://github.com/kaplun/jsquery
+  - https://github.com/kariyaki/jsquery
+  - https://github.com/kishorkunal-raj/jsquery
+  - https://github.com/nagyist/postgrespro-jsquery
+  - https://github.com/niquola/jsquery
+  - https://github.com/pgexperts/jsquery
+  - https://github.com/rodevl/jsquery
+  - https://github.com/rschumann/jsquery
+  - https://github.com/vlubarsky/jsquery
+  - https://github.com/y2kforever23/jsquery
+- https://github.com/asotolongo/jx_io
+- https://github.com/arenadata/kafka-adb-os
+- https://github.com/BrandwatchLtd/kafka_fdw
+- https://github.com/adjust/kafka_fdw
+  - https://github.com/alexanderlz/kafka_fdw
+  - https://github.com/cuulee/kafka_fdw
+  - https://github.com/dmolik/kafka_fdw
+  - https://github.com/fanfuxiaoran/kafka_fdw
+  - https://github.com/jmcantera-stratio/kafka_fdw
+  - https://github.com/joe2hpimn/kafka_fdw
+  - https://github.com/marwahaha/kafka_fdw
+  - https://github.com/skyformat99/kafka_fdw
+  - https://github.com/suishaojian/kafka_fdw
+  - https://github.com/yeahlang/kafka_fdw
+  - https://github.com/zilder/kafka_fdw
+- https://github.com/cohenjo/kafka_fdw
+  - https://github.com/davecramer/kafka_fdw
+  - https://github.com/ivannovick/kafka_fdw
+  - https://github.com/phan-pivotal/kafka_fdw
+- https://github.com/ontaev/kalmyk-hunspell
+- https://github.com/umitanuki/kmeans-postgresql
+  - https://github.com/AndreMikulec/kmeans-postgresql
+  - https://github.com/Ladyia/kmeans-postgresql
+  - https://github.com/SiSol-Systems/kmeans-postgresql
+  - https://github.com/akolts/kmeans-postgresql
+  - https://github.com/alex1989/kmeans-postgresql
+  - https://github.com/elwali6/kmeans-postgresql
+  - https://github.com/fladi/kmeans-postgresql
+  - https://github.com/iketutg/kmeans-postgresql
+  - https://github.com/jgoizueta/kmeans-postgresql
+  - https://github.com/kyjswh/kmeans-postgresql
+  - https://github.com/mwtoews/kmeans-postgresql
+  - https://github.com/portaseb/kmeans-postgresql
+  - https://github.com/prafful002/kmeans-postgresql
+  - https://github.com/reesette/kmeans-postgresql
+  - https://github.com/s-zok/kmeans-postgresql
+  - https://github.com/sand-stone/kmeans-postgresql
+  - https://github.com/tuxuri/kmeans-postgresql
+  - https://github.com/zenwalk/kmeans-postgresql
+- https://github.com/nuko-yokohama/ksj
+  - https://github.com/hanada/ksj
+- https://github.com/cloudflarearchive/kt_fdw
+  - https://github.com/cnbird1999/kt_fdw
+  - https://github.com/csmithATsquiz/kt_fdw
+  - https://github.com/gugu/kt_fdw
+  - https://github.com/madhawa/kt_fdw
+  - https://github.com/webcore-no/kt_fdw
+- https://github.com/theory/kv-pair
+  - https://github.com/schalas2/kv-pair
+  - https://github.com/shakahl/kv-pair
+- https://github.com/guedes/ldap_fdw
+  - https://github.com/Gutbuster/ldap_fdw
+  - https://github.com/RekGRpth/ldap_fdw
+  - https://github.com/dls90/ldap_fdw
+  - https://github.com/dveeden/ldap_fdw
+  - https://github.com/klando/ldap_fdw
+  - https://github.com/lukasjuhrich/ldap_fdw
+  - https://github.com/pgexperts/ldap_fdw
+  - https://github.com/psoo/ldap_fdw
+- https://github.com/vibhorkum/ldapfdw
+- https://github.com/knaw-huc/lenticular-lens-postgresql
+- https://github.com/crtsh/libx509pq
+  - https://github.com/Acidburn0zzz/libx509pq
+  - https://github.com/dja852/libx509pq
+  - https://github.com/dkuspawono/libx509pq
+  - https://github.com/grahamedgecombe/libx509pq
+  - https://github.com/kagis/libx509pq
+  - https://github.com/robstradling/libx509pq
+  - https://github.com/witjon/libx509pq
+- https://github.com/niquola/lispg
+- https://github.com/b4oshany/livewire
+- https://github.com/rhysallister/livewire
+  - https://github.com/b4oshany/livewire-1
+- https://github.com/Houdini/log_entries
+- https://github.com/munakoiso/logerrors
+  - https://github.com/agorokhov/logerrors
+  - https://github.com/woblerr/logerrors
+- https://github.com/liang7878/login_refuse
+- https://github.com/sroeschus/loginfo
+- https://github.com/gojuno/lostgis
+  - https://github.com/Komzpa/lostgis
+  - https://github.com/andywicht/lostgis
+  - https://github.com/dheerajchand/lostgis
+- https://github.com/mediait/lpathtree
+- https://github.com/postgrespro/lsm
+  - https://github.com/isgasho/lsm
+  - https://github.com/joe2hpimn/lsm
+- https://github.com/topretejal/lsm_idx
+- https://github.com/jianingy/ltree
+- https://github.com/seanpringle/lua_fdw
+  - https://github.com/dai-yamashita/lua_fdw
+  - https://github.com/jaawerth/lua_fdw
+- https://github.com/pgbigm/ludia_funcs
+  - https://github.com/shinyaaa/ludia_funcs
+- https://github.com/matlads/mapcode-postgres
+- https://github.com/tvondra/md5hash
+- https://github.com/NikitOS94/MDBQT
+- https://github.com/sgichohi/median
+- https://github.com/Rahila/Median
+- https://github.com/plotts/median
+- https://github.com/jyosoman/median_aggregate
+- https://github.com/postgrespro/memstat
+  - https://github.com/ChenHuajun/memstat
+  - https://github.com/RekGRpth/memstat
+  - https://github.com/danielino/memstat
+  - https://github.com/gridl/memstat
+- https://github.com/cybertec-postgresql/merge_ips
+- https://github.com/aquametalabs/meta_triggers
+- https://github.com/omniti-labs/mimeo
+  - https://github.com/RekGRpth/mimeo
+  - https://github.com/SIfoxDevTeam/mimeo
+  - https://github.com/gavioto/mimeo
+  - https://github.com/jsoler/mimeo
+  - https://github.com/keithf4/mimeo
+    - https://github.com/perlchild/mimeo
+  - https://github.com/palmerj/mimeo
+  - https://github.com/payals/mimeo
+  - https://github.com/syaroslavtsev/mimeo
+  - https://github.com/thorpulse/mimeo
+  - https://github.com/zhuomingliang/mimeo
+- https://github.com/leskin-in/mipt-asj
+- https://github.com/postgrespro/mmts
+- https://github.com/snaga/monetdb_fdw
+  - https://github.com/TNANEO/monetdb_fdw
+  - https://github.com/alexeynfomichev/monetdb_fdw
+  - https://github.com/lifubang/monetdb_fdw
+  - https://github.com/nickinchina/monetdb_fdw
+  - https://github.com/ray2501/monetdb_fdw
+  - https://github.com/vagmi/monetdb_fdw
+- https://github.com/digoal/mongo_fdw
+- https://github.com/RelateIQ-chef/mongo_fdw
+- https://github.com/frost242/monitoring_role
+- https://github.com/NikitOS94/MonQ
+  - https://github.com/zilder/MonQ
+- https://github.com/postgrespro/monq
+  - https://github.com/NikitOS94/monq-1
+  - https://github.com/Shyran-Systems/monq
+  - https://github.com/gridl/monq
+- https://github.com/asotolongo/msmov
+- https://github.com/zhongjn/mtree
+- https://github.com/NaughtyDogOfSchrodinger/multicorn
+- https://github.com/AndrewFribush/Multicorn
+- https://github.com/olshevskiy87/multicorn
+- https://github.com/Segfault-Inc/Multicorn
+  - https://github.com/1210958801/Multicorn
+  - https://github.com/1go/Multicorn
+  - https://github.com/Bengreen/Multicorn
+  - https://github.com/BickfordA/Multicorn
+  - https://github.com/BrightGauge/Multicorn
+  - https://github.com/Dans24/Multicorn
+  - https://github.com/FlyrInc/Multicorn
+  - https://github.com/HanumathRao/Multicorn
+  - https://github.com/KAction/Multicorn
+  - https://github.com/Laeeth/Multicorn
+  - https://github.com/Nodashi/Multicorn
+  - https://github.com/Remi-C/Multicorn
+  - https://github.com/SimonSapin/Multicorn
+  - https://github.com/Sophrinix/Multicorn
+  - https://github.com/ali5h/Multicorn
+  - https://github.com/apisarenco/Multicorn
+  - https://github.com/asya999/Multicorn
+    - https://github.com/jdegoes/Multicorn
+    - https://github.com/tdcdiegoh/Multicorn
+  - https://github.com/bernochoa/Multicorn
+  - https://github.com/bigsql/Multicorn
+  - https://github.com/bradfordb-vmware/Multicorn
+  - https://github.com/brunoenten/Multicorn
+  - https://github.com/chinaworld/Multicorn
+  - https://github.com/choplin/Multicorn
+  - https://github.com/credativ/Multicorn
+  - https://github.com/cristianprice/Multicorn
+  - https://github.com/csears/Multicorn
+  - https://github.com/cuulee/Multicorn
+  - https://github.com/cxz/Multicorn
+  - https://github.com/cyrusradfar/Multicorn
+  - https://github.com/daamien/Multicorn
+  - https://github.com/datadevopscloud/Multicorn
+  - https://github.com/davidcrawford/Multicorn
+  - https://github.com/davidfetter/Multicorn
+  - https://github.com/davinirjr/Multicorn
+  - https://github.com/dev360/Multicorn
+  - https://github.com/disarticulate/Multicorn
+  - https://github.com/dpylr/Multicorn
+  - https://github.com/dwickern/Multicorn
+  - https://github.com/eligoenergy/Multicorn
+  - https://github.com/entenitconsulting/Multicorn
+  - https://github.com/ergo70/Multicorn
+  - https://github.com/ewestern/Multicorn
+  - https://github.com/eydunn/Multicorn
+  - https://github.com/felixhummel/Multicorn
+  - https://github.com/frbsfri/Multicorn
+  - https://github.com/fulcrumapp/Multicorn
+  - https://github.com/gabfl/Multicorn
+  - https://github.com/gibson042/Multicorn
+  - https://github.com/gilby125/Multicorn
+  - https://github.com/hanada/Multicorn
+  - https://github.com/helix84/Multicorn
+  - https://github.com/heyyang/Multicorn
+  - https://github.com/hhamalai/Multicorn
+  - https://github.com/immuta/Multicorn
+  - https://github.com/jamesandariese/Multicorn
+  - https://github.com/jholtom-ciena/Multicorn
+  - https://github.com/joe2hpimn/Multicorn
+  - https://github.com/jon-freed/Multicorn
+  - https://github.com/jrjsmrtn/Multicorn
+  - https://github.com/kecheon/Multicorn
+  - https://github.com/kimkw0227/Multicorn
+  - https://github.com/mabixi/Multicorn
+  - https://github.com/mdiin/Multicorn
+  - https://github.com/mgalgs/Multicorn
+  - https://github.com/michelp/Multicorn
+  - https://github.com/miguel-branco/Multicorn
+  - https://github.com/miles-po/Multicorn
+  - https://github.com/mitsu-ko/Multicorn
+  - https://github.com/mohan-chinnappan-n/Multicorn
+  - https://github.com/neilmcguigan/Multicorn
+  - https://github.com/nickinchina/Multicorn
+  - https://github.com/oceanzus/Multicorn
+  - https://github.com/ofergold/Multicorn
+  - https://github.com/oscardssmith/Multicorn
+  - https://github.com/pablos2038/Multicorn
+  - https://github.com/pandata-gmbh/Multicorn
+  - https://github.com/pchaozhong/Multicorn
+  - https://github.com/pgsql-io/Multicorn
+  - https://github.com/phdowling/Multicorn
+  - https://github.com/pombredanne/Multicorn
+  - https://github.com/pythoniste/Multicorn
+  - https://github.com/qhq16/Multicorn
+  - https://github.com/raarts/Multicorn
+  - https://github.com/ranjanprj/Multicorn
+  - https://github.com/rastkok/Multicorn
+  - https://github.com/rbarraud/Multicorn
+  - https://github.com/rbiro/Multicorn
+  - https://github.com/reece/Multicorn
+  - https://github.com/rjuju/Multicorn
+  - https://github.com/rmattes/Multicorn
+  - https://github.com/rvernica/Multicorn
+  - https://github.com/scrummyin/Multicorn
+  - https://github.com/seanjh/Multicorn
+  - https://github.com/shantanukhond/Multicorn
+  - https://github.com/sirmmo/Multicorn
+  - https://github.com/solidsnack/Multicorn
+  - https://github.com/splitgraph/Multicorn
+  - https://github.com/stefanor/Multicorn
+  - https://github.com/strk/Multicorn
+  - https://github.com/susssus/Multicorn
+  - https://github.com/swifth/Multicorn
+  - https://github.com/t3rmin4t0r/Multicorn
+  - https://github.com/tr11/Multicorn
+  - https://github.com/unixtime/Multicorn
+  - https://github.com/varadharajan/Multicorn
+  - https://github.com/vinnix/Multicorn
+  - https://github.com/vmora/Multicorn
+    - https://github.com/mhugo/Multicorn
+  - https://github.com/westernmagic/Multicorn
+  - https://github.com/wieck/Multicorn
+  - https://github.com/wjch-krl/Multicorn
+  - https://github.com/ycku/Multicorn
+  - https://github.com/youngwookim/Multicorn
+  - https://github.com/yyscamper/Multicorn
+  - https://github.com/zheya08/Multicorn
+- https://github.com/evetion/multistar
+  - https://github.com/Hellblazer/multistar
+- https://github.com/tongxin/mypg_sharding
+- https://github.com/EnterpriseDB/mysql_fdw
+  - https://github.com/AutumnFox/mysql_fdw
+  - https://github.com/ChesterHsieh/mysql_fdw
+  - https://github.com/DavidBoone/mysql_fdw
+  - https://github.com/Erika31/mysql_fdw
+  - https://github.com/InfoSec812/mysql_fdw
+  - https://github.com/JarvusInnovations/mysql_fdw
+  - https://github.com/Jeevanhm/mysql_fdw
+  - https://github.com/KYOSS/mysql_fdw
+  - https://github.com/Liuweb/mysql_fdw
+  - https://github.com/Morabaraba/mysql_fdw
+  - https://github.com/Naeem-Akhter/mysql_fdw
+  - https://github.com/Percona-Lab/mysqldb_fdw
+  - https://github.com/Pertino/mysql_fdw
+  - https://github.com/Postgres-Connect/mysqldb_fdw
+  - https://github.com/RicardoLastKiller/mysql_fdw
+  - https://github.com/Rohit-Arora/mysql_fdw
+  - https://github.com/SebastianGonzalez777/mysql_fdw
+  - https://github.com/SeraBig/mysql_fdw
+  - https://github.com/Shyran-Systems/mysql_fdw
+  - https://github.com/TerryShisan/mysql_fdw
+  - https://github.com/TheNorthMemory/mysql_fdw
+  - https://github.com/TyrfingMjolnir/mysql_fdw
+  - https://github.com/VoTranQuan/mysql_fdw
+  - https://github.com/Wirehive/mysql_fdw
+  - https://github.com/adam8157/mysql_fdw_greenplum
+    - https://github.com/joe2hpimn/mysql_fdw_greenplum
+  - https://github.com/aiwebb/mysql_fdw
+  - https://github.com/albertlast/mysql_fdw
+  - https://github.com/alexeyfadeev/mysql_fdw
+  - https://github.com/amutu/mysql_fdw
+  - https://github.com/arielrossanigo/mysql_fdw
+  - https://github.com/arunsylvester/mysql_fdw
+  - https://github.com/atstudy007/mysql_fdw
+  - https://github.com/axelhuizinga/mysql_fdw
+  - https://github.com/batmunkhcom/mysql_fdw
+  - https://github.com/blazek/mysql_fdw
+  - https://github.com/bluestatedigital/mysql_fdw
+  - https://github.com/brycemcd/mysql_fdw
+  - https://github.com/bubaa86/mysql_fdw
+  - https://github.com/clear-datacenter/mysql_fdw
+  - https://github.com/cnbird1999/mysql_fdw
+  - https://github.com/cossbow/mysql_fdw
+  - https://github.com/credativ/mysql_fdw
+  - https://github.com/cwsteinbach/mysql_fdw
+  - https://github.com/daamien/mysql_fdw
+  - https://github.com/davidfetter/mysql_fdw
+  - https://github.com/digoal/mysql_fdw
+  - https://github.com/dimitri/mysql_fdw
+  - https://github.com/dreamsxin/mysql_fdw
+  - https://github.com/eligoenergy/mysql_fdw
+  - https://github.com/fcce/mysql_fdw
+  - https://github.com/fclairamb/mysql_fdw
+  - https://github.com/francoisp/mysql_fdw
+  - https://github.com/gabbasb/mysql_fdw
+  - https://github.com/gaos1/mysql_fdw
+  - https://github.com/guanqingtao/mysql_fdw
+  - https://github.com/hmilkovi/mysql_fdw
+  - https://github.com/iTheLife/mysql_fdw
+  - https://github.com/ibarwick/mysql_fdw
+  - https://github.com/ibrarahmad/mysql_fdw
+  - https://github.com/isgasho/mysql_fdw
+  - https://github.com/jbeluch/mysql_fdw
+  - https://github.com/jellyhappy/mysql_fdw
+  - https://github.com/jjthiessen/mysql_fdw
+  - https://github.com/joshwilliams/mysql_fdw
+  - https://github.com/josselinphilippe/mysql_fdw
+  - https://github.com/jpohlmann/mysql_fdw
+    - https://github.com/EducationalMeasures/mysql_fdw
+  - https://github.com/kecheon/mysql_fdw
+  - https://github.com/kermeat/mysql_fdw
+  - https://github.com/kmrmshk/mysql_fdw
+  - https://github.com/kreynolds/mysql_fdw
+  - https://github.com/laal65/mysql_fdw
+  - https://github.com/li8033/mysql_fdw
+  - https://github.com/maqeel/mysql_fdw
+  - https://github.com/matterstech/mysql_fdw
+  - https://github.com/mhw/mysql_fdw
+  - https://github.com/mochizk/mysql_fdw
+  - https://github.com/mrendi29/mysql_fdw
+    - https://github.com/mwarren/mysql_fdw
+  - https://github.com/nicodemus/mysql_fdw
+  - https://github.com/no0p/mysql_fdw
+  - https://github.com/nyov/mysql_fdw
+  - https://github.com/pborne/mysql_fdw
+  - https://github.com/pgspider/mysql_fdw
+    - https://github.com/Takuma-Kinugawa9730/mysql_fdw
+    - https://github.com/khieuvm/mysql_fdw
+  - https://github.com/postgrespro/mysql_fdw
+    - https://github.com/akamajoris/mysql_fdw
+      - https://github.com/ubuntu-repo/mysql_fdw
+    - https://github.com/gridl/mysql_fdw
+  - https://github.com/pyhalov/mysql_fdw
+  - https://github.com/rads-io/mysql_fdw
+  - https://github.com/raphaelkong/mysql_fdw
+  - https://github.com/rclmenezes/mysql_fdw
+  - https://github.com/sahapasci/mysql_fdw
+  - https://github.com/sir-galahad/mysql_fdw
+  - https://github.com/snaga/mysql_fdw
+  - https://github.com/stillywud/mysql_fdw
+  - https://github.com/talentedunicorn/mysql_fdw
+  - https://github.com/tinydevcrm/mysql_fdw
+  - https://github.com/tom2jack/mysql_fdw
+  - https://github.com/travelpages/mysql_fdw
+  - https://github.com/vadirajks/mysql_fdw
+  - https://github.com/wadonga/mysql_fdw
+  - https://github.com/walnut-tom/mysql_fdw
+  - https://github.com/weilaizhou/mysql_fdw
+  - https://github.com/yecarrillo/mysql_fdw
+  - https://github.com/ywh1357/mysql_fdw_windows
+  - https://github.com/zerosign/mysql_fdw
+  - https://github.com/zhaoshiling1017/mysql_fdw
+- https://github.com/sangli00/nanomsgtopdb
+  - https://github.com/joe2hpimn/nanomsgtopdb
+  - https://github.com/skyformat99/nanomsgtopdb
+  - https://github.com/structure-charger/nanomsgtopdb
+- https://github.com/stereobooster/natural_sort-pgxn
+- https://github.com/sim51/neo4j-fdw
+  - https://github.com/a-mckinley/neo4j-fdw
+  - https://github.com/consultanttelecom/neo4j-fdw
+  - https://github.com/gyorfimi/neo4j-fdw
+  - https://github.com/jholtom-ciena/neo4j-fdw
+- https://github.com/nuko-yokohama/neo4j_fdw
+  - https://github.com/qhool/neo4j_fdw
+- https://github.com/ekayim/non_truncate
+- https://github.com/Chessbrain/NORM
+- https://github.com/ergo70/nseq
+- https://github.com/nuko-yokohama/ntext
+- https://github.com/cahutton/numeric_domains
+- https://github.com/tarkmeper/numpgsql
+- https://github.com/rongfengliang/nvl-pg-extension
+- https://github.com/rogerioacp/oblivpg_ftw
+- https://github.com/ZhengYang/odbc_fdw
+  - https://github.com/GeoffOs/odbc_fdw
+  - https://github.com/RicardoLastKiller/odbc_fdw
+  - https://github.com/bluthg/odbc_fdw
+    - https://github.com/CartoDB/odbc_fdw
+      - https://github.com/Algunenano/odbc_fdw
+      - https://github.com/OlderOne2S/odbc_fdw
+      - https://github.com/adunstan/odbc_fdw
+      - https://github.com/bacchuswng/odbc_fdw
+      - https://github.com/jacekrembisz/odbc_fdw
+      - https://github.com/mbona92/odbc_fdw
+      - https://github.com/mlt/odbc_fdw
+      - https://github.com/nhochdrei/odbc_fdw
+      - https://github.com/nikolaysu/odbc_fdw
+      - https://github.com/oss-spanish-geoserver/odbc_fdw
+      - https://github.com/pborne/odbc_fdw
+      - https://github.com/pmonster/odbc_fdw
+      - https://github.com/suishaojian/odbc_fdw
+      - https://github.com/ulfj/odbc_fdw
+      - https://github.com/waTeim/odbc_fdw
+    - https://github.com/matthieupeeters/odbc_fdw
+  - https://github.com/bpineau/odbc_fdw
+  - https://github.com/cinnion/odbc_fdw
+  - https://github.com/dmdm/odbc_fdw
+    - https://github.com/golgauth/odbc_fdw
+  - https://github.com/ethervoid/odbc_fdw
+  - https://github.com/geelweb/odbc_fdw
+  - https://github.com/jaitor1/odbc_fdw
+  - https://github.com/klando/odbc_fdw
+    - https://github.com/credativ/odbc_fdw
+  - https://github.com/pchaozhong/odbc_fdw
+  - https://github.com/philipedalla/odbc_fdw
+  - https://github.com/skyformat99/odbc_fdw
+  - https://github.com/tureba/odbc_fdw
+- https://github.com/hangzhou-cstech/odbc_fdw
+  - https://github.com/dlp-cwarren/odbc_fdw
+  - https://github.com/li8033/odbc_fdw
+- https://github.com/cybertec-postgresql/ora_migrator
+  - https://github.com/1newstar/ora_migrator
+  - https://github.com/Elias481/ora_migrator
+  - https://github.com/Lawrence-git/ora_migrator
+  - https://github.com/Schmaetz/pg_migrator
+  - https://github.com/askrana/ora_migrator
+  - https://github.com/blunney1/ora_migrator
+  - https://github.com/charan4599/ora_migrator
+  - https://github.com/dattatraya-nirmal/ora_migrator
+  - https://github.com/digoal/ora_migrator
+    - https://github.com/jampaniuday/ora_migrator
+  - https://github.com/joe2hpimn/ora_migrator
+  - https://github.com/shanmaa/ora_migrator
+  - https://github.com/sharmaanurag1984/ora_migrator
+  - https://github.com/shivakrishna-k/ora_migrator
+  - https://github.com/supitchayapat/ora_migrator
+  - https://github.com/the4thdoctor/ora_migrator
+  - https://github.com/zhuomingliang/ora_migrator
+- https://github.com/laurenz/oracle_fdw
+  - https://github.com/AlexanderAA/oracle_fdw
+  - https://github.com/AlexanderTolstoy/oracle_fdw
+  - https://github.com/Aljaz-S/oracle_fdw
+  - https://github.com/Chunters/oracle_fdw
+  - https://github.com/HaoxinSun/oracle_fdw
+  - https://github.com/HappySky2046/oracle_fdw
+  - https://github.com/JMLessard/oracle_fdw
+  - https://github.com/MikaMikuMik/oracle_fdw
+  - https://github.com/MikhailVolosevitch/oracle_fdw
+  - https://github.com/Morabaraba/oracle_fdw
+    - https://github.com/larryklean/oracle_fdw
+  - https://github.com/NETESOLUTIONS/oracle_fdw_read_committed
+  - https://github.com/OvermindDL1/oracle_fdw
+  - https://github.com/Postgres-Connect/oracledb_fdw
+  - https://github.com/RekGRpth/oracle_fdw
+  - https://github.com/Scotch2020/oracle_fdw
+  - https://github.com/SrdanD187/oracle_fdw
+  - https://github.com/TheNorthMemory/oracle_fdw
+  - https://github.com/ThinkJ001/oracle_fdw
+  - https://github.com/VENSCC/oracle_fdw
+  - https://github.com/Zuoxiaoxian/oracle_fdw
+  - https://github.com/adam8157/oracle_fdw_greenplum
+    - https://github.com/quentinliu/oracle_fdw_greenplum
+  - https://github.com/agent-ant/oracle_fdw
+  - https://github.com/andrey73594/oracle_fdw
+  - https://github.com/ashokraj/oracle_fdw
+  - https://github.com/awesomeDataTool/oracle_fdw
+  - https://github.com/awesomehimanshu/oracle_fdw
+  - https://github.com/bluesky4/oracle_fdw
+  - https://github.com/buke/oracle_fdw
+    - https://github.com/Tempfox/oracle_fdw
+    - https://github.com/ccdos/oracle_fdw
+    - https://github.com/homelink/oracle_fdw
+    - https://github.com/vnsofthe/oracle_fdw
+    - https://github.com/yanggg1133/oracle_fdw
+  - https://github.com/carlospg79/oracle_fdw
+  - https://github.com/chinahecom/oracle_fdw
+  - https://github.com/chrullrich/oracle_fdw
+  - https://github.com/csandor/oracle_fdw
+  - https://github.com/datadevopscloud/oracle_fdw
+  - https://github.com/decibel/oracle_fdw
+  - https://github.com/dkelsey/oracle_fdw
+  - https://github.com/dkkuzmin/oracle_fdw
+  - https://github.com/dlp-cwarren/oracle_fdw
+  - https://github.com/dreckard/oracle_fdw
+  - https://github.com/dszczyt/oracle_fdw
+  - https://github.com/e4x/oracle_fdw
+  - https://github.com/elbrusnt/oracle_fdw
+  - https://github.com/engaugusto/oracle_fdw
+  - https://github.com/eydunn/oracle_fdw
+  - https://github.com/farukerdm/oracle_fdw
+  - https://github.com/godouxm/oracle_fdw
+  - https://github.com/hanada/oracle_fdw-1
+  - https://github.com/hecomchenming/oracle_fdw
+  - https://github.com/hg/oracle_fdw
+  - https://github.com/higuchi-daisuke/oracle_fdw
+  - https://github.com/ibarwick/oracle_fdw
+  - https://github.com/istarling/oracle_fdw
+  - https://github.com/ivanlonel/oracle_fdw
+  - https://github.com/jab15pm/oracle_fdw
+  - https://github.com/jasonfantasia/oracle_fdw
+  - https://github.com/jeffery9/oracle_fdw
+  - https://github.com/jgilman99/oracle_fdw
+  - https://github.com/joe2hpimn/oracle_fdw
+  - https://github.com/jordiromera/oracle_fdw
+  - https://github.com/joysu01/oracle_fdw
+  - https://github.com/kato-sho/oracle_fdw
+  - https://github.com/kgtdbx/oracle_fdw
+  - https://github.com/lexacheck/oracle_fdw
+  - https://github.com/linuxsch/oracle_fdw
+  - https://github.com/lupynos/oracle_fdw
+  - https://github.com/mattzhangcode/oracle_fdw
+  - https://github.com/mohan-chinnappan-n/oracle_fdw
+  - https://github.com/mszens/oracle_fdw
+  - https://github.com/naginenisridhar/oracle_fdw
+  - https://github.com/neogis-de/oracle_fdw
+  - https://github.com/pborne/oracle_fdw
+  - https://github.com/pinkerltm/oracle_fdw
+  - https://github.com/prissilaaroul/oracle_fdw
+  - https://github.com/sahapasci/oracle_fdw
+  - https://github.com/snaga/oracle_fdw
+  - https://github.com/tang1997321/oracle_fdw
+  - https://github.com/thorpulse/oracle_fdw
+  - https://github.com/tom2jack/oracle_fdw
+  - https://github.com/tsxiaozi/oracle_fdw
+  - https://github.com/vaivk4/oracle_fdw
+  - https://github.com/vault/oracle_fdw
+  - https://github.com/vmora/oracle_fdw
+  - https://github.com/vpicavet/oracle_fdw
+  - https://github.com/wangxuqi/oracle_fdw
+  - https://github.com/wolfgangbrandl/oracle_fdw
+  - https://github.com/ww-it/oracle_fdw
+  - https://github.com/yamatattsu/oracle_fdw
+  - https://github.com/zekiyeaydemir/oracle_fdw
+- https://github.com/orafce/orafce
+  - https://github.com/FilipinOTech/orafce
+  - https://github.com/GanieLinn/orafce
+  - https://github.com/HarmonyAngel/orafce
+  - https://github.com/KinoSun/orafce
+  - https://github.com/Phil-Arena/orafce
+  - https://github.com/Tomohiro256/orafce
+  - https://github.com/WhiteCatmi/orafce
+  - https://github.com/a615549958/orafce
+  - https://github.com/a70/orafce
+  - https://github.com/abelhaouas/orafce
+  - https://github.com/adlisamy/orafce
+  - https://github.com/airduv/orafce
+  - https://github.com/ankitjhil/orafce
+  - https://github.com/asdliuquan/orafce
+  - https://github.com/athenafirst/orafce
+  - https://github.com/b-emerson/orafce
+  - https://github.com/cm8421/orafce
+  - https://github.com/credativ/orafce
+  - https://github.com/ctrlxc/orafce
+  - https://github.com/cybernetics/orafce
+  - https://github.com/d3v3l0/orafce
+  - https://github.com/danielgustafsson/orafce
+  - https://github.com/doropeza/orafce
+  - https://github.com/doytsujin/orafce
+  - https://github.com/dverite/orafce
+  - https://github.com/enmotech/orafce
+  - https://github.com/genisysram/orafce
+  - https://github.com/godouxm/orafce
+  - https://github.com/gridl/orafce
+  - https://github.com/higuchi-daisuke/orafce
+  - https://github.com/hiranp/orafce
+  - https://github.com/hotsmile/orafce
+  - https://github.com/hvbtup/orafce
+  - https://github.com/isgasho/orafce
+  - https://github.com/jamessewell/orafce
+  - https://github.com/joao-parana/orafce
+  - https://github.com/joe2hpimn/orafce
+  - https://github.com/kamfasage/orafce
+  - https://github.com/kato-sho/orafce
+  - https://github.com/kfuru/orafce
+  - https://github.com/kgtdbx/orafce
+  - https://github.com/kimyongyeon/orafce
+  - https://github.com/kommiharibabu/orafce
+  - https://github.com/kotsachin/orafce
+  - https://github.com/kshiroma/orafce
+  - https://github.com/linwanggm/orafce
+    - https://github.com/wanglinn/orafce
+  - https://github.com/liuyuanyuan/orafce
+  - https://github.com/lounismassinissa/orafce
+  - https://github.com/massimiliano76/orafce
+  - https://github.com/melanieplageman/orafce
+  - https://github.com/mminazek/orafce
+  - https://github.com/moses-sun/orafce
+  - https://github.com/myusufkaya/orafce
+  - https://github.com/naginenisridhar/orafce
+  - https://github.com/nasbyj/orafce
+  - https://github.com/okbob/orafce
+  - https://github.com/orakle/orafce
+  - https://github.com/pborne/orafce
+  - https://github.com/pcastillo-pcn/orafce
+  - https://github.com/peter-kutak/orafce
+  - https://github.com/petere/orafce
+  - https://github.com/prokel1000/orafce
+  - https://github.com/protodef/orafce
+  - https://github.com/qiuyuhang/orafce
+  - https://github.com/rahulmeshram/orafce
+  - https://github.com/rnz/orafce
+  - https://github.com/rodrigoieh/orafce
+  - https://github.com/scarbrofair/orafce
+  - https://github.com/sherlockcpp/orafce
+  - https://github.com/smkingsoft/orafce
+  - https://github.com/snzip/orafce
+  - https://github.com/spreadmesh/orafce
+  - https://github.com/sscotty71/orafce
+  - https://github.com/tide999/orafce
+  - https://github.com/tvesely/orafce
+  - https://github.com/valterfc/orafce
+  - https://github.com/vassterg/orafce
+  - https://github.com/vinnix/orafce
+  - https://github.com/vinpokale/orafce
+  - https://github.com/yangwenjie008/orafce
+  - https://github.com/yinlei168/orafce
+  - https://github.com/zflute/orafce
+  - https://github.com/zhdk123456/orafce
+  - https://github.com/zhihuiFan/orafce
+- https://github.com/gokhankici/orc_fdw
+  - https://github.com/digoal/orc_fdw
+  - https://github.com/joe2hpimn/orc_fdw
+  - https://github.com/pborne/orc_fdw
+- https://github.com/HighgoSoftware/orc_fdw
+  - https://github.com/EngineeredVirus/orc_fdw
+  - https://github.com/PGClients/orc_fdw
+  - https://github.com/datadevopscloud/orc_fdw
+- https://github.com/nextgres/oss-pgtsql
+- https://github.com/asio/otp
+  - https://github.com/GustavoDMS/otp
+  - https://github.com/Puzzlegold-SL/otp
+  - https://github.com/ajnsit/otp
+  - https://github.com/alexaron/otp
+  - https://github.com/healthstarconnectsllc/otp
+  - https://github.com/pyramation/otp
+  - https://github.com/zitsen/otp
+- https://github.com/hollobon/pagevis
+- https://github.com/tvondra/palloc_bench
+- https://github.com/danolivo/pargres
+  - https://github.com/rogeriofalcone/pargres
+- https://github.com/adjust/parquet_fdw
+  - https://github.com/MinhLA1410/parquet_fdw
+  - https://github.com/alexeyklyukin/parquet_fdw
+  - https://github.com/bigsql/parquet_fdw
+  - https://github.com/datadevopscloud/parquet_fdw
+  - https://github.com/hpolonskaya/parquet_fdw
+  - https://github.com/mengjin001/parquet_fdw
+  - https://github.com/min-mwei/parquet_fdw
+  - https://github.com/remilapeyre/parquet_fdw
+  - https://github.com/swarm64/parquet_fdw
+  - https://github.com/tinydevcrm/parquet_fdw
+  - https://github.com/yjhjstz/parquet_fdw
+- https://github.com/tai/parquet_fdw
+- https://github.com/theirix/parray_gin
+  - https://github.com/dreamsxin/parray_gin
+  - https://github.com/jeffjanes/parray_gin
+  - https://github.com/kliberty/parray_gin
+- https://github.com/dturon/partman_to_cstore
+  - https://github.com/emacsway/partman_to_cstore
+  - https://github.com/onderkalaci/partman_to_cstore
+- https://github.com/beargiles/passwd-fdw
+  - https://github.com/CC-Hsu/passwd-fdw
+- https://github.com/asio/password
+- https://github.com/eendroroy/passwordpolicy
+- https://github.com/funbringer/pathman_sharding
+  - https://github.com/gridl/pathman_sharding
+- https://github.com/xocolatl/periods
+  - https://github.com/ariciputi/periods
+  - https://github.com/credativ/periods
+  - https://github.com/dineshks1/periods
+  - https://github.com/emrul/periods
+  - https://github.com/eryx67/periods
+  - https://github.com/gridl/periods
+  - https://github.com/mlt/periods
+  - https://github.com/runejuhl/periods
+- https://github.com/dverite/permuteseq
+- https://github.com/posix4e/petstore-jsoncdc
+- https://github.com/adjust/pg-ajversion
+- https://github.com/m-martinez/pg-audit-json
+  - https://github.com/cipinistor/pg-audit-json
+  - https://github.com/davidmote/pg-audit-json
+  - https://github.com/guoyu07/pg-audit-json
+  - https://github.com/theleague/pg-audit-json
+  - https://github.com/westrac/pg-audit-json
+  - https://github.com/zaucker/pg-audit-json
+- https://github.com/craigbranscom/pg-biguint
+- https://github.com/paroga/pg-cbor
+- https://github.com/truthly/pg-cbor
+- https://github.com/beargiles/pg-cert
+- https://github.com/NCarson/pg-chessboard
+- https://github.com/zejn/pg-colors
+- https://github.com/beargiles/pg-complex
+  - https://github.com/iCyberon/pg-complex
+- https://github.com/adjust/pg-country
+- https://github.com/adjust/pg-currency
+  - https://github.com/emrul/pg-currency
+  - https://github.com/ruchevits/pg-currency
+- https://github.com/bjeanes/pg-dataclips
+- https://github.com/adjust/pg-device_type
+  - https://github.com/min-mwei/pg-device_type
+- https://github.com/ratbox/pg-digest
+  - https://github.com/samgaw-archive/pg-digest
+- https://github.com/ameensol/pg-ecdsa
+  - https://github.com/mikalv/pg-ecdsa
+  - https://github.com/truthly/pg-ecdsa
+- https://github.com/pborne/pg-file-fdw-gds
+- https://github.com/hooopo/pg-fuzzywuzzy
+- https://github.com/scottjustin5000/pg-gcd
+- https://github.com/adjust/pg-geoip2lookup
+- https://github.com/theory/pg-hash64
+- https://github.com/theory/pg-hostname
+  - https://github.com/ahrstrom/pg-hostname
+  - https://github.com/klando/pg-hostname
+- https://github.com/claesjac/pg-json
+  - https://github.com/theory/pg-json
+- https://github.com/choplin/pg-jsonpath
+- https://github.com/adjust/pg-language
+- https://github.com/blm768/pg-libnumbertext
+- https://github.com/blm768/pg-libphonenumber
+  - https://github.com/EvanCarroll/pg-libphonenumber
+  - https://github.com/debackerl/pg-libphonenumber
+  - https://github.com/hummans/pg-libphonenumber
+  - https://github.com/photz/pg-libphonenumber
+- https://github.com/scottjustin5000/pg-median
+- https://github.com/Jacob-Kroeze/pg-message-queue
+- https://github.com/rpdelaney/pg-message-queue
+  - https://github.com/isgasho/pg-message-queue
+  - https://github.com/kingxsp/pg-message-queue
+- https://github.com/rodolfodpk/pg-message-queue
+- https://github.com/dalbani/pg-modeshape-bson
+- https://github.com/adjust/pg-mvtbl
+- https://github.com/adjust/pg-numhstore
+  - https://github.com/antpas14/pg-numhstore
+  - https://github.com/min-mwei/pg-numhstore
+- https://github.com/beargiles/pg-openssl
+- https://github.com/adjust/pg-os_name
+- https://github.com/wulczer/pg-progress
+  - https://github.com/mickpah/pg-progress
+- https://github.com/trlorenz/PG-recursively_delete
+- https://github.com/sbertrang/pg-ruid
+- https://github.com/sylvainv/pg-salesforce-id
+- https://github.com/mgit-at/pg-semver-debian
+  - https://github.com/lechner/pg-semver-debian
+- https://github.com/arunchaganty/pg-span
+- https://github.com/andy128k/pg-sphinx
+  - https://github.com/221V/pg-sphinx
+  - https://github.com/capomafiosoken/pg-sphinx
+  - https://github.com/dmitry-fomin/pg-sphinx
+    - https://github.com/Sinvit/pg-sphinx
+  - https://github.com/dtowell/pg-sphinx
+  - https://github.com/k2fl/pg-sphinx
+  - https://github.com/mche/pg-sphinx
+  - https://github.com/myscode/homebrew-pg-sphinx
+  - https://github.com/rnz/pg-sphinx
+- https://github.com/gmr/pg-statsd
+- https://github.com/heterodb/pg-strom
+  - https://github.com/0-kaz/pg-strom
+  - https://github.com/AIRacks/pg-strom
+  - https://github.com/BigDataStudying/pg-strom
+  - https://github.com/Diversantos/pg-strom
+  - https://github.com/Fibird/pg-strom
+  - https://github.com/GeospatialMax/pg-strom
+  - https://github.com/IllusiveMilkman/pg-strom
+  - https://github.com/Likes123/pg-strom
+  - https://github.com/PhillCli/pg-strom
+  - https://github.com/ServiceFoundation/pg-strom
+  - https://github.com/ShifengQiu/pg-strom
+  - https://github.com/SlowBroshka/pg-strom
+  - https://github.com/TheFrancisHe/pg-strom
+  - https://github.com/XJTUeducation/pg-strom
+  - https://github.com/ablimit/devel
+  - https://github.com/aeischeid/devel
+  - https://github.com/akerimyildiz94/pg-strom
+  - https://github.com/bdrouvot/pg-strom
+  - https://github.com/charles-achilefu/pg-strom
+  - https://github.com/chinaworld/pg-strom
+  - https://github.com/cybernetics/pg-strom
+  - https://github.com/datadevopscloud/pg-strom
+  - https://github.com/davidfetter/devel
+  - https://github.com/dfrsg/devel
+  - https://github.com/exialin/pg-strom
+  - https://github.com/ezhangle/devel
+  - https://github.com/fnet123/devel
+  - https://github.com/francoisp/devel
+  - https://github.com/gridl/pg-strom
+  - https://github.com/hellomokey/pg-strom
+  - https://github.com/heloufir/pg-strom
+  - https://github.com/hephaex/pg-strom
+  - https://github.com/hufh/pg-strom
+  - https://github.com/imbalhr/pg-strom
+  - https://github.com/isgasho/pg-strom
+  - https://github.com/jcuric/pg-strom
+  - https://github.com/jinchung/pg-strom
+  - https://github.com/jxpenglin/pg-strom
+  - https://github.com/kuncao/pg-strom
+  - https://github.com/kyawkyaw/pg-strom
+  - https://github.com/lailuboy/pg-strom
+  - https://github.com/louiekang/pg-strom
+  - https://github.com/maesbri-forks-geo/pg-strom
+  - https://github.com/mahairod/pg-strom
+  - https://github.com/marcocitus/pg-strom
+  - https://github.com/mengjin001/pg-strom
+  - https://github.com/min-mwei/pg-strom
+  - https://github.com/myfreebrain/pg-strom
+  - https://github.com/neuroradiology/devel
+  - https://github.com/noprogramnolife/pg-strom
+  - https://github.com/npk/devel
+  - https://github.com/olleolleolle/pg-strom
+  - https://github.com/onlyindreams/debug_strom
+  - https://github.com/pciolkosz/pg-strom
+  - https://github.com/pickou/pg-strom
+  - https://github.com/qiuwenhuifx/pg-strom
+  - https://github.com/ralic/pg-strom
+  - https://github.com/resaku/pg-strom
+  - https://github.com/respu/devel
+  - https://github.com/roche-k/pg-strom
+  - https://github.com/shaunstoltz/pg-strom
+  - https://github.com/shunelean/pg-strom
+  - https://github.com/silverist/devel
+  - https://github.com/simonzhangsm/pg-strom
+  - https://github.com/simple1110/pg-strom
+  - https://github.com/stalkerg/devel
+  - https://github.com/stvhanna/pg-strom
+  - https://github.com/sxhao/devel
+  - https://github.com/syyunn/pg-strom
+  - https://github.com/talfirevic/devel
+  - https://github.com/tinydevcrm/pg-strom
+  - https://github.com/titawork/pg-strom
+  - https://github.com/ujangja/pg-strom
+  - https://github.com/vseledkin/pg-strom
+  - https://github.com/wenqzheng/pg-strom
+  - https://github.com/xpcom-bsd/pg-strom
+  - https://github.com/zhoukong/devel
+  - https://github.com/zhoutianzi666/pg-strom
+  - https://github.com/zxdvd/pg-strom
+- https://github.com/scottjustin5000/pg-sum-array
+- https://github.com/adjust/pg-telemetry
+  - https://github.com/alexeyklyukin/pg-telemetry
+  - https://github.com/archenroot/pg-telemetry
+  - https://github.com/emrul/pg-telemetry
+  - https://github.com/isgasho/pg-telemetry
+- https://github.com/RhodiumToad/pg-toastutils
+- https://github.com/ahmetkucuk/pg-trajectory
+  - https://github.com/FxKu/pg-trajectory
+- https://github.com/einhverfr/pg-trumpet
+- https://github.com/edoceo/pg-ulid
+- https://github.com/ancoron/pg-uuid-ext
+- https://github.com/ancoron/pg-uuid-int32
+- https://github.com/ancoron/pg-uuid-int64
+- https://github.com/truthly/pg-webauthn
+- https://github.com/gciolli/pg2podg
+- https://github.com/abris-platform/pg_abris
+- https://github.com/papercompute/pg_acce
+- https://github.com/acoustid/pg_acoustid
+- https://github.com/mikeizbicki/pg_agg
+- https://github.com/jwdeitch/pg_agg_sample
+- https://github.com/kostiantyn-nemchenko/pg_algorithms
+- https://github.com/rlichtenwalter/pg_array_multi_index
+- https://github.com/RekGRpth/pg_async
+- https://github.com/ttfkam/pg_audit
+- https://github.com/disqus/pg_audit
+  - https://github.com/davidfetter/pg_audit
+  - https://github.com/pombredanne/pg_audit
+  - https://github.com/thekashifmalik/pg_audit
+- https://github.com/alexandersamoylov/pg_audit_tools
+- https://github.com/kouber/pg_auditor
+- https://github.com/RafiaSabih/pg_auth_mon
+  - https://github.com/CyberDem0n/pg_auth_mon
+  - https://github.com/GanieLinn/pg_auth_mon
+- https://github.com/adunstan/pg_b64enc_rust
+- https://github.com/vibhorkum/pg_background
+  - https://github.com/JimFAmazon/pg_background
+  - https://github.com/RekGRpth/pg_background
+    - https://github.com/svorcmar/pg_background
+  - https://github.com/agnosy/pg_background
+  - https://github.com/andrei-by/pg_background
+  - https://github.com/bdrouvot/pg_background
+  - https://github.com/corporatepiyush/pg_background
+  - https://github.com/dfcsoftware/pg_background
+  - https://github.com/egor-rogov/pg_background
+  - https://github.com/fb-datax/pg_background
+  - https://github.com/geowyck/pg_background
+  - https://github.com/guanqingtao/pg_background
+  - https://github.com/kalebscholes/pg_background
+  - https://github.com/michaelhyun/pg_background
+  - https://github.com/min-mwei/pg_background
+  - https://github.com/rjuju/pg_background
+  - https://github.com/sureshyadav1981/pg_background
+  - https://github.com/tinyAdapter/pg_background
+  - https://github.com/wind39/pg_background
+  - https://github.com/zcaudate/pg_background
+- https://github.com/postgrespro/pg_backtrace
+  - https://github.com/klando/pg_backtrace
+  - https://github.com/min-mwei/pg_backtrace
+- https://github.com/trustly/pg_badplan
+  - https://github.com/hunleyd/pg_badplan
+  - https://github.com/kostiantyn-nemchenko/pg_badplan
+  - https://github.com/legrandlegrand/pg_badplan
+  - https://github.com/turgs/pg_badplan
+- https://github.com/pgbigm/pg_bigm
+  - https://github.com/liubiaoyong/pg_bigm
+  - https://github.com/shinyaaa/pg_bigm
+- https://github.com/MasahikoSawada/pg_bigm
+- https://github.com/kou/pg_bigm
+- https://github.com/aotake/pg_bigm-masahiko
+- https://github.com/tomhebbron/pg_bitstring_helpers
+- https://github.com/blkchain/pg_blkchain
+  - https://github.com/BIAOXYZ/pg_blkchain
+  - https://github.com/Bardo1/pg_blkchain
+  - https://github.com/BenJamesbabala/pg_blkchain
+  - https://github.com/aihua/bitcoin-pg_blkchain
+  - https://github.com/biswajitsahu/pg_blkchain
+  - https://github.com/da-edra/pg_blkchain
+  - https://github.com/fi-ecavc/pg_blkchain
+  - https://github.com/intfrr/pg_blkchain
+  - https://github.com/martindale/pg_blkchain
+  - https://github.com/michaelwalkerfl/pg_blkchain
+  - https://github.com/mikalv/pg_blkchain
+  - https://github.com/number0/pg_blkchain
+  - https://github.com/wenqzheng/pg_blkchain
+- https://github.com/cosmic-jc/pg_block_join
+- https://github.com/nuko-yokohama/pg_block_systemcatalog
+- https://github.com/s-hironobu/pg_bman
+  - https://github.com/ifei76/pg_bman
+- https://github.com/rdunklau/pg_bofh
+  - https://github.com/rodo/pg_bofh
+- https://github.com/nmandery/pg_byteamagic
+  - https://github.com/erdincay/pg_byteamagic
+- https://github.com/ozum/pg_cache_tree
+- https://github.com/itarient/pg_calcpi
+- https://github.com/aquametalabs/pg_catalog_get_defs
+- https://github.com/MasahikoSawada/pg_cgroup
+  - https://github.com/GanieLinn/pg_cgroup
+  - https://github.com/joe2hpimn/pg_cgroup
+- https://github.com/MasaoFujii/pg_cheat_funcs
+  - https://github.com/NemoAA/pg_cheat_funcs
+  - https://github.com/bdrouvot/pg_cheat_funcs
+  - https://github.com/blunney1/pg_cheat_funcs
+  - https://github.com/digoal/pg_cheat_funcs
+    - https://github.com/iceplumblossom/pg_cheat_funcs
+  - https://github.com/herobigdata2099/pg_cheat_funcs
+  - https://github.com/kasaharatt/pg_cheat_funcs
+  - https://github.com/petergeoghegan/pg_cheat_funcs
+  - https://github.com/shvechikov/pg_cheat_funcs
+  - https://github.com/zjtheone/pg_cheat_funcs
+- https://github.com/tvondra/pg_check
+  - https://github.com/RuslanAyupov/pg_check
+  - https://github.com/brunolight/pg_check
+  - https://github.com/davkrause/pg_check
+  - https://github.com/ecalvo-palominodb/pg_check
+  - https://github.com/fabriziomello/pg_check
+  - https://github.com/fdr/pg_check
+  - https://github.com/gerdansantos/pg_check
+  - https://github.com/gurjeet/pg_check
+  - https://github.com/iapilgrim/pg_check
+  - https://github.com/ljhanson/pg_check
+  - https://github.com/snake404/pg_check
+  - https://github.com/subhankarc/pg_check
+  - https://github.com/zwily/pg_check
+- https://github.com/sshutdownow/pg_check-chap-md5
+  - https://github.com/RekGRpth/pg_check-chap-md5
+- https://github.com/sangli00/pg_checkdestroy
+  - https://github.com/aStonegod/pg_checkdestroy
+- https://github.com/huangjimmy/pg_cjk_parser
+  - https://github.com/alx696/pg_cjk_parser
+  - https://github.com/freewizard/pg_cjk_parser
+- https://github.com/ccutrer/pg_collkey
+- https://github.com/byucesoy/pg_color
+  - https://github.com/onderkalaci/pg_color
+- https://github.com/snaiffer/pg_compress
+- https://github.com/fdr/pg_connlimit
+- https://github.com/ttfkam/pg_content_utils
+- https://github.com/MasaoFujii/pg_control_priority
+- https://github.com/segasai/pg_coordconvert
+- https://github.com/s-hironobu/pg_crash
+- https://github.com/cybertec-postgresql/pg_crash
+- https://github.com/davidcrawford/pg_crasher
+  - https://github.com/metdos/pg_crasher
+- https://github.com/citusdata/pg_cron
+  - https://github.com/Airconaaron/pg_cron
+  - https://github.com/Artielkami/pg_cron
+  - https://github.com/BlackhawkElectronics/pg_cron
+  - https://github.com/CyberDem0n/pg_cron
+  - https://github.com/Godwottery/pg_cron
+  - https://github.com/QPanWeb/DB_RDB-pg_cron
+  - https://github.com/RekGRpth/pg_cron
+  - https://github.com/SalesUpHQ/pg_cron
+  - https://github.com/Shados/pg_cron
+  - https://github.com/Sirius0301/pg_cron
+  - https://github.com/Voipfuture-GmbH/pg_cron
+  - https://github.com/abarbare/pg_cron
+  - https://github.com/adroaldopagliari/pg_cron
+  - https://github.com/alexeyklyukin/pg_cron
+  - https://github.com/anikin-aa/pg_cron
+  - https://github.com/ar45/pg_cron
+  - https://github.com/attilaaf/pg_cron
+  - https://github.com/ayaheka/pg_cron
+  - https://github.com/bjne/pg_cron
+  - https://github.com/blocky2019/pg_cron
+  - https://github.com/blunney1/pg_cron
+  - https://github.com/bnosac-dev/pg_cron
+  - https://github.com/bookvik/pg_cron
+  - https://github.com/bossartn/pg_cron
+  - https://github.com/cdock1029/pg_cron
+  - https://github.com/credativ/pg_cron
+  - https://github.com/cybernetics/pg_cron
+  - https://github.com/cybertec-postgresql/pg_cron
+  - https://github.com/desiderantes/pg_cron
+  - https://github.com/dreamsxin/pg_cron
+  - https://github.com/dverite/pg_cron
+  - https://github.com/efremropelato/pg_cron
+  - https://github.com/emrul/pg_cron
+  - https://github.com/fluca1978/pg_cron
+    - https://github.com/SamiLekesiz/pg_cron
+  - https://github.com/freeart/pg_cron
+  - https://github.com/gavrik/pg_cron
+  - https://github.com/grameshshankar/pg_cron
+  - https://github.com/greenygh0st/pg_cron
+  - https://github.com/hfsnetbr/pg_cron
+  - https://github.com/hmilkovi/pg_cron
+  - https://github.com/ibrarahmad/pg_cron
+  - https://github.com/isgasho/pg_cron
+  - https://github.com/joe2hpimn/pg_cron
+  - https://github.com/just-doit/pg_cron
+  - https://github.com/kagis/pg_cron
+  - https://github.com/keithf4/pg_cron
+  - https://github.com/kgtdbx/pg_cron
+  - https://github.com/konduktor4ik/pg_cron
+  - https://github.com/l-we/pg_cron
+  - https://github.com/laurenz/pg_cron
+    - https://github.com/ubuntu-repo/pg_cron
+  - https://github.com/mcaramma/pg_cron
+  - https://github.com/mesutaydemir/pg_cron
+  - https://github.com/michaelhyun/pg_cron
+  - https://github.com/michelp/pg_cron
+  - https://github.com/min-mwei/pg_cron
+  - https://github.com/mobistor/pg_cron
+  - https://github.com/nasbyj/pg_cron
+  - https://github.com/navneetgupta/pg_cron
+  - https://github.com/newbiecihuy/pg_cron
+  - https://github.com/nxz91/pg_cron
+  - https://github.com/pasqal/pg_cron
+  - https://github.com/pawsuch/pg_cron
+  - https://github.com/ponach/pg_cron
+  - https://github.com/rogerslynch/pg_cron
+  - https://github.com/rogervaas/pg_cron
+  - https://github.com/serprex/pg_cron
+  - https://github.com/sheroz/pg_cron
+  - https://github.com/shrikarvk/pg_cron
+  - https://github.com/siesteven/pg_cron
+  - https://github.com/silentnull/pg_cron
+  - https://github.com/simhaonline/pg_cron
+  - https://github.com/skyformat99/pg_cron
+  - https://github.com/smile689/pg_cron
+  - https://github.com/suryatmodulus/pg_cron
+  - https://github.com/syyunn/pg_cron
+  - https://github.com/timgates42/pg_cron
+  - https://github.com/tinydevcrm/pg_cron
+  - https://github.com/vagnerdev/pg_cron
+  - https://github.com/webcore-no/pg_cron
+  - https://github.com/wenqzheng/pg_cron
+  - https://github.com/wiltonlazary/pg_cron
+  - https://github.com/wwalda/pg_cron
+  - https://github.com/zhuomingliang/pg_cron
+  - https://github.com/zpzhao/pg_cron
+- https://github.com/samber/pg_cron
+- https://github.com/adjust/pg_cryogen
+  - https://github.com/min-mwei/pg_cryogen
+- https://github.com/RekGRpth/pg_curl
+  - https://github.com/dai-yamashita/pg_curl
+- https://github.com/ozum/pg_datatype_password
+- https://github.com/ossc-db/pg_dbms_stats
+  - https://github.com/anikin-aa/pg_dbms_stats
+  - https://github.com/higuchi-daisuke/pg_dbms_stats
+  - https://github.com/kato-sho/pg_dbms_stats
+  - https://github.com/smkingsoft/pg_dbms_stats
+  - https://github.com/vinpokale/pg_dbms_stats
+  - https://github.com/yamatattsu/pg_dbms_stats
+- https://github.com/pgcodekeeper/pg_dbo_timestamp
+- https://github.com/japinli/pg_dbsm
+- https://github.com/alexandersamoylov/pg_dbwa
+- https://github.com/frost242/pg_decode_infomask
+- https://github.com/min-mwei/pg_digests
+- https://github.com/dsarafan/pg_dirty_hands
+  - https://github.com/x4m/pg_dirty_hands
+- https://github.com/df7cb/pg_dirtyread
+  - https://github.com/RekGRpth/pg_dirtyread
+  - https://github.com/davieduardo94/pg_dirtyread
+  - https://github.com/dthadi3/pg_dirtyread
+  - https://github.com/forexblog/pg_dirtyread
+  - https://github.com/jlentini/pg_dirtyread
+  - https://github.com/jxcorra/pg_dirtyread
+  - https://github.com/kuang17/pg_dirtyread
+  - https://github.com/qiuwenhuifx/pg_dirtyread
+  - https://github.com/seranov/pg_dirtyread
+  - https://github.com/sminebu/pg_dirtyread
+  - https://github.com/stradaaccellog/pg_dirtyread
+  - https://github.com/wind39/pg_dirtyread
+- https://github.com/VladimirMikhailov/pg_dirtyread
+- https://github.com/abris-platform/pg_dms
+- https://github.com/keithf4/pg_doc_store
+- https://github.com/rjuju/pg_dropbuffers
+  - https://github.com/bdrouvot/pg_dropbuffers
+- https://github.com/zilder/pg_dropcache
+  - https://github.com/AnthonyMastrean/pg_dropcache
+  - https://github.com/min-mwei/pg_dropcache
+  - https://github.com/skyformat99/pg_dropcache
+- https://github.com/postgrespro/pg_dtm
+  - https://github.com/Shyran-Systems/pg_dtm
+  - https://github.com/gridl/pg_dtm
+  - https://github.com/min-mwei/pg_dtm
+  - https://github.com/nagyist/pg_dtm
+- https://github.com/kelvich/pg_dtm
+- https://github.com/k0001/pg_ed25519
+- https://github.com/gerdansantos/pg_elephant
+- https://github.com/ergo70/pg_etag
+- https://github.com/akira-tech/pg_ext_JiraRestClient
+- https://github.com/alexandersamoylov/pg_eyes
+- https://github.com/enova/pg_fact_loader
+  - https://github.com/bearsdave/pg_fact_loader
+  - https://github.com/chicagomikee/pg_fact_loader
+  - https://github.com/credativ/pg_fact_loader
+  - https://github.com/jfinzel/pg_fact_loader
+  - https://github.com/vipgh0828/pg_fact_loader
+- https://github.com/MasaoFujii/pg_fallback_utf8_to_euc_jp
+- https://github.com/d-e-n-t-y/pg_fdw_mv_rewrite
+- https://github.com/ligurio/pg_feedback
+- https://github.com/intgr/pg_financial
+- https://github.com/jasonmp85/pg_fiu
+- https://github.com/lemoineat/pg_fkpart
+- https://github.com/MasahikoSawada/pg_foobar
+- https://github.com/ttfkam/pg_formatbase
+- https://github.com/nuko-yokohama/pg_fraction
+- https://github.com/adauhr/pg_frapi
+- https://github.com/lawrencejones/pg_frozen
+- https://github.com/romgrk/pg_fzy
+- https://github.com/ttfkam/pg_geekspeak
+- https://github.com/ttfkam/pg_geekspeak_calendar
+- https://github.com/pindlebot/pg_gen_uid
+- https://github.com/rlichtenwalter/pg_genotype
+- https://github.com/jistok/pg_geohash
+  - https://github.com/jabastien/pg_geohash
+- https://github.com/siose-innova/pg_geohash_extra
+- https://github.com/ttfkam/pg_geoip
+- https://github.com/pgsentinel/pg_get_queryid
+- https://github.com/postgrespro/pg_grab_statement
+  - https://github.com/gridl/pg_grab_statement
+  - https://github.com/slaykovsky/pg_grab_statement
+- https://github.com/shereshevsky/pg_grants_manager
+  - https://github.com/kylehamilton/pg_grants_manager
+- https://github.com/RekGRpth/pg_grpc
+- https://github.com/ferndalehall/pg_gsl
+  - https://github.com/andytango/pg_gsl
+- https://github.com/iCyberon/pg_hashids
+  - https://github.com/EvanCarroll/pg_hashids
+  - https://github.com/JaredReisinger/pg_hashids
+  - https://github.com/RekGRpth/pg_hashids
+  - https://github.com/andreaaizza/pg_hashids
+  - https://github.com/andy9775/pg_hashids
+  - https://github.com/bcb/pg_hashids
+  - https://github.com/croisieres/pg_hashids
+  - https://github.com/emrul/pg_hashids
+  - https://github.com/joe2hpimn/pg_hashids
+  - https://github.com/monstrs/pg_hashids
+  - https://github.com/mudrz/pg_hashids
+  - https://github.com/rkgrep/pg_hashids
+  - https://github.com/softvisio/pg_hashids
+  - https://github.com/wind39/pg_hashids
+- https://github.com/turnstep/pg_healer
+  - https://github.com/NemoAA/pg_healer
+  - https://github.com/blunney1/pg_healer
+  - https://github.com/jdatcmd/pg_healer
+  - https://github.com/robins/pg_healer
+- https://github.com/segasai/pg_healpix
+  - https://github.com/ongres/pg_healpix
+  - https://github.com/xx70235/pg_healpix
+- https://github.com/magnusp/pg_hello
+- https://github.com/mrnugget/pg_hello_world
+- https://github.com/ossc-db/pg_hint_plan
+  - https://github.com/20hyun/pg_hint_plan
+  - https://github.com/Anisimov-ds/pg_hint_plan
+  - https://github.com/Fzhlib/pg_hint_plan
+  - https://github.com/JiangGuiqing/pg_hint_plan
+  - https://github.com/LittleWuCoding/pg_hint_plan
+  - https://github.com/LucyLikeMilk/pg_hint_plan
+  - https://github.com/Nathaniel-Han/pg_hint_plan
+  - https://github.com/YoncaBilisim/pg_hint_plan
+  - https://github.com/bboad/pg_hint_plan
+    - https://github.com/kgtdbx/pg_hint_plan
+  - https://github.com/digoal/pg_hint_plan
+  - https://github.com/egashira-yusuke/pg_hint_plan
+  - https://github.com/guanqingtao/pg_hint_plan
+  - https://github.com/higuchi-daisuke/pg_hint_plan
+  - https://github.com/isgasho/pg_hint_plan
+  - https://github.com/ivc-inform/pg_hint_plan
+  - https://github.com/jk-shah/pg_hint_plan
+  - https://github.com/k-fujii84/pg_hint_plan
+  - https://github.com/kato-sho/pg_hint_plan
+  - https://github.com/kayform/pg_hint_plan
+  - https://github.com/mikecaat/pg_hint_plan
+  - https://github.com/parimarjan/pg_hint_plan
+  - https://github.com/patibandlakoshal/pg_hint_plan
+  - https://github.com/protodef/pg_hint_plan
+  - https://github.com/qiuwenhuifx/pg_hint_plan
+  - https://github.com/rattrayalex/pg_hint_plan
+  - https://github.com/reshke/pg_hint_plan
+  - https://github.com/robins/pg_hint_plan
+  - https://github.com/rogeriofalcone/pg_hint_plan
+  - https://github.com/sherlockcpp/pg_hint_plan
+  - https://github.com/viewpnt/pg_hint_plan
+  - https://github.com/vinnix/pg_hint_plan
+  - https://github.com/xzilla/pg_hint_plan
+  - https://github.com/yamatattsu/pg_hint_plan
+  - https://github.com/yang-rong-0814/pg_hint_plan
+  - https://github.com/yydzero/pg_hint_plan
+  - https://github.com/za-arthur/pg_hint_plan
+  - https://github.com/zhuomingliang/pg_hint_plan
+  - https://github.com/ziva777/pg_hint_plan
+- https://github.com/segasai/pg_hist
+- https://github.com/eugwne/pg_hook_lj
+- https://github.com/RekGRpth/pg_htmldoc
+- https://github.com/cohenjo/pg_idx_advisor
+  - https://github.com/JerrySievert/pg_idx_advisor
+  - https://github.com/godouxm/pg_idx_advisor
+  - https://github.com/hailanwhu/pg_idx_advisor
+  - https://github.com/isgasho/pg_idx_advisor
+  - https://github.com/mjbommar/pg_idx_advisor
+  - https://github.com/morezig/pg_idx_advisor
+  - https://github.com/scw/pg_idx_advisor
+  - https://github.com/zhuomingliang/pg_idx_advisor
+- https://github.com/dbaston/pg_implicit_schema
+  - https://github.com/RekGRpth/pg_implicit_schema
+- https://github.com/rlichtenwalter/pg_imputed_genotype
+- https://github.com/eulerto/pg_inet_addr
+  - https://github.com/RekGRpth/pg_inet_addr
+- https://github.com/citusdata/pg_intpair
+  - https://github.com/RekGRpth/pg_intpair
+  - https://github.com/heap/pg_intpair
+  - https://github.com/timothyandrew/pg_intpair
+  - https://github.com/wiltonlazary/pg_intpair
+- https://github.com/philwinn/pg_jit
+- https://github.com/michelmilezzi/pg_job_queue
+- https://github.com/omniti-labs/pg_jobmon
+  - https://github.com/AntonKhitrovArammeem/pg_jobmon
+  - https://github.com/HydroLogic/pg_jobmon
+  - https://github.com/denishpatel/pg_jobmon
+  - https://github.com/filipposc5/pg_jobmon
+  - https://github.com/gavioto/pg_jobmon
+  - https://github.com/isgasho/pg_jobmon
+  - https://github.com/keithf4/pg_jobmon
+  - https://github.com/needtushar/pg_jobmon
+  - https://github.com/onlight/pg_jobmon
+  - https://github.com/simudream/pg_jobmon
+- https://github.com/dgillis/pg_json_query
+- https://github.com/asotolongo/pg_json_utils
+  - https://github.com/gbitgit/pg_json_utils
+- https://github.com/glynastill/pg_jsonb_opx
+- https://github.com/slardiere/pg_jsonpatch
+  - https://github.com/kerwinzxc/pg_jsonpatch
+  - https://github.com/stvhanna/pg_jsonpatch
+- https://github.com/xstevens/pg_kafka
+  - https://github.com/JumboInteractiveLimited/pg_kafka
+  - https://github.com/TheFrancisHe/pg_kafka
+  - https://github.com/ZonarSystems/pg_kafka
+  - https://github.com/bishtgayatri/pg_kafka
+  - https://github.com/czhao0378/pg_kafka
+  - https://github.com/darry2015/pg_kafka
+  - https://github.com/echmel/pg_kafka
+  - https://github.com/henrytseng/pg_kafka
+  - https://github.com/joe2hpimn/pg_kafka
+  - https://github.com/kgtdbx/pg_kafka
+  - https://github.com/maparent/pg_kafka
+  - https://github.com/parsnips/pg_kafka
+  - https://github.com/pkoyani/pg_kafka
+  - https://github.com/shangshujie365/pg_kafka
+  - https://github.com/zhaoshiling1017/pg_kafka
+- https://github.com/alaisi/pg_kafka_events
+  - https://github.com/skyformat99/pg_kafka_events
+  - https://github.com/xkr47/pg_kafka_events
+- https://github.com/kmblack1/pg_kmcb
+- https://github.com/siose-innova/pg_landmetrics
+  - https://github.com/BorjaZ/pg_landmetrics
+  - https://github.com/allixender/pg_landmetrics
+  - https://github.com/andrearosado/pg_landmetrics
+  - https://github.com/quommit/pg_landmetrics
+- https://github.com/RhodiumToad/pg_lextest
+- https://github.com/funbringer/pg_linegazer
+  - https://github.com/gridl/pg_linegazer
+  - https://github.com/milesrichardson/pg_linegazer
+  - https://github.com/skyformat99/pg_linegazer
+- https://github.com/adjust/pg_lock_pool
+  - https://github.com/min-mwei/pg_lock_pool
+- https://github.com/pierreforstmann/pg_log_statements
+- https://github.com/logplex/pg_logfebe
+  - https://github.com/heroku/pg_logfebe
+- https://github.com/logplex/pg_logfebe-debian
+  - https://github.com/heroku/pg_logfebe-debian
+- https://github.com/postgrespro/pg_logging
+  - https://github.com/RekGRpth/pg_logging
+  - https://github.com/ildus/pg_logging
+  - https://github.com/sshyran/pg_logging
+- https://github.com/funbringer/pg_logging
+- https://github.com/pierreforstmann/pg_logqueryid
+  - https://github.com/hunleyd/pg_logqueryid
+- https://github.com/bishtgayatri/pg_logs_kafka
+- https://github.com/zilder/pg_lz4
+  - https://github.com/ildus/pg_lz4
+  - https://github.com/min-mwei/pg_lz4
+  - https://github.com/skyformat99/pg_lz4
+- https://github.com/semenikhind/pg_map
+- https://github.com/sycobuny/pg_markdown
+- https://github.com/kalman5/pg_median
+- https://github.com/za-arthur/pg_median
+- https://github.com/greenape/pg_median_utils
+- https://github.com/topharley/pg_mem_counters
+- https://github.com/jackgo73/pg_memorycontext
+- https://github.com/jatobadb/pg_memorydump
+- https://github.com/aquameta/pg_meta
+- https://github.com/theory/pg_meta
+- https://github.com/johto/pg_metrics
+- https://github.com/nvorobev/pg_metricus_c
+  - https://github.com/Arthurgyh/pg_metricus_c
+  - https://github.com/avito-tech/pg_metricus_c
+  - https://github.com/gridl/pg_metricus_c
+- https://github.com/moritetu/pg_mod_sample
+- https://github.com/choplin/pg_msgpack
+  - https://github.com/iCyberon/pg_msgpack
+- https://github.com/RekGRpth/pg_mupdf
+- https://github.com/RekGRpth/pg_mustach
+- https://github.com/maxoodf/pg_mystem
+  - https://github.com/dead-beef/pg_mystem
+  - https://github.com/toscale/pg_mystem
+- https://github.com/rlichtenwalter/pg_nanp
+- https://github.com/Zeleo/pg_natural_sort_order
+  - https://github.com/Fenoman/pg_natural_sort_order
+  - https://github.com/Nerian/pg_natural_sort_order
+  - https://github.com/chen-jianshu/pg_natural_sort_order
+- https://github.com/ttfkam/pg_newsfeeds
+- https://github.com/roa/pg_nice
+- https://github.com/fabriziomello/pg_normalize_query
+  - https://github.com/SamiLekesiz/pg_normalize_query
+- https://github.com/citusdata/pg_octopus
+  - https://github.com/RekGRpth/pg_octopus
+- https://github.com/postgrespro/pg_oltp_bench
+  - https://github.com/digoal/pg_oltp_bench
+  - https://github.com/gridl/pg_oltp_bench
+  - https://github.com/jad21/pg_oltp_bench
+  - https://github.com/joe2hpimn/pg_oltp_bench
+- https://github.com/PostgreSQL-Migration-Toolkit/pg_oracle
+- https://github.com/bdrouvot/pg_orphaned
+- https://github.com/meistervonperf/pg_outrider
+- https://github.com/harukat/pg_pageinspect_plus
+- https://github.com/postgrespro/pg_pageprep
+  - https://github.com/gridl/pg_pageprep
+- https://github.com/zilder/pg_pageprep
+- https://github.com/uptimejp/pg_part
+  - https://github.com/fabriziomello/pg_part
+  - https://github.com/pedroaxl/pg_part
+- https://github.com/funbringer/pg_particulous
+  - https://github.com/gridl/pg_particulous
+- https://github.com/disqus/pg_partition
+  - https://github.com/davidfetter/pg_partition
+  - https://github.com/thekashifmalik/pg_partition
+- https://github.com/alytics/pg_partman
+- https://github.com/pgpartman/pg_partman
+  - https://github.com/Akagutz/pg_partman
+  - https://github.com/Aladinbasha/pg_partman
+  - https://github.com/Alex-k-07/pg_partman
+  - https://github.com/Alexcn/pg_partman
+  - https://github.com/DavidGoussev/pg_partman
+  - https://github.com/Empia/pg_partman
+  - https://github.com/HFvanTil/pg_partman
+  - https://github.com/IMSoP/pg_partman
+  - https://github.com/Jawshua/pg_partman
+  - https://github.com/KevMurph/pg_partman
+  - https://github.com/Lurunchik/pg_partman
+  - https://github.com/MikaelUlvesjo/pg_partman
+  - https://github.com/OpenSourceAlchemist/pg_partman
+  - https://github.com/SwathiYakkali/pg_partman
+  - https://github.com/Trekoid/pg_partman
+  - https://github.com/abhradeep-k/pg_partman
+  - https://github.com/adunstan/pg_partman
+  - https://github.com/aleszeleny/pg_partman
+  - https://github.com/amitbb/pg_partman
+  - https://github.com/anil24g/pg_partman
+  - https://github.com/ankur-bb/pg_partman
+  - https://github.com/anti-social/pg_partman
+  - https://github.com/ar45/pg_partman
+  - https://github.com/asishpati/pg_partman
+  - https://github.com/bbravi/pg_partman
+  - https://github.com/bclennox/pg_partman
+  - https://github.com/bennywarwel/pg_partman
+  - https://github.com/blogh/pg_partman
+  - https://github.com/borat79/pg_partman
+  - https://github.com/bradens/pg_partman
+  - https://github.com/brennongs/pg_partman
+  - https://github.com/charneetsingh/pg_partman
+  - https://github.com/clekstro/pg_partman
+  - https://github.com/clix-dev-llc/pg_partman
+  - https://github.com/cloobottl/pg_partman
+  - https://github.com/crunchyjoea/pg_partman
+  - https://github.com/crunchymaggie/pg_partman
+  - https://github.com/cybernetics/pg_partman
+  - https://github.com/datadope-io/pg_partman
+  - https://github.com/davidkmoat/pg_partman
+  - https://github.com/davidmr001/pg_partman
+  - https://github.com/davidradernj/pg_partman
+  - https://github.com/denishpatel/pg_partman
+  - https://github.com/devopsbox/pg_partman
+  - https://github.com/disqus/pg_partman
+  - https://github.com/divakar-b/pg_partman
+  - https://github.com/dreamsxin/pg_partman
+  - https://github.com/dturon/pg_partman
+  - https://github.com/duartejc/pg_partman
+  - https://github.com/dzlabs/pg_partman
+  - https://github.com/eagraf/pg_partman
+  - https://github.com/earlredwolf/pg_partman
+  - https://github.com/ebaptistella/pg_partman
+  - https://github.com/eisaev/pg_partman
+  - https://github.com/eroad/pg_partman
+    - https://github.com/david-morton/pg_partman
+    - https://github.com/hopesea/pg_partman
+    - https://github.com/samgurtman/pg_partman
+  - https://github.com/erthalion/pg_partman
+  - https://github.com/fabriziomello/pg_partman
+  - https://github.com/frodosamoa/pg_partman
+  - https://github.com/gavioto/pg_partman
+  - https://github.com/ghosthamlet/pg_partman
+  - https://github.com/goodkiller/pg_partman
+  - https://github.com/gridl/pg_partman
+  - https://github.com/harshitbb/pg_partman
+  - https://github.com/heroku/pg_partman
+    - https://github.com/raeoks/pg_partman
+  - https://github.com/hiteshxvii/pg_partman
+  - https://github.com/hunleyd/pg_partman
+  - https://github.com/huseynsnmz/pg_partman
+  - https://github.com/hxysea/pg_partman
+  - https://github.com/ibarwick/pg_partman
+  - https://github.com/icesaber/pg_partman
+  - https://github.com/ignatiusp/pg_partman
+  - https://github.com/isgasho/pg_partman
+  - https://github.com/iwarford/pg_partman
+  - https://github.com/jaggel/pg_partman
+  - https://github.com/jaiminpan/pg_partman
+  - https://github.com/jason5544/pg_partman
+  - https://github.com/jberkus/pg_partman
+  - https://github.com/jcoleman/pg_partman
+  - https://github.com/jfrost/pg_partman
+  - https://github.com/jiaoyk/pg_partman
+  - https://github.com/jm-g/pg_partman
+  - https://github.com/joe2hpimn/pg_partman
+  - https://github.com/joelhoffman/pg_partman
+  - https://github.com/kapplegatelendup/pg_partman
+  - https://github.com/kartik7153/pg_partman
+  - https://github.com/kc17/pg_partman
+  - https://github.com/kepstin/pg_partman
+  - https://github.com/kkivi/pg_partman
+  - https://github.com/komasing/pg_partman
+  - https://github.com/kukula/pg_partman
+  - https://github.com/kurukan/pg_partman
+  - https://github.com/lie2believe/pg_partman
+  - https://github.com/lromanov/pg_partman
+  - https://github.com/lucasmo/pg_partman
+  - https://github.com/lycovian/pg_partman
+  - https://github.com/maklff/pg_partman
+  - https://github.com/martinmarques/pg_partman
+  - https://github.com/matheusespanhol/pg_partman
+  - https://github.com/matthew-n/pg_partman
+  - https://github.com/mattp-/pg_partman
+  - https://github.com/mayurchandranee-bankbazaar/pg_partman
+  - https://github.com/menardorama/pg_partman
+  - https://github.com/mosen/pg_partman
+  - https://github.com/nagyistoce/pg_partman
+  - https://github.com/nicoledaley/pg_partman
+  - https://github.com/noahbullock/pg_partman
+  - https://github.com/nobleread/pg_partman
+  - https://github.com/novanbramantya/pg_partman
+  - https://github.com/omniti-labs/pg_partman
+    - https://github.com/rishards/pg_partman
+  - https://github.com/onderkalaci/pg_partman
+  - https://github.com/onlight/pg_partman
+  - https://github.com/petrovich-ua/pg_partman
+  - https://github.com/pgexperts/pg_partman
+  - https://github.com/pielas/pg_partman
+  - https://github.com/piotrp/pg_partman
+  - https://github.com/postingres/pg_partman
+  - https://github.com/priyanka-bb/pg_partman
+  - https://github.com/procore/pg_partman
+  - https://github.com/raijojose/pg_partman
+  - https://github.com/rajath1989/pg_partman
+  - https://github.com/rodo/pg_partman
+  - https://github.com/roytan883/pg_partman
+  - https://github.com/rubyists/pg_partman
+  - https://github.com/saakallya-biswas/pg_partman
+  - https://github.com/saicitus/pg_partman
+  - https://github.com/sairon/pg_partman
+  - https://github.com/sanen/pg_partman
+  - https://github.com/scrummyin/pg_partman
+  - https://github.com/segmond/pg_partman
+  - https://github.com/sheeju/pg_partman
+  - https://github.com/shereshevsky/pg_partman
+  - https://github.com/smiroxa/pg_partman
+  - https://github.com/sshkarupa/pg_partman
+  - https://github.com/syaroslavtsev/pg_partman
+  - https://github.com/tapaswenipathak/pg_partman
+  - https://github.com/tbeadle/pg_partman
+  - https://github.com/tellef/pg_partman
+  - https://github.com/thanodnl/pg_partman
+  - https://github.com/thomasboussekey/pg_partman
+  - https://github.com/timnew/pg_partman
+  - https://github.com/toasttab/pg_partman
+  - https://github.com/toliujiayi/pg_partman
+  - https://github.com/traylz/pg_partman
+  - https://github.com/treecko1/pg_partman
+  - https://github.com/ukriish/pg_partman
+  - https://github.com/ulugbekov/pg_partman
+  - https://github.com/vaibhavbb/pg_partman
+  - https://github.com/vfalduto/pg_partman
+  - https://github.com/vhilton/pg_partman
+  - https://github.com/vinnix/pg_partman
+  - https://github.com/vinod-bb/pg_partman
+  - https://github.com/wday/pg_partman
+  - https://github.com/x4m/pg_partman
+  - https://github.com/xabolcs/pg_partman
+  - https://github.com/xanderliu/pg_partman
+  - https://github.com/yangnaihua/pg_partman
+  - https://github.com/yemkay/pg_partman
+  - https://github.com/yonasstephen/pg_partman
+  - https://github.com/zhoudaqing/pg_partman
+  - https://github.com/zhq651/pg_partman
+  - https://github.com/zhuomingliang/pg_partman
+  - https://github.com/zoglesby/pg_partman
+- https://github.com/denishpatel/pg_partman_v2RC1
+- https://github.com/postgrespro/pg_pathman
+  - https://github.com/Alexcn/pg_pathman
+  - https://github.com/BIAOXYZ/pg_pathman
+  - https://github.com/Chemical79/pg_pathman
+  - https://github.com/Fenimorkin/pg_pathman
+  - https://github.com/VladimirMikhailov/pg_pathman
+  - https://github.com/akuzm/pg_pathman
+  - https://github.com/arssher/pg_pathman
+  - https://github.com/blunney1/pg_pathman
+  - https://github.com/cain-eyespage/pg_pathman
+  - https://github.com/corticaldata/pg_pathman
+  - https://github.com/dreamsxin/pg_pathman
+  - https://github.com/erimatnor/pg_pathman
+  - https://github.com/ethanryl/pg_pathman
+  - https://github.com/finger-dy/pg_pathman
+  - https://github.com/godouxm/pg_pathman
+  - https://github.com/gridl/pg_pathman
+  - https://github.com/hailanwhu/pg_pathman
+  - https://github.com/harunatsugit/pg_pathman
+  - https://github.com/hifly/pg_pathman
+  - https://github.com/ildus/pg_pathman
+  - https://github.com/inventionzhang/pg_pathman
+  - https://github.com/isgasho/pg_pathman
+  - https://github.com/kelvich/pg_pathman
+  - https://github.com/kulaginm/pg_pathman
+  - https://github.com/lolandkidtress/pg_pathman
+  - https://github.com/mac119/pg_pathman
+  - https://github.com/martiyanov/pg_pathman
+  - https://github.com/mayingbing/pg_pathman
+  - https://github.com/michelp/pg_pathman
+  - https://github.com/min-mwei/pg_pathman
+  - https://github.com/neocodesoftwarebr/pg_pathman
+  - https://github.com/rjuju/pg_pathman
+  - https://github.com/rodrigoieh/pg_pathman
+  - https://github.com/rugbyball/pg_pathman
+  - https://github.com/saaros/pg_pathman
+    - https://github.com/pavel-kolla-kampiki/pg_pathman
+  - https://github.com/semenikhind/pg_pathman
+  - https://github.com/sshyran/pg_pathman
+  - https://github.com/tommycarney/pg_pathman
+  - https://github.com/vadv/pg_pathman
+  - https://github.com/weiboyiyou/pg_pathman
+  - https://github.com/wiltonlazary/pg_pathman
+  - https://github.com/x4m/pg_pathman
+  - https://github.com/yuejiesong1900/pg_pathman
+  - https://github.com/zhangchi219/pg_pathman
+  - https://github.com/zhuomingliang/pg_pathman
+  - https://github.com/zilder/pg_pathman
+  - https://github.com/zpzhao/pg_pathman
+- https://github.com/citusdata/pg_paxos
+  - https://github.com/0xack13/pg_paxos
+  - https://github.com/3manuek/pg_paxos
+  - https://github.com/Applied-Duality/pg_paxos
+  - https://github.com/Crixalis2013/pg_paxos
+  - https://github.com/ROBERT-MCDOWELL/pg_paxos
+  - https://github.com/Slania/pg_paxos
+  - https://github.com/akjit/pg_paxos
+  - https://github.com/andy-yx-chen/pg_paxos
+  - https://github.com/b-xiang/pg_paxos
+  - https://github.com/blunney1/pg_paxos
+  - https://github.com/cephrenhw/pg_paxos
+  - https://github.com/cuulee/pg_paxos
+  - https://github.com/duzhanyuan/pg_paxos
+  - https://github.com/ghosthamlet/pg_paxos
+  - https://github.com/godouxm/pg_paxos
+  - https://github.com/hailanwhu/pg_paxos
+  - https://github.com/haiyangcheng/pg_paxos
+  - https://github.com/huiwenhan/pg_paxos
+  - https://github.com/isgasho/pg_paxos
+  - https://github.com/jdaaaaaavid/pg_paxos
+  - https://github.com/lalitheswar/pg_paxos
+  - https://github.com/linpingchuan/pg_paxos
+  - https://github.com/liujun01203/pg_paxos
+  - https://github.com/min-mwei/pg_paxos
+  - https://github.com/nkiraly/pg_paxos
+  - https://github.com/snakeice/pg_paxos
+  - https://github.com/solidsnack/pg_paxos
+  - https://github.com/sunyinhui/pg_paxos
+  - https://github.com/theseusyang/pg_paxos
+  - https://github.com/wenqzheng/pg_paxos
+  - https://github.com/wiltonlazary/pg_paxos
+  - https://github.com/ww-it/pg_paxos
+  - https://github.com/wzugang/pg_paxos
+  - https://github.com/xwlan/pg_paxos
+  - https://github.com/yodamaster/pg_paxos
+  - https://github.com/zhdk123456/pg_paxos
+  - https://github.com/zpzhao/pg_paxos
+- https://github.com/cybertec-postgresql/pg_permission
+  - https://github.com/Granthana-Biswas/pg_permission
+  - https://github.com/SureVoIP/pg_permission
+  - https://github.com/angoal/pg_permission
+  - https://github.com/cuulee/pg_permission
+  - https://github.com/hunleyd/pg_permission
+  - https://github.com/praveend19/pg_permission
+  - https://github.com/srikanth-medikonda/pg_permission
+  - https://github.com/zhuomingliang/pg_permission
+- https://github.com/ossc-db/pg_plan_advsr
+  - https://github.com/cuulee/pg_plan_advsr
+  - https://github.com/isgasho/pg_plan_advsr
+  - https://github.com/kfuru/pg_plan_advsr
+  - https://github.com/rheehot/pg_plan_advsr
+  - https://github.com/rjuju/pg_plan_advsr
+  - https://github.com/s-hironobu/pg_plan_advsr
+  - https://github.com/sherlockcpp/pg_plan_advsr
+  - https://github.com/ubuntu-repo/pg_plan_advsr
+  - https://github.com/yamatattsu/pg_plan_advsr
+- https://github.com/nminoru/pg_plan_tree_dot
+  - https://github.com/kmrmshk/pg_plan_tree_dot
+- https://github.com/KLIEBHAN/pg_plsql_graphs
+- https://github.com/torrespri/pg_popyramids_datamarts
+- https://github.com/rlichtenwalter/pg_postal_code_ca
+- https://github.com/Timosha/pg_prewarm
+- https://github.com/schmiddy/pg_prioritize
+- https://github.com/markwkm/pg_proctab
+  - https://github.com/bigsql/pg_proctab
+  - https://github.com/frost242/pg_proctab
+  - https://github.com/ibarwick/pg_proctab
+  - https://github.com/junegunn/pg_proctab
+    - https://github.com/rubythonode/pg_proctab
+  - https://github.com/mwongatemma/pg_proctab
+  - https://github.com/postsql/pg_proctab
+  - https://github.com/srqway/pg_proctab
+  - https://github.com/ve9u/pg_proctab
+  - https://github.com/zhangguohan/pg_proctab
+- https://github.com/akatruk/pg_profile_old
+- https://github.com/timescale/pg_prometheus
+  - https://github.com/Johnny-Three/pg_prometheus
+  - https://github.com/Knudian/pg_prometheus
+  - https://github.com/RobAtticus/pg_prometheus
+  - https://github.com/aiven/pg_prometheus
+  - https://github.com/allen13/pg_prometheus
+  - https://github.com/alwx/pg_prometheus
+  - https://github.com/arslanm/pg_prometheus
+  - https://github.com/blank-1/pg_prometheus
+  - https://github.com/bryanasdev000/pg_prometheus
+  - https://github.com/cameronelliott/pg_prometheus
+  - https://github.com/datadot/pg_prometheus
+  - https://github.com/dgurindapalli/pg_prometheus
+  - https://github.com/dreamsxin/pg_prometheus
+  - https://github.com/ecosia/pg_prometheus
+  - https://github.com/ericcurtin/pg_prometheus
+  - https://github.com/erimatnor/pg_prometheus
+  - https://github.com/fangnan5233/pg_prometheus
+  - https://github.com/gaos1/pg_prometheus
+  - https://github.com/gdcrocx/pg_prometheus
+  - https://github.com/irumman/pg_prometheus
+  - https://github.com/isgasho/pg_prometheus
+  - https://github.com/jesperpedersen/pg_prometheus
+  - https://github.com/kiefersmith/pg_prometheus
+  - https://github.com/knightzxh/pg_prometheus
+  - https://github.com/krisavi/pg_prometheus
+  - https://github.com/ks-no/pg_prometheus
+  - https://github.com/linlynn/pg_prometheus
+  - https://github.com/liuxuc63/pg_prometheus
+  - https://github.com/mmariani/pg_prometheus
+  - https://github.com/noony/pg_prometheus
+  - https://github.com/oss-qm/pg_prometheus
+  - https://github.com/simonpasquier/pg_prometheus
+  - https://github.com/skyformat99/pg_prometheus
+  - https://github.com/spolcyn/pg_prometheus
+  - https://github.com/sudotrix/pg_prometheus
+  - https://github.com/svenklemm/pg_prometheus
+  - https://github.com/tcolo/pg_prometheus
+  - https://github.com/thiagorp/pg_prometheus
+  - https://github.com/tindeco/pg_prometheus
+  - https://github.com/vinhali/pg_prometheus
+  - https://github.com/vthriller/pg_prometheus
+  - https://github.com/wfelipew/pg_prometheus
+- https://github.com/MasahikoSawada/pg_promoter
+- https://github.com/afiskon/pg_protobuf
+  - https://github.com/cuulee/pg_protobuf
+  - https://github.com/lfyuomr-gylo/pg_protobuf
+  - https://github.com/ostvld/pg_protobuf
+  - https://github.com/strogo/pg_protobuf
+  - https://github.com/ycui1984/pg_protobuf
+- https://github.com/alexandersamoylov/pg_prttn_tools
+- https://github.com/powa-team/pg_qualstats
+  - https://github.com/anayrat/pg_qualstats
+  - https://github.com/bdrouvot/pg_qualstats
+  - https://github.com/cuulee/pg_qualstats
+  - https://github.com/dblugeon/pg_qualstats
+  - https://github.com/godouxm/pg_qualstats
+  - https://github.com/gridl/pg_qualstats
+  - https://github.com/lepaus/pg_qualstats
+  - https://github.com/liuqian1990/pg_qualstats
+  - https://github.com/myaniu/pg_qualstats
+  - https://github.com/sttachoires/pg_qualstats
+  - https://github.com/syaroslavtsev/pg_qualstats
+  - https://github.com/tvondra/pg_qualstats
+  - https://github.com/yamatattsu/pg_qualstats
+  - https://github.com/zhuomingliang/pg_qualstats
+- https://github.com/postgrespro/pg_query_state
+  - https://github.com/CherkashinSergey/pg_query_state
+  - https://github.com/Fenoman/pg_self_query
+    - https://github.com/Volodemar/pg_query_state
+    - https://github.com/a-guzhin/pg_self_query
+  - https://github.com/RekGRpth/pg_query_state
+  - https://github.com/avinashvallarapu/pg_query_state
+  - https://github.com/digoal/pg_query_state
+  - https://github.com/dlepikhova/pg_query_state
+  - https://github.com/ekzhu/pg_query_state
+  - https://github.com/goryszewskig/pg_query_state
+  - https://github.com/gridl/pg_query_state
+  - https://github.com/isgasho/pg_query_state
+  - https://github.com/min-mwei/pg_query_state
+  - https://github.com/sshyran/pg_query_state
+  - https://github.com/yamatattsu/pg_query_state
+  - https://github.com/zhdk123456/pg_query_state
+- https://github.com/rjuju/pg_queryid
+- https://github.com/adjust/pg_querylog
+  - https://github.com/min-mwei/pg_querylog
+- https://github.com/hlinnaka/pg_quota
+  - https://github.com/BaiShaoqi/pg_quota
+  - https://github.com/HaozhouWang/pg_quota
+  - https://github.com/pivotal/pg_quota
+  - https://github.com/zhangh43/pg_quota
+- https://github.com/meiyifei/pg_random_string
+- https://github.com/begriffs/pg_rational
+  - https://github.com/LongJohnCoder/pg_rational
+  - https://github.com/adegert/pg_rational
+  - https://github.com/chenghlee/pg_rational
+  - https://github.com/credativ/pg_rational
+  - https://github.com/dissoc/pg_rational
+  - https://github.com/dthadi3/pg_rational
+  - https://github.com/emrul/pg_rational
+  - https://github.com/ponach/pg_rational
+  - https://github.com/ubuntu-repo/pg_rational
+- https://github.com/pierreforstmann/pg_readonly
+- https://github.com/mreithub/pg_recall
+- https://github.com/brettlaforge/pg_redis_pubsub
+  - https://github.com/awesomeDataTool/pg_redis_pubsub
+  - https://github.com/deem0n/pg_redis_pubsub
+  - https://github.com/lvbuwei/pg_redis_pubsub
+  - https://github.com/mvcatsifma/pg_redis_pubsub
+  - https://github.com/zjbhuxian/pg_redis_pubsub
+- https://github.com/edpratomo/pg_redispub
+  - https://github.com/rogervaas/pg_redispub
+- https://github.com/katsuragi-y/pg_reject_truncate
+- https://github.com/danolivo/pg_repeater
+- https://github.com/realyota/pg_repl
+- https://github.com/nuko-yokohama/pg_reversi
+- https://github.com/harukat/pg_rlimit
+- https://github.com/ChenHuajun/pg_roaringbitmap
+  - https://github.com/Jasonjunzhou/pg_roaringbitmap
+  - https://github.com/YangJunzhou/pg_roaringbitmap
+  - https://github.com/a615549958/pg_roaringbitmap
+  - https://github.com/dreamsxin/pg_roaringbitmap
+  - https://github.com/emrul/pg_roaringbitmap
+  - https://github.com/guanqingtao/pg_roaringbitmap
+  - https://github.com/javartisan/pg_roaringbitmap
+  - https://github.com/joe2hpimn/pg_roaringbitmap
+  - https://github.com/min-mwei/pg_roaringbitmap
+  - https://github.com/qpointsystems/pg_roaringbitmap
+  - https://github.com/webdiscover/pg_roaringbitmap
+- https://github.com/petropavel13/pg_rrule
+  - https://github.com/Falmarri/pg_rrule
+  - https://github.com/agamat/pg_rrule
+  - https://github.com/echampet/pg_rrule
+  - https://github.com/el-quick/pg_rrule
+  - https://github.com/emacsway/pg_rrule
+  - https://github.com/entenitconsulting/pg_rrule
+  - https://github.com/erma07/pg_rrule
+  - https://github.com/floor13/pg_rrule
+  - https://github.com/fryertom44/pg_rrule
+  - https://github.com/groner/pg_rrule
+  - https://github.com/jonrwads/pg_rrule
+  - https://github.com/luc-chevaux/pg_rrule
+  - https://github.com/maternity/pg_rrule
+  - https://github.com/nsb/pg_rrule
+  - https://github.com/ondrej-111/pg_rrule
+  - https://github.com/roxigonzalez/pg_rrule
+  - https://github.com/schinckel/pg_rrule
+  - https://github.com/talkhot/pg_rrule
+  - https://github.com/wesselvdv/pg_rrule
+  - https://github.com/yongaru/pg_rrule
+- https://github.com/anayrat/pg_sampletolog
+- https://github.com/CartoDB/pg_schema_triggers
+  - https://github.com/ehigg693264/pg_schema_triggers
+  - https://github.com/freakabcd/pg_schema_triggers
+  - https://github.com/oss-spanish-geoserver/pg_schema_triggers
+  - https://github.com/snoopyxu/pg_schema_triggers
+  - https://github.com/vmanohar1/pg_schema_triggers
+  - https://github.com/wei-ancoris/pg_schema_triggers
+- https://github.com/jaiminpan/pg_scws
+  - https://github.com/cn3c3p/pg_scws
+  - https://github.com/digoal/pg_scws
+  - https://github.com/dreamsxin/pg_scws
+  - https://github.com/jgzmlmf/pg_scws
+  - https://github.com/kerneltravel/pg_scws
+  - https://github.com/postgres-cn/pg_scws
+  - https://github.com/secups/pg_scws
+  - https://github.com/slangmgh/pg_scws
+  - https://github.com/zhuomingliang/pg_scws
+  - https://github.com/zwunix/pg_scws
+- https://github.com/TypedLambda/pg_secret
+- https://github.com/eendroroy/pg_semver
+- https://github.com/sshutdownow/pg_sendmail
+  - https://github.com/RekGRpth/pg_sendmail
+- https://github.com/menardorama/pg_sessions
+- https://github.com/sshutdownow/pg_setpriority
+  - https://github.com/PuppyChildren/pg_setpriority
+  - https://github.com/RekGRpth/pg_setpriority
+- https://github.com/citusdata/pg_shard
+  - https://github.com/3manuek/pg_shard
+  - https://github.com/Bendalexis/pg_shard
+  - https://github.com/begriffs/pg_shard
+    - https://github.com/ubuntu-repo/pg_shard
+  - https://github.com/benbaker/pg_shard
+  - https://github.com/beyeasy/pg_shard
+  - https://github.com/chebevara/pg_shard
+  - https://github.com/chetanpachare/pg_shard
+  - https://github.com/corticaldata/pg_shard
+  - https://github.com/cuulee/pg_shard
+  - https://github.com/dadbob/pg_shard
+  - https://github.com/danielshir/pg_shard
+  - https://github.com/deshpamit/pg_shard
+  - https://github.com/ergo70/pg_shard
+  - https://github.com/fanyeren/pg_shard
+  - https://github.com/flyhung/pg_shard
+  - https://github.com/frsyuki/pg_shard
+  - https://github.com/gencer/pg_shard
+  - https://github.com/gmcquillan/pg_shard
+  - https://github.com/habren/pg_shard
+  - https://github.com/hubeizcl/pg_shard
+  - https://github.com/intfrr/pg_shard
+  - https://github.com/isgasho/pg_shard
+  - https://github.com/jarwin123/pg_shard
+  - https://github.com/jaytaylor/pg_shard
+  - https://github.com/jberkus/pg_shard
+    - https://github.com/godouxm/pg_shard
+  - https://github.com/jonathanleang/pg_shard
+  - https://github.com/josephmisiti/pg_shard
+    - https://github.com/syaroslavtsev/pg_shard
+  - https://github.com/knizhnik/pg_shard
+    - https://github.com/gavioto/pg_shard
+  - https://github.com/lifeles666/pg_shard
+  - https://github.com/liuxuc63/pg_shard
+  - https://github.com/mitesh91/pg_shard
+  - https://github.com/neumino/pg_shard
+  - https://github.com/neuroradiology/pg_shard
+  - https://github.com/olivierh59500/pg_shard
+  - https://github.com/pacohernandezg/pg_shard
+  - https://github.com/rayleyva/pg_shard
+  - https://github.com/rilian/pg_shard
+  - https://github.com/segmond/pg_shard
+  - https://github.com/shafiahmed/pg_shard
+  - https://github.com/smkingsoft/pg_shard
+  - https://github.com/stroboscope/pg_shard
+  - https://github.com/swrd/pg_shard
+  - https://github.com/tchen0123/pg_shard
+  - https://github.com/tempbottle/pg_shard
+  - https://github.com/tinhol/pg_shard
+  - https://github.com/tml/pg_shard
+  - https://github.com/totalorder/pg_shard
+    - https://github.com/admenva/pg_shard
+  - https://github.com/totemofwolf/pg_shard
+  - https://github.com/vtumuluri/pg_shard
+  - https://github.com/weishishuo/pg_shard
+  - https://github.com/wtfuzz/pg_shard
+  - https://github.com/zfsndtl/pg_shard
+- https://github.com/citusdata/pg_shard-old
+- https://github.com/vibhorkum/pg_shard_ppas
+- https://github.com/funbringer/pg_shardman
+  - https://github.com/MbqIIB/pg_shardman
+  - https://github.com/RekGRpth/pg_shardman
+  - https://github.com/gridl/pg_shardman
+  - https://github.com/isgasho/pg_shardman
+  - https://github.com/zhdk123456/pg_shardman
+- https://github.com/rjuju/pg_shared_plans
+- https://github.com/cybertec-postgresql/pg_show_plans
+  - https://github.com/bdrouvot/pg_show_plans
+  - https://github.com/guanqingtao/pg_show_plans
+  - https://github.com/hunleyd/pg_show_plans
+  - https://github.com/legrandlegrand/pg_show_plans
+  - https://github.com/linbo-lin/pg_show_plans
+  - https://github.com/qiuwenhuifx/pg_show_plans
+- https://github.com/erthalion/pg_simdjson
+  - https://github.com/min-mwei/pg_simdjson
+- https://github.com/eulerto/pg_similarity
+  - https://github.com/JVillella/pg_similarity
+  - https://github.com/JohnHVancouver/pg_similarity
+  - https://github.com/RekGRpth/pg_similarity
+  - https://github.com/anagno/pg_similarity
+  - https://github.com/autermann/pg_similarity
+  - https://github.com/bakjos/pg_similarity
+  - https://github.com/bnelz/pg_similarity
+  - https://github.com/credativ/pg_similarity
+  - https://github.com/cuulee/pg_similarity
+  - https://github.com/digoal/pg_similarity
+  - https://github.com/ekzhu/pg_similarity
+    - https://github.com/rootoor225/pg_similarity
+  - https://github.com/emrul/pg_similarity
+  - https://github.com/fxfactorial/pg_similarity
+  - https://github.com/hwang-happy/pg_similarity
+  - https://github.com/jchildren/pg_similarity
+  - https://github.com/joe2hpimn/pg_similarity
+  - https://github.com/josemoralesp/pg_similarity
+  - https://github.com/junjieliang/pg_similarity
+  - https://github.com/langtianlang/pg_similarity
+  - https://github.com/laurentmartelli/pg_similarity
+  - https://github.com/matalab/pg_similarity
+  - https://github.com/min-mwei/pg_similarity
+  - https://github.com/pbarber/pg_similarity
+  - https://github.com/pombredanne/pg_similarity
+  - https://github.com/qbzenker/pg_similarity
+  - https://github.com/slim-hmidi/pg_similarity
+  - https://github.com/tfh56/pg_similarity
+- https://github.com/fairingrey/pg_simple_parser
+- https://github.com/MasahikoSawada/pg_simula
+  - https://github.com/elvis2workspace/pg_simula
+  - https://github.com/mattn/pg_simula
+- https://github.com/labgeo/pg_siose_bench
+- https://github.com/siose-innova/pg_siose_bench
+- https://github.com/quentusrex/pg_sip
+- https://github.com/samber/pg_sleep
+- https://github.com/pindlebot/pg_slugify
+- https://github.com/credativ/pg_snakeoil
+  - https://github.com/dthadi3/pg_snakeoil
+  - https://github.com/hunleyd/pg_snakeoil
+- https://github.com/the4thdoctor/pg_snapshot_too_old
+  - https://github.com/matthewfranglen/pg_snapshot_too_old
+- https://github.com/MarkAntipin/pg_sparse_vector
+- https://github.com/maahl/pg_spi_examples
+- https://github.com/kouber/pg_sqlog
+- https://github.com/cybertec-postgresql/pg_squeeze
+  - https://github.com/NikolayS/pg_squeeze
+  - https://github.com/RekGRpth/pg_squeeze
+  - https://github.com/TracyGao01/pg_squeeze
+  - https://github.com/bdrouvot/pg_squeeze
+  - https://github.com/blunney1/pg_squeeze
+  - https://github.com/cuulee/pg_squeeze
+  - https://github.com/gridl/pg_squeeze
+  - https://github.com/joe2hpimn/pg_squeeze
+  - https://github.com/joewildish/pg_squeeze
+  - https://github.com/kgtdbx/pg_squeeze
+  - https://github.com/min-mwei/pg_squeeze
+  - https://github.com/simi/pg_squeeze
+  - https://github.com/srikanth-medikonda/pg_squeeze
+  - https://github.com/stvhanna/pg_squeeze
+  - https://github.com/zhuomingliang/pg_squeeze
+- https://github.com/RekGRpth/pg_ssl
+- https://github.com/mhagander/pg_sslstatus
+  - https://github.com/poppuyo/pg_sslstatus
+- https://github.com/powa-team/pg_stat_kcache
+  - https://github.com/NemoAA/pg_stat_kcache
+  - https://github.com/NikolayS/pg_stat_kcache
+  - https://github.com/VladislavePolyakov/pg_stat_kcache
+  - https://github.com/anayrat/pg_stat_kcache
+  - https://github.com/bdrouvot/pg_stat_kcache
+  - https://github.com/frost242/pg_stat_kcache
+  - https://github.com/fvannee/pg_stat_kcache
+  - https://github.com/gridl/pg_stat_kcache
+  - https://github.com/grin31/pg_stat_kcache
+  - https://github.com/guanqingtao/pg_stat_kcache
+  - https://github.com/mikecaat/pg_stat_kcache
+  - https://github.com/min-mwei/pg_stat_kcache
+  - https://github.com/rishatsharafiev/pg_stat_kcache
+  - https://github.com/se7enshidb/pg_stat_kcache
+  - https://github.com/sitrl/pg_stat_kcache
+  - https://github.com/wangmiao1981/pg_stat_kcache
+  - https://github.com/zhdk123456/pg_stat_kcache
+  - https://github.com/zhuomingliang/pg_stat_kcache
+- https://github.com/percona/pg_stat_monitor
+  - https://github.com/EngineeredVirus/pg_stat_monitor
+  - https://github.com/EvgeniyPatlan/pg_stat_monitor
+  - https://github.com/JiriCtvrtka/pg_stat_monitor
+  - https://github.com/MartinSun34/pg_stat_monitor
+  - https://github.com/NemoAA/pg_stat_monitor
+  - https://github.com/Sudokamikaze/pg_stat_monitor
+  - https://github.com/devopstoday11/pg_stat_monitor
+  - https://github.com/edillmann/pg_stat_monitor
+  - https://github.com/isabella232/pg_stat_monitor
+  - https://github.com/jobinau/pg_stat_monitor
+  - https://github.com/kokizzu/pg_stat_monitor
+  - https://github.com/mu-samoylov/pg_stat_monitor
+  - https://github.com/nastena1606/pg_stat_monitor
+  - https://github.com/qiuwenhuifx/pg_stat_monitor
+  - https://github.com/rodrigoieh/pg_stat_monitor
+  - https://github.com/seepls/pg_stat_monitor
+  - https://github.com/shawn0915/pg_stat_monitor
+  - https://github.com/vorsel/pg_stat_monitor
+- https://github.com/ysn-source/pg_stat_sql
+- https://github.com/legrandlegrand/pg_stat_sql_plans
+  - https://github.com/davidfetter/pg_stat_sql_plans
+- https://github.com/uptimejp/pg_stat_statements2
+- https://github.com/ibrarahmad/pg_stat_statments
+- https://github.com/mpihlak/pg_stat_usage
+- https://github.com/s-hironobu/pg_stats
+  - https://github.com/TheFrancisHe/pg_stats
+  - https://github.com/lobojohnson/pg_stats
+- https://github.com/ossc-db/pg_store_plans
+  - https://github.com/Dagouhan/pg_store_plans
+  - https://github.com/blogh/pg_store_plans
+  - https://github.com/datasentinel/pg_store_plans
+  - https://github.com/isgasho/pg_store_plans
+  - https://github.com/kasaharatt/pg_store_plans
+  - https://github.com/yamatattsu/pg_store_plans
+- https://github.com/jmckulk/pg_string_extension
+- https://github.com/kaigai/pg_strom
+  - https://github.com/achanda101/pg_strom
+  - https://github.com/andyrbm/pg_strom
+  - https://github.com/anzolaa1/pg_strom
+  - https://github.com/arron-lyu/pg_strom
+  - https://github.com/burner2050/pg_strom
+  - https://github.com/hellomokey/pg_strom
+  - https://github.com/lailuboy/pg_strom
+  - https://github.com/mcolak/pg_strom
+  - https://github.com/osmonds/pg_strom
+  - https://github.com/ramsingla/pg_strom
+  - https://github.com/rmcatee/pg_strom
+  - https://github.com/sxhao/pg_strom
+  - https://github.com/wuruilongll/pg_strom
+- https://github.com/singularita/pg_strverscmp
+- https://github.com/bdrouvot/pg_subtrans_infos
+- https://github.com/nuko-yokohama/pg_sulog
+  - https://github.com/snaga/pg_sulog
+- https://github.com/2ndQuadrant/pg_sysdatetime
+  - https://github.com/commandprompt/pg_sysdatetime
+  - https://github.com/murlakatam/pg_sysdatetime
+- https://github.com/magnusp/pg_ta
+  - https://github.com/SignalBuilders/pg_ta
+  - https://github.com/aster-anto/pg_ta
+- https://github.com/laorunsen/pg_test
+- https://github.com/za-arthur/pg_textparser
+- https://github.com/cuprumtan/pg_textvector
+- https://github.com/ycui1984/pg_thrift
+- https://github.com/BlueTreble/pg_thud
+  - https://github.com/decibel/pg_thud
+- https://github.com/TilelessMap/pg_tileless
+- https://github.com/rjuju/pg_timelord
+- https://github.com/pierreforstmann/pg_timeout
+  - https://github.com/hunleyd/pg_timeout
+- https://github.com/x4m/pg_tm_aux
+  - https://github.com/achizhkoff/pg_tm_aux
+  - https://github.com/davecramer/pg_tm_aux
+  - https://github.com/guanqingtao/pg_tm_aux
+- https://github.com/jkeifer/pg_tms
+- https://github.com/rjuju/pg_track_settings
+  - https://github.com/anayrat/pg_track_settings
+  - https://github.com/credativ/pg_track_settings
+  - https://github.com/dattatraya-nirmal/pg_track_settings
+  - https://github.com/ng-pe/pg_track_settings
+  - https://github.com/zhuomingliang/pg_track_settings
+- https://github.com/julmon/pg_track_slow_queries
+- https://github.com/postgrespro/pg_trgm_pro
+  - https://github.com/PurpleStarCB/pg_trgm_pro
+  - https://github.com/forging2012/pg_trgm_pro
+  - https://github.com/gridl/pg_trgm_pro
+  - https://github.com/joe2hpimn/pg_trgm_pro
+  - https://github.com/kuustudio/pg_trgm_pro
+  - https://github.com/qiuwenhuifx/pg_trgm_pro
+- https://github.com/kelvich/pg_tsdtm
+  - https://github.com/Shyran-Systems/pg_tsdtm
+  - https://github.com/postgrespro/pg_tsdtm
+    - https://github.com/Vereschak/pg_tsdtm
+    - https://github.com/cuulee/pg_tsdtm
+    - https://github.com/gridl/pg_tsdtm
+    - https://github.com/quinndiggity/pg_tsdtm
+- https://github.com/postgrespro/pg_tsparser
+  - https://github.com/RekGRpth/pg_tsparser
+  - https://github.com/funbringer/pg_tsparser
+  - https://github.com/gridl/pg_tsparser
+  - https://github.com/skyformat99/pg_tsparser
+- https://github.com/nicklasaven/pg_twkb
+- https://github.com/zilder/pg_txn_status
+- https://github.com/zilder/pg_udp
+- https://github.com/iCyberon/pg_ulid
+  - https://github.com/estum/pg_ulid
+  - https://github.com/stvhanna/pg_ulid
+- https://github.com/alexkuz/pg_unidecode
+  - https://github.com/avian2/pg_unidecode
+  - https://github.com/gnarvaja/pg_unidecode
+- https://github.com/shurizzle/pg_url
+- https://github.com/shurizzle/pg_variables
+- https://github.com/postgrespro/pg_variables
+  - https://github.com/CherkashinSergey/pg_variables
+  - https://github.com/RekGRpth/pg_variables
+  - https://github.com/WangYiPengPeter/pg_variables
+  - https://github.com/forkforever/pg_variables
+  - https://github.com/funbringer/pg_variables
+  - https://github.com/gridl/pg_variables
+  - https://github.com/jfhyn/pg_variables
+  - https://github.com/joe2hpimn/pg_variables
+  - https://github.com/lovefork/pg_variables
+  - https://github.com/macdocs/pg_variables
+  - https://github.com/min-mwei/pg_variables
+  - https://github.com/sshyran/pg_variables
+  - https://github.com/wenqzheng/pg_variables
+  - https://github.com/za-arthur/pg_variables
+- https://github.com/rlichtenwalter/pg_variant_functions
+- https://github.com/dgillis/pg_vartype
+- https://github.com/eendroroy/pg_vercomp
+- https://github.com/postgrespro/pg_wait_sampling
+  - https://github.com/FranckPachot/pg_wait_sampling
+  - https://github.com/GanieLinn/pg_wait_sampling
+  - https://github.com/RekGRpth/pg_wait_sampling
+  - https://github.com/VladislavePolyakov/pg_wait_sampling
+  - https://github.com/anayrat/pg_wait_sampling
+  - https://github.com/askrana/pg_wait_sampling
+  - https://github.com/efimkin/pg_wait_sampling
+  - https://github.com/gowtham500/pg_wait_sampling
+  - https://github.com/gridl/pg_wait_sampling
+    - https://github.com/LoveSQL/pg_wait_sampling
+  - https://github.com/hunleyd/pg_wait_sampling
+  - https://github.com/ildus/pg_wait_sampling
+  - https://github.com/kasaharatt/pg_wait_sampling
+  - https://github.com/rjuju/pg_wait_sampling
+  - https://github.com/zhuomingliang/pg_wait_sampling
+- https://github.com/le0pard/pg_web
+- https://github.com/RekGRpth/pg_wkhtmltopdf
+- https://github.com/RekGRpth/pg_wthtmltopdf
+- https://github.com/iCyberon/pg_xid
+  - https://github.com/RekGRpth/pg_xid
+  - https://github.com/chingloong/pg_xid
+  - https://github.com/stvhanna/pg_xid
+  - https://github.com/teamlint/pg_xid
+- https://github.com/cruzdb/pg_zlog
+  - https://github.com/gencer/pg_zlog
+  - https://github.com/nzioki/pg_zlog
+- https://github.com/ildus/pg_zstd
+- https://github.com/yonj1e/pgagent-c
+  - https://github.com/hailanwhu/pgagent-c
+- https://github.com/pgaudit/pgaudit
+  - https://github.com/7u4/pgaudit
+  - https://github.com/ApollusEHS-OSS/pgaudit
+  - https://github.com/Bensant/pgaudit
+  - https://github.com/Brysounds/pgaudit
+  - https://github.com/EnterpriseDB/pgaudit
+    - https://github.com/Shobha987/pgaudit
+    - https://github.com/commandprompt/pgaudit
+    - https://github.com/yydzero/pgaudit
+  - https://github.com/GanieLinn/pgaudit
+  - https://github.com/MasahikoSawada/pgaudit
+  - https://github.com/MinervaDB/MinervaDB-pgaudit
+  - https://github.com/MingchunZhao/pgaudit
+  - https://github.com/Nogas/pgaudit
+  - https://github.com/Nyquest/pgaudit
+  - https://github.com/a13xg0/pgaudit
+  - https://github.com/a615549958/pgaudit
+  - https://github.com/basant-gurung/pgaudit
+  - https://github.com/berkanyiildirim/pgaudit
+  - https://github.com/blunney1/pgaudit
+  - https://github.com/bossartn/pgaudit
+  - https://github.com/brenoinojosa/pgaudit
+  - https://github.com/cedlerouge/pgaudit
+  - https://github.com/citrus-josip/pgaudit
+  - https://github.com/colin-lee/pgaudit
+  - https://github.com/cybernetics/pgaudit
+  - https://github.com/davherrmann/pgaudit
+  - https://github.com/dbelling/pgaudit
+  - https://github.com/df7cb/pgaudit
+  - https://github.com/enevaca/pgaudit
+  - https://github.com/firdausramlan/pgaudit
+  - https://github.com/fmbiete/pgaudit
+  - https://github.com/gaoxueyu/pgaudit
+  - https://github.com/gfphoenix78/pgaudit
+  - https://github.com/gridl/pgaudit
+  - https://github.com/guanqingtao/pgaudit
+  - https://github.com/guoyu07/pgaudit
+  - https://github.com/hansbretscher/pgaudit
+  - https://github.com/hhorak/pgaudit
+  - https://github.com/hunleyd/pgaudit
+  - https://github.com/iamstraderb/pgaudit
+  - https://github.com/isgasho/pgaudit
+  - https://github.com/jameschen79/pgaudit
+  - https://github.com/jasonodonnell/pgaudit
+  - https://github.com/jconway/pgaudit
+  - https://github.com/jinisaweaklearner/pgaudit
+  - https://github.com/joe2hpimn/pgaudit
+  - https://github.com/konduktor4ik/pgaudit
+  - https://github.com/konstar/pgaudit
+  - https://github.com/kotsachin/pgaudit
+  - https://github.com/krnkaf/pgaudit
+  - https://github.com/ksanchezcld/pgaudit
+  - https://github.com/lfspark/pgaudit
+  - https://github.com/linearregression/pgaudit
+  - https://github.com/macbash/pgaudit
+  - https://github.com/mariusmarais/pgaudit
+  - https://github.com/marton78/pgaudit
+  - https://github.com/moiraphill/pgaudit
+  - https://github.com/motte/pgaudit
+  - https://github.com/mpalmi/pgaudit
+  - https://github.com/ossc-db/pgaudit
+    - https://github.com/harada-toshi/pgaudit
+    - https://github.com/higuchi-daisuke/pgaudit
+    - https://github.com/ooyamams/pgaudit
+    - https://github.com/tameguro/pgaudit
+  - https://github.com/pabit/pgaudit
+  - https://github.com/petere/pgaudit
+  - https://github.com/qadahtm/pgaudit
+    - https://github.com/YahyaJaved/pgaudit
+  - https://github.com/ratanasoth/pgaudit
+  - https://github.com/richardcevans/pgaudit
+  - https://github.com/robins/pgaudit
+  - https://github.com/rogeriofalcone/pgaudit
+  - https://github.com/ruimonteiro84/pgaudit
+  - https://github.com/serhermar-stratio/pgaudit
+  - https://github.com/sharmay/pgaudit
+  - https://github.com/sjas/pgaudit
+  - https://github.com/spring582k/pgaudit
+  - https://github.com/svb007/pgaudit
+  - https://github.com/ugurlu2001/pgaudit
+  - https://github.com/ulozenka/pgaudit
+  - https://github.com/wahello/pgaudit
+  - https://github.com/wolfgangbrandl/pgaudit
+  - https://github.com/xxorde/pgaudit
+  - https://github.com/yulicrunchy/pgaudit
+- https://github.com/godouxm/pgaudit
+  - https://github.com/dblessing1026/pgaudit
+  - https://github.com/dblugeon/pgaudit
+  - https://github.com/ivoras/pgaudit
+  - https://github.com/jonranes/pgaudit
+  - https://github.com/uptimejp/pgaudit
+- https://github.com/dvarrazzo/pgaudit
+  - https://github.com/GambitResearch/pgaudit
+- https://github.com/fmbiete/pgauditlogtofile
+  - https://github.com/hunleyd/pgauditlogtofile
+- https://github.com/redraiment/pgaut
+- https://github.com/Tostino/pgAutomator-extension
+- https://github.com/tezhangmsvan/pgazure
+- https://github.com/CrunchyData/pgbouncer_fdw
+  - https://github.com/Mechachleopteryx/pgbouncer_fdw
+  - https://github.com/crunchymaggie/pgbouncer_fdw
+  - https://github.com/cybernetics/pgbouncer_fdw
+  - https://github.com/dattatraya-nirmal/pgbouncer_fdw
+  - https://github.com/ichux/pgbouncer_fdw
+  - https://github.com/keithf4/pgbouncer_fdw
+  - https://github.com/sgrinko/pgbouncer_fdw
+  - https://github.com/sharmay/pgbouncer_fdw
+  - https://github.com/zhuomingliang/pgbouncer_fdw
+- https://github.com/davidfetter/pgbouncer_wrapper
+  - https://github.com/blunney1/pgbouncer_wrapper
+  - https://github.com/dattatraya-nirmal/pgbouncer_wrapper
+  - https://github.com/gplv2/pgbouncer_wrapper
+  - https://github.com/valehdba/pgbouncer_wrapper
+- https://github.com/johto/pgbrotli
+- https://github.com/fengttt/pgc_fdw
+  - https://github.com/cktan/pgc_fdw
+  - https://github.com/joe2hpimn/pgc_fdw
+- https://github.com/kingluo/pgcat-pgxs
+  - https://github.com/isgasho/pgcat-pgxs
+- https://github.com/worden341/pgchronos
+  - https://github.com/antithrombus/pgchronos
+  - https://github.com/gabiruh/pgchronos
+  - https://github.com/loveencounterflow/pgchronos
+- https://github.com/AbdulYadi/pgcodec7
+- https://github.com/chet0xhenry/pgcompress
+- https://github.com/johto/pgcov
+- https://github.com/vventirozos/pgcozy
+- https://github.com/grzm/pgcrockford
+- https://github.com/pandrewhk/pgcurl
+- https://github.com/rustprooflabs/pgdd
+- https://github.com/lacanoid/pgddl
+  - https://github.com/ayuryshev/pgddl
+  - https://github.com/datadevopscloud/pgddl
+  - https://github.com/davidfetter/pgddl
+    - https://github.com/dattatraya-nirmal/pgddl
+  - https://github.com/impersoft/pgddl
+  - https://github.com/patrickToca/pgddl
+  - https://github.com/ugurlu2001/pgddl
+  - https://github.com/wind39/pgddl
+  - https://github.com/yusufnar/pgddl
+  - https://github.com/zhuomingliang/pgddl
+- https://github.com/macenv/pgdecibel
+  - https://github.com/Derek-Anderson/pgdecibel
+  - https://github.com/MACNoise/pgdecibel
+- https://github.com/okbob/pgDecimal
+- https://github.com/vitesse-ftian/pgdecimal
+  - https://github.com/macdice/pgdecimal
+- https://github.com/tlb-lab/pgeigen
+- https://github.com/petere/pgemailaddr
+  - https://github.com/TheMatjaz/pg_emailaddress
+  - https://github.com/meteogrid/pgemailaddr
+  - https://github.com/pvh/pgemailaddr
+- https://github.com/2ndquadrant-it/pgespresso
+  - https://github.com/johnskopis/pgespresso
+  - https://github.com/kevinsmeets/pgespresso
+  - https://github.com/kotsachin/pgespresso
+  - https://github.com/leonardoce/pgespresso
+  - https://github.com/omegascorp/pgespresso
+  - https://github.com/saaros/pgespresso
+- https://github.com/tsv2013/pgext
+- https://github.com/ycku/pgeyes
+- https://github.com/pme/pgfft
+  - https://github.com/min-mwei/pgfft
+- https://github.com/pgfincore/pgfincore
+  - https://github.com/isgasho/pgfincore
+- https://github.com/klando/pgfincore
+  - https://github.com/EmptyLi/pgfincore
+  - https://github.com/RatanGithub/pgfincore
+  - https://github.com/VladislavePolyakov/pgfincore
+  - https://github.com/WeiJie-JL/pgfincore
+  - https://github.com/abernard/pgfincore
+  - https://github.com/b-xiang/pgfincore
+  - https://github.com/baobao219/pgfincore
+  - https://github.com/dimitri/pgfincore
+  - https://github.com/dut3062796s/pgfincore
+  - https://github.com/isgasho/pgfincore-1
+- https://github.com/mausimag/pgflake
+- https://github.com/michelp/pgfsm
+  - https://github.com/dejan-stankovic/sqlfsm
+  - https://github.com/emrul/sqlfsm
+  - https://github.com/sorokine/sqlfsm
+  - https://github.com/time-series-tools/sqlfsm
+- https://github.com/michelp/pggraphblas
+  - https://github.com/The-Alchemist/pggraphblas
+  - https://github.com/ankitml/pggraphblas
+  - https://github.com/baajur/pggraphblas
+  - https://github.com/cvnb/pggraphblas
+  - https://github.com/efynn/pggraphblas
+  - https://github.com/emrul/pggraphblas
+  - https://github.com/gragonvlad/pggraphblas
+  - https://github.com/hunglethanh9/pggraphblas
+  - https://github.com/intfrr/pggraphblas
+  - https://github.com/joe2hpimn/pggraphblas
+  - https://github.com/mbrukman/pggraphblas
+  - https://github.com/min-mwei/pggraphblas
+  - https://github.com/monad-one/pggraphblas
+  - https://github.com/rongfengliang/pggraphblas
+  - https://github.com/shunpeizhang/pggraphblas
+  - https://github.com/swissborgcanada/pggraphblas
+  - https://github.com/szarnyasg/pggraphblas
+  - https://github.com/zhangaz1/pggraphblas
+  - https://github.com/zhaonaiy/pggraphblas
+- https://github.com/dlr-eoc/pgh3
+  - https://github.com/ArnaudSwail/pgh3
+  - https://github.com/greatathrun/pgh3
+  - https://github.com/kucjac/pgh3
+  - https://github.com/nmandery/pgh3
+  - https://github.com/willcohen/pgh3
+    - https://github.com/jfrez/pgh3
+- https://github.com/markokr/pghashlib
+  - https://github.com/David-Gould/pghashlib
+  - https://github.com/NightTsarina/pghashlib
+  - https://github.com/RelateIQ-chef/pghashlib
+  - https://github.com/bgdevlab/pghashlib
+  - https://github.com/blunney1/pghashlib
+  - https://github.com/br0ch0n/pghashlib
+  - https://github.com/dimitri/pghashlib
+  - https://github.com/postsql/pghashlib
+  - https://github.com/rdu16625/pghashlib
+  - https://github.com/schinazi/pghashlib
+  - https://github.com/tomhebbron/pghashlib
+  - https://github.com/tvondra/pghashlib
+- https://github.com/zxdvd/pghelper
+- https://github.com/baverman/pghll
+  - https://github.com/mengjin001/pghll
+- https://github.com/troels/pghooks
+- https://github.com/liang7878/pgintegrity
+- https://github.com/michelp/pgjwt
+  - https://github.com/7u4/pgjwt
+  - https://github.com/AVitaminOz-z-z/pgjwt
+  - https://github.com/BryceDFisher/pgjwt
+  - https://github.com/ChinaMCat/pgjwt
+  - https://github.com/GennadyMV/pgjwt
+  - https://github.com/PierreRochard/pgjwt
+  - https://github.com/QubitsSolucoes/pgjwt
+  - https://github.com/Rackar/pgjwt
+  - https://github.com/RekGRpth/pgjwt
+  - https://github.com/SiD86/pgjwt
+  - https://github.com/Syldup/pgjwt
+  - https://github.com/Thranduillion/pgjwt
+  - https://github.com/batbayar-su/pgjwt
+  - https://github.com/brunodroid/pgjwt
+  - https://github.com/cherryservers/pgjwt
+  - https://github.com/cuulee/pgjwt
+  - https://github.com/dfcsoftware/pgjwt
+  - https://github.com/dofer404/pgjwt
+  - https://github.com/egno/pgjwt
+  - https://github.com/georgreen/pgjwt
+  - https://github.com/gurjeet/pgjwt
+  - https://github.com/ionelanton/pgjwt
+  - https://github.com/jDebu/pgjwt
+  - https://github.com/jchead/pgjwt
+  - https://github.com/mortifia/pgjwt
+  - https://github.com/n3ur0id/pgjwt
+  - https://github.com/przor3n/pgjwt
+  - https://github.com/qibinlin/pgjwt
+  - https://github.com/raphet/pgjwt
+  - https://github.com/rasata/pgjwt
+  - https://github.com/rebelstackio/pgjwt
+  - https://github.com/samtheprogram/pgjwt
+  - https://github.com/shakahl/pgjwt
+  - https://github.com/tcyrus/pgjwt
+  - https://github.com/terminalkitten/pgjwt
+  - https://github.com/veriKami/pgjwt
+  - https://github.com/wmathes/pgjwt
+  - https://github.com/x2nie/pgjwt
+  - https://github.com/yeernet/pgjwt
+- https://github.com/mike-kfed/pgknx
+- https://github.com/enova/pgl_ddl_deploy
+  - https://github.com/KiceSanders/pgl_ddl_deploy
+  - https://github.com/Slach/pgl_ddl_deploy
+  - https://github.com/anhbaysgalan1/pgl_ddl_deploy
+  - https://github.com/chicagomikee/pgl_ddl_deploy
+  - https://github.com/cpaelzer/pgl_ddl_deploy
+  - https://github.com/dattatraya-nirmal/pgl_ddl_deploy
+  - https://github.com/df7cb/pgl_ddl_deploy
+    - https://github.com/okbob/pgl_ddl_deploy
+  - https://github.com/dsalvador-dsalvador/pgl_ddl_deploy
+  - https://github.com/honeytrry/pgl_ddl_deploy
+  - https://github.com/jfinzel/pgl_ddl_deploy
+  - https://github.com/pilgrim-push/pgl_ddl_deploy
+  - https://github.com/sham6215/pgl_ddl_deploy
+  - https://github.com/vipgh0828/pgl_ddl_deploy
+- https://github.com/petere/pglibuuid
+  - https://github.com/theory/pglibuuid
+- https://github.com/2ndQuadrant/pglog
+  - https://github.com/commandprompt/pglog
+- https://github.com/2ndQuadrant/pglogical
+  - https://github.com/BlackSakura3C/pglogical
+  - https://github.com/CommandPromptOSS/pglogical
+  - https://github.com/CynnySpace/pglogical
+  - https://github.com/DonnyZhao/pglogical
+  - https://github.com/Sergei-Zaitsev/pglogical
+  - https://github.com/Terry1504/pglogical
+  - https://github.com/asifnaeem/pglogical
+  - https://github.com/bdrouvot/pglogical
+  - https://github.com/bdrouvotAWS/pglogical
+  - https://github.com/brushtyler/pglogical
+  - https://github.com/bzed/pglogical
+  - https://github.com/carrot-garden/postgres_pglogical
+  - https://github.com/chtitux/pglogical
+  - https://github.com/commandprompt/pglogical
+    - https://github.com/nucleoosystem/pglogical
+  - https://github.com/database-cache/pglogical
+  - https://github.com/dpirotte/pglogical
+  - https://github.com/drakmail/pglogical
+  - https://github.com/eulerto/pglogical
+  - https://github.com/film42/pglogical
+  - https://github.com/furio/pglogical
+  - https://github.com/gecube/pglogical
+  - https://github.com/github-lab/pglogical
+  - https://github.com/ikyaqoob/pglogical
+  - https://github.com/isgasho/pglogical
+  - https://github.com/jcasanov/pglogical
+  - https://github.com/jdatcmd/pglogical
+  - https://github.com/jfhyn/pglogical
+  - https://github.com/jfinzel/pglogical
+  - https://github.com/joe2hpimn/pglogical
+  - https://github.com/john5000/pglogical
+  - https://github.com/keakaka/pglogical
+  - https://github.com/kgtdbx/pglogical
+  - https://github.com/kokizzu/pglogical
+  - https://github.com/liuqian1990/pglogical
+  - https://github.com/liuxuc63/pglogical
+  - https://github.com/m99coder/pglogical
+  - https://github.com/marcocitus/pglogical
+  - https://github.com/martinmarques/pglogical
+  - https://github.com/maw3ll/pglogical
+  - https://github.com/moench-tegeder/pglogical
+  - https://github.com/mullr/pglogical
+  - https://github.com/mxjones121/pglogical
+  - https://github.com/nataraj30/pglogical
+  - https://github.com/ozgune/pglogical
+    - https://github.com/onderkalaci/pglogical
+  - https://github.com/pashagolub/pglogical
+  - https://github.com/pensnarik/pglogical
+  - https://github.com/ppnacho69/pglogical
+  - https://github.com/pratmeht/pglogical
+  - https://github.com/rascalDan/pglogical
+  - https://github.com/rjuju/pglogical
+  - https://github.com/rudyryk/pglogical
+  - https://github.com/smkingsoft/pglogical
+  - https://github.com/sowadawid/pglogical
+  - https://github.com/trietphm/pglogical
+  - https://github.com/turnstep/pglogical
+  - https://github.com/unotech001/pglogical
+    - https://github.com/skyformat99/pglogical
+  - https://github.com/zesoup/pglogical
+  - https://github.com/zhaoshiling1017/pglogical
+- https://github.com/vibhorkum/pglogical
+- https://github.com/unotech001/pglogical-2.0
+  - https://github.com/skyformat99/pglogical-2.0
+- https://github.com/enova/pglogical_ticker
+  - https://github.com/cpaelzer/pglogical_ticker
+  - https://github.com/credativ/pglogical_ticker
+  - https://github.com/jfinzel/pglogical_ticker
+- https://github.com/citusdata/pgmasq
+- https://github.com/sveljko/pgmedian
+- https://github.com/F28956/pgmigrations
+- https://github.com/avito-tech/pgmock
+- https://github.com/dvarrazzo/pgmp
+  - https://github.com/alexturc/pgmp
+  - https://github.com/credativ/pgmp
+  - https://github.com/emrul/pgmp
+  - https://github.com/gavioto/pgmp
+  - https://github.com/j2kun/pgmp
+  - https://github.com/petere/pgmp
+  - https://github.com/rep0/pgmp
+  - https://github.com/szymonlipinski/pgmp
+  - https://github.com/tsutsu/pgmp
+- https://github.com/CrunchyData/pgnodemx
+  - https://github.com/cybernetics/pgnodemx
+  - https://github.com/sharmay/pgnodemx
+- https://github.com/johto/pgocrypto
+- https://github.com/beargiles/pgopenssltypes
+- https://github.com/pgoracle/pgora-builtin
+  - https://github.com/gavioto/pgora-builtin
+- https://github.com/pgoracle/pgora-osql
+  - https://github.com/gavioto/pgora-osql
+  - https://github.com/rpiotti/pgora-osql
+- https://github.com/dvarrazzo/pgparts
+- https://github.com/petere/pgpcre
+  - https://github.com/RekGRpth/pgpcre
+  - https://github.com/feloy/pgpcre
+- https://github.com/dalibo/pgpool_adm
+  - https://github.com/gavioto/pgpool_adm
+  - https://github.com/gridl/pgpool_adm
+  - https://github.com/ioguix/pgpool_adm
+    - https://github.com/atullalwani/pgpool_adm
+- https://github.com/wttw/pgpsl
+  - https://github.com/gmekhrenin/pgpsl
+- https://github.com/Minoro/pgpyml
+- https://github.com/RekGRpth/pgqbw
+- https://github.com/AbdulYadi/pgqr
+  - https://github.com/Fenoman/pgqr
+- https://github.com/scttnlsn/pgque
+- https://github.com/AbdulYadi/pgreadfile
+- https://github.com/asotolongo/pgrgraphic
+- https://github.com/vidardb/pgrocks-fdw
+  - https://github.com/chenquanzhao/PostgresForeignDataWrapper
+  - https://github.com/liuxuc63/pgrocks-fdw
+  - https://github.com/rim99/pgrocks-fdw
+  - https://github.com/tenghuanhe/PostgresForeignDataWrapper
+- https://github.com/mikeizbicki/pgrollup
+- https://github.com/no0p/pgsampler
+  - https://github.com/i0seph/pgsampler
+- https://github.com/CrunchyData/pgseccomp
+  - https://github.com/Mechachleopteryx/pgseccomp
+- https://github.com/OnroerendErfgoed/pgSFTI
+  - https://github.com/cahytinne/pgSFTI
+  - https://github.com/soduco/pgSFTI
+- https://github.com/asotolongo/pgsmtp
+  - https://github.com/sathishsms/pgsmtp
+- https://github.com/AbdulYadi/pgsocket
+  - https://github.com/cuulee/pgsocket
+  - https://github.com/gridl/pgsocket
+- https://github.com/michelp/pgsodium
+  - https://github.com/0xflotus/pgsodium
+  - https://github.com/cuulee/pgsodium
+  - https://github.com/cybernetics/pgsodium
+  - https://github.com/emrul/pgsodium
+  - https://github.com/hoangpq/pgsodium
+  - https://github.com/intfrr/pgsodium
+  - https://github.com/marcmunro/pgsodium
+  - https://github.com/milesrichardson/pgsodium
+  - https://github.com/nicksort/pgsodium
+- https://github.com/lacanoid/pgsparql
+- https://github.com/johto/pgspeck
+  - https://github.com/TribalKnowledgeGroup/pgspeck
+- https://github.com/pramsey/pgsql-addressing-dictionary
+  - https://github.com/darrell/pgsql-addressing-dictionary
+  - https://github.com/geo-msp/pgsql-addressing-dictionary
+    - https://github.com/Chealer/pgsql-addressing-dictionary
+  - https://github.com/glw/pgsql-addressing-dictionary
+  - https://github.com/nurey/pgsql-addressing-dictionary
+  - https://github.com/rhysallister/pgsql-addressing-dictionary
+  - https://github.com/vicchi/pgsql-addressing-dictionary
+  - https://github.com/vlasvlasvlas/pgsql-addressing-dictionary
+- https://github.com/pramsey/pgsql-arraymath
+  - https://github.com/decibel/pgsql-arraymath
+  - https://github.com/elb3k/pgsql-arraymath
+  - https://github.com/min-mwei/pgsql-arraymath
+  - https://github.com/robe2/pgsql-arraymath
+- https://github.com/df7cb/pgsql-asn1oid
+  - https://github.com/dineshks1/pgsql-asn1oid
+  - https://github.com/dthadi3/pgsql-asn1oid
+- https://github.com/csimsek/pgsql-fio
+  - https://github.com/Bryan-Turek/pgsql-fio
+  - https://github.com/ayaheka/pgsql-fio
+  - https://github.com/lbonco/pgsql-fio
+  - https://github.com/lelit/pgsql-fio
+  - https://github.com/mbona92/pgsql-fio
+  - https://github.com/steve-chavez/pgsql-fio
+  - https://github.com/usta/pgsql-fio
+- https://github.com/hexiaoting/pgsql-gis-fdw
+- https://github.com/pramsey/pgsql-gzip
+  - https://github.com/datadevopscloud/pgsql-gzip
+  - https://github.com/forgingblock/pgsql-gzip
+  - https://github.com/glennpjones/pgsql-gzip
+  - https://github.com/jefbarn/pgsql-gzip
+  - https://github.com/joe2hpimn/pgsql-gzip
+  - https://github.com/min-mwei/pgsql-gzip
+  - https://github.com/nyurik/pgsql-gzip
+  - https://github.com/olksdr/pgsql-gzip
+  - https://github.com/void52/pgsql-gzip
+- https://github.com/pramsey/pgsql-http
+  - https://github.com/Apsalar/pgsql-http
+  - https://github.com/Florents-Tselai/pgsql-http
+  - https://github.com/HamiciRyadh/pgsql-http
+  - https://github.com/JackYu00000/pgsql-http
+  - https://github.com/JazMagno/pgsql-http
+  - https://github.com/PostgresProfessionals/pgsql-http
+  - https://github.com/RekGRpth/pgsql-http
+  - https://github.com/alx-atgs/pgsql-http
+  - https://github.com/amosbird/pgsql-http
+  - https://github.com/andrewclarkii/pgsql-http
+  - https://github.com/arakattack/pgsql-http
+  - https://github.com/asdawn/pgsql-http
+  - https://github.com/awesomehimanshu/pgsql-http
+  - https://github.com/baditaflorin/pgsql-http
+  - https://github.com/baynezy/pgsql-http
+  - https://github.com/binlabnet/pgsql-http
+  - https://github.com/christoph-st/pgsql-http
+  - https://github.com/clojurians-org/pgsql-http
+    - https://github.com/clonekim/pgsql-http
+  - https://github.com/cnefan31/pgsql-http
+  - https://github.com/crackoff/pgsql-http
+  - https://github.com/csimsek/pgsql-http
+  - https://github.com/cule/pgsql-http
+  - https://github.com/cuulee/pgsql-http
+  - https://github.com/cybernetics/pgsql-http
+  - https://github.com/dai-yamashita/pgsql-http
+  - https://github.com/dkkuzmin/pgsql-http
+  - https://github.com/docteurklein/pgsql-http
+  - https://github.com/dorbodwolf/pgsql-http
+  - https://github.com/dreamsxin/pgsql-http
+  - https://github.com/duocoda/pgsql-http
+  - https://github.com/ericdai/pgsql-http
+  - https://github.com/eydunn/pgsql-http
+  - https://github.com/failgoddess/pgsql-http
+  - https://github.com/fgcarto/pgsql-http
+  - https://github.com/fzeeshan/pgsql-http
+  - https://github.com/gijs/pgsql-http
+  - https://github.com/gilby125/pgsql-http
+  - https://github.com/gjalves/pgsql-http
+  - https://github.com/goldenm-software/pgsql-http
+  - https://github.com/isgasho/pgsql-http
+  - https://github.com/jadsonbr/pgsql-http
+  - https://github.com/jfhyn/pgsql-http
+  - https://github.com/josemarsilva/pgsql-http
+  - https://github.com/lavela/pgsql-http
+  - https://github.com/marshallm/pgsql-http
+  - https://github.com/mecampbellsoup/pgsql-http
+  - https://github.com/mhuichen/pgsql-http
+  - https://github.com/min-mwei/pgsql-http
+  - https://github.com/mixmind/pgsql-http
+  - https://github.com/mnemosdev/pgsql-http
+  - https://github.com/moreiraandre/pgsql-http
+  - https://github.com/mshen7310/pgsql-http
+  - https://github.com/myddrin/pgsql-http
+  - https://github.com/mywin/pgsql-http
+  - https://github.com/rads-io/pgsql-http
+  - https://github.com/rahulmeshram/pgsql-http
+  - https://github.com/redraiment/pgsql-http
+  - https://github.com/robe2/pgsql-http
+  - https://github.com/rootlocal/pgsql-http
+  - https://github.com/samueyes/pgsql-http
+  - https://github.com/shrikarvk/pgsql-http
+  - https://github.com/silentnull/pgsql-http
+  - https://github.com/ssqf/pgsql-http
+  - https://github.com/suishaojian/pgsql-http
+  - https://github.com/syyunn/pgsql-http
+  - https://github.com/tbussmann/pgsql-http
+  - https://github.com/tcoupin/pgsql-http
+  - https://github.com/trourance/pgsql-http
+  - https://github.com/tsingson/pgsql-http
+  - https://github.com/viktortat/pgsql-http
+  - https://github.com/wangxhere/pgsql-http
+  - https://github.com/yehengxuan/pgsql-http
+  - https://github.com/zeta1999/pgsql-http
+  - https://github.com/zhutony/pgsql-http
+  - https://github.com/zubayedrakib/pgsql-http
+- https://github.com/pramsey/pgsql-ogr-fdw
+  - https://github.com/DevotionZhu/pgsql-ogr-fdw
+  - https://github.com/Geode/pgsql-ogr-fdw
+  - https://github.com/bowguy/pgsql-ogr-fdw
+  - https://github.com/chaogis/pgsql-ogr-fdw
+  - https://github.com/cuulee/pgsql-ogr-fdw
+  - https://github.com/datadevopscloud/pgsql-ogr-fdw
+  - https://github.com/df7cb/pgsql-ogr-fdw
+  - https://github.com/donrv/pgsql-ogr-fdw
+  - https://github.com/dthadi3/pgsql-ogr-fdw
+  - https://github.com/fladi/pgsql-ogr-fdw
+  - https://github.com/hexiaoting/pgsql-ogr-fdw
+  - https://github.com/jianlirong/pgsql-ogr-fdw
+  - https://github.com/jipeream/pgsql-ogr-fdw
+  - https://github.com/jrjsmrtn/pgsql-ogr-fdw
+  - https://github.com/linxing58/pgsql-ogr-fdw
+  - https://github.com/mccuskk/pgsql-ogr-fdw-1
+  - https://github.com/mtravis/pgsql-ogr-fdw
+  - https://github.com/mysidewalk/pgsql-ogr-fdw
+  - https://github.com/nextstopsun/pgsql-ogr-fdw
+  - https://github.com/orrholly/pgsql-ogr-fdw
+  - https://github.com/pchaozhong/pgsql-ogr-fdw
+  - https://github.com/rhysallister/pgsql-ogr-fdw
+  - https://github.com/robe2/pgsql-ogr-fdw
+  - https://github.com/rouault/pgsql-ogr-fdw
+  - https://github.com/stev-0/pgsql-ogr-fdw
+- https://github.com/cayetanobv/pgsql-pcg-random
+- https://github.com/pramsey/pgsql-postal
+  - https://github.com/DevMui/pgsql-postal
+  - https://github.com/cuulee/pgsql-postal
+  - https://github.com/darkblue-b/pgsql-postal
+  - https://github.com/darrell/pgsql-postal
+  - https://github.com/diaevd/pgsql-postal
+  - https://github.com/drewc/pgsql-postal
+  - https://github.com/fahadshabir/pgsql-postal
+  - https://github.com/generalpiston/pgsql-postal
+  - https://github.com/gijs/pgsql-postal
+  - https://github.com/leezqcst/pgsql-postal
+  - https://github.com/rads-io/pgsql-postal
+  - https://github.com/vlasvlasvlas/pgsql-postal
+- https://github.com/maternity/pgsql_rrule
+- https://github.com/AbdulYadi/pgstrtranslate
+- https://github.com/MIuserX/pgsword
+  - https://github.com/skyformat99/pgsword
+- https://github.com/theory/pgtap
+  - https://github.com/DailyActie/WEB_DB_TEST-pgtap
+  - https://github.com/Godwottery/pgtap
+  - https://github.com/LloydAlbin/pgtap
+  - https://github.com/NotBrianZach/pgtap
+  - https://github.com/PeteDevoy/pgtap
+  - https://github.com/TobiasBengtsson/pgtap
+  - https://github.com/amcorreia/pgtap
+  - https://github.com/asoki/pgtap
+  - https://github.com/brock1337/pgtap
+  - https://github.com/cal97g/pgtap
+  - https://github.com/cbandy/pgtap
+  - https://github.com/cfrankl/pgtap
+  - https://github.com/chamini2/pgtap
+  - https://github.com/chanmix51/pgtap
+  - https://github.com/credativ/pgtap
+  - https://github.com/cybertec-postgresql/pgtap
+  - https://github.com/davehowell/pgtap
+  - https://github.com/decibel/pgtap
+  - https://github.com/dianhenglau/pgtap
+  - https://github.com/eGullGolf/pgtap
+  - https://github.com/eltonrodrigues/pgtap
+  - https://github.com/fluca1978/pgtap
+  - https://github.com/fullstackenviormentss/pgtap
+  - https://github.com/gavioto/pgtap
+  - https://github.com/godouxm/pgtap
+  - https://github.com/grzm/pgtap
+  - https://github.com/gurjeet/pgtap
+  - https://github.com/hetalvasavada/pgtap
+  - https://github.com/hgl/pgtap
+  - https://github.com/ihabhussein/pgtap
+  - https://github.com/itissid/pgtap
+  - https://github.com/jabclab/pgtap
+  - https://github.com/jiaoyk/pgtap
+  - https://github.com/jmarca/pgtap
+  - https://github.com/kotslon/pgtap
+  - https://github.com/kt888/pgtap
+  - https://github.com/kzathey/pgtap
+  - https://github.com/lailai23/pgtap
+  - https://github.com/lossendae/pgtap
+  - https://github.com/madflow/pgtap
+  - https://github.com/marcenuc/pgtap
+  - https://github.com/marco44/pgtap
+  - https://github.com/mattdeluco/pgtap
+  - https://github.com/mwanner/pgtap
+  - https://github.com/nasbyj/pgtap
+  - https://github.com/pau4o/pgtap
+  - https://github.com/prateek/pgtap
+  - https://github.com/pyramation/pgtap
+  - https://github.com/rodevl/pgtap
+  - https://github.com/sandinosaso/pgtap
+  - https://github.com/slaught/pgtap
+  - https://github.com/strk/pgtap
+  - https://github.com/wolfgangwalther/pgtap
+  - https://github.com/wwalda/pgtap
+- https://github.com/panwenhang/pgtools
+  - https://github.com/caichangqi/pgtools
+- https://github.com/gavioto/pgtsql
+- https://github.com/bigsql/pgtsql
+- https://github.com/darold/pgtt-rsl
+  - https://github.com/stelf/pgtt
+- https://github.com/petere/pguint
+  - https://github.com/Genomicsplc/pguint
+  - https://github.com/Lexty/pguint
+  - https://github.com/dverite/pguint
+  - https://github.com/mgoldshteyn/pguint
+  - https://github.com/proger10/pguint
+    - https://github.com/asenchenko/pguint
+    - https://github.com/kwikwag/pguint
+    - https://github.com/zlojvavan/pguint
+  - https://github.com/rksm/pguint
+  - https://github.com/sguzman/pguint
+  - https://github.com/sherlockcpp/pguint
+  - https://github.com/theory/pguint
+- https://github.com/madebykite/pgunicoll
+- https://github.com/dylex/pguri
+- https://github.com/petere/pguri
+  - https://github.com/EnricoKern/pguri
+  - https://github.com/EvanCarroll/pguri
+  - https://github.com/MarHoff/pguri
+  - https://github.com/antanst/pguri
+  - https://github.com/bogolla/pguri
+  - https://github.com/drivergroup/pguri
+  - https://github.com/lacanoid/pguri
+  - https://github.com/meteogrid/pguri
+  - https://github.com/optidb/pguri
+  - https://github.com/pvh/pguri
+  - https://github.com/renesugar/pguri
+  - https://github.com/rubythonode/pguri
+- https://github.com/ankane/pgvector
+  - https://github.com/blunney1/pgvector
+- https://github.com/petere/pgvihash
+  - https://github.com/blunney1/pgvihash
+- https://github.com/lacanoid/pgwiki
+- https://github.com/storm-db/pgxc_dns
+  - https://github.com/nkgfirecream/pgxc_dns
+- https://github.com/einhverfr/pgxn-postgres_monitoring
+  - https://github.com/cybercrazy/pgxn-postgres_monitoring
+- https://github.com/ycku/pgxn_hello_world
+- https://github.com/johto/pgxsd
+  - https://github.com/zenmark/pgxsd
+- https://github.com/davidbeauchamp/pgzint
+  - https://github.com/dai-yamashita/pgzint
+  - https://github.com/sagati90/pgzint
+- https://github.com/grahamedgecombe/pgzstd
+  - https://github.com/kadu-ribeiro/pgzstd
+- https://github.com/a5221985/PhaseZero_Scripts
+- https://github.com/pipelinedb/pipeline_kafka
+  - https://github.com/GZ315200/pipeline_kafka
+  - https://github.com/JiaxingSong/pipeline_kafka
+  - https://github.com/KeithGao/pipeline_kafka
+  - https://github.com/aidyfeng/pipeline_kafka
+  - https://github.com/blunney1/pipeline_kafka
+  - https://github.com/cbsmith/pipeline_kafka
+  - https://github.com/cluo/pipeline_kafka
+  - https://github.com/dreamsxin/pipeline_kafka
+  - https://github.com/gb198871/pipeline_kafka
+  - https://github.com/gogoyp/pipeline_kafka
+  - https://github.com/joe2hpimn/pipeline_kafka
+  - https://github.com/mindis/pipeline_kafka
+  - https://github.com/ramy-ahmed/pipeline_kafka
+  - https://github.com/skyformat99/pipeline_kafka
+  - https://github.com/suishaojian/pipeline_kafka
+  - https://github.com/theJC/pipeline_kafka
+  - https://github.com/wangchunyu907/pipeline_kafka
+  - https://github.com/weburnit/pipeline_kafka
+  - https://github.com/wenqzheng/pipeline_kafka
+  - https://github.com/www3838438/pipeline_kafka
+  - https://github.com/zxh2013/pipeline_kafka
+- https://github.com/yexiaoxin1992/pipeline_kafka
+- https://github.com/pipelinedb/pipeline_kinesis
+  - https://github.com/blunney1/pipeline_kinesis
+- https://github.com/pipelinedb/pipeline_odbc
+- https://github.com/pipelinedb/pipelinedb
+  - https://github.com/1minimalist/pipelinedb
+  - https://github.com/2ndQuadrant/pipelinedb
+    - https://github.com/commandprompt/pipelinedb
+  - https://github.com/GZ315200/pipelinedb
+  - https://github.com/GanieLinn/pipelinedb
+  - https://github.com/Godwottery/pipelinedb
+  - https://github.com/PostgresProfessionals/pipelinedb
+  - https://github.com/ReinhardHsu/pipelinedb
+  - https://github.com/SiftLogic/pipelinedb
+  - https://github.com/TIAGOOOLIVEIRA/pipelinedb
+  - https://github.com/Vadim0908/pipelinedb
+  - https://github.com/Widom/pipelinedb
+  - https://github.com/ahmedriza/pipelinedb
+  - https://github.com/akulkarni/pipelinedb
+  - https://github.com/amihajlovic/pipelinedb
+  - https://github.com/anke522/pipelinedb
+  - https://github.com/awesomeDataTool/pipelinedb
+  - https://github.com/ayaheka/pipelinedb
+  - https://github.com/b-xiang/pipelinedb
+  - https://github.com/barrycug/pipelinedb
+  - https://github.com/bugorz/pipelinedb
+  - https://github.com/cheesedosa/pipelinedb
+  - https://github.com/davidkohn88/pipelinedb
+  - https://github.com/digitalsanity/pipelinedb
+  - https://github.com/docteurklein/pipelinedb
+  - https://github.com/dreamsxin/pipelinedb
+  - https://github.com/durdyev/pipelinedb
+  - https://github.com/guanqingtao/pipelinedb
+  - https://github.com/gurjeet/pipelinedb
+  - https://github.com/hannson/pipelinedb
+  - https://github.com/hcyrs/pipelinedb
+  - https://github.com/hyperdrivetech/pipelinedb
+  - https://github.com/isgasho/pipelinedb
+  - https://github.com/javartisan/pipelinedb
+  - https://github.com/joacoc/pipelinedb
+  - https://github.com/joaopedrotaveira/pipelinedb
+  - https://github.com/kva3umoda/pipelinedb
+  - https://github.com/lazerhawk/pipelinedb
+  - https://github.com/liuxuc63/pipelinedb
+  - https://github.com/lunsir/pipelinedb
+  - https://github.com/lx6317648/pipelinedb
+  - https://github.com/maktec/pipelinedb
+  - https://github.com/marciodel/pipelinedb
+  - https://github.com/margiex/pipelinedb
+  - https://github.com/min-mwei/pipelinedb
+  - https://github.com/miraclehjt/pipelinedb
+  - https://github.com/ml-lab/pipelinedb
+  - https://github.com/nunb/pipelinedb
+  - https://github.com/perrynzhou/pipelinedb
+  - https://github.com/ramy-ahmed/pipelinedb
+  - https://github.com/rendong951/pipelinedb
+  - https://github.com/sskserk/pipelinedb
+  - https://github.com/stjordanis/pipelinedb
+  - https://github.com/stvhanna/pipelinedb
+  - https://github.com/tsdb-io/pipelinedb
+  - https://github.com/va1da5/pipelinedb
+  - https://github.com/wengyanqing/pipelinedb
+  - https://github.com/wenqzheng/pipelinedb
+  - https://github.com/wenshengzhang/pipelinedb
+  - https://github.com/yydzero/pipelinedb
+  - https://github.com/zhuomingliang/pipelinedb
+  - https://github.com/zmmfsj-z/pipelinedb
+- https://github.com/qingqibing/pipelinedb
+- https://github.com/pjungwir/pjpg
+- https://github.com/mejedi/planscape-postgresql-module
+- https://github.com/greenplum-db/plcontainer
+  - https://github.com/HaozhouWang/plcontainer
+  - https://github.com/gfphoenix78/plcontainer
+  - https://github.com/howie-cn/plcontainer
+  - https://github.com/krait007/plcontainer
+  - https://github.com/markwort/plcontainer
+  - https://github.com/paul-guo-/plcontainer
+  - https://github.com/rmyva/plcontainer
+    - https://github.com/yva/plcontainer
+  - https://github.com/violet2016/plcontainer
+  - https://github.com/weinan003/plcontainer
+  - https://github.com/wengyanqing/plcontainer
+  - https://github.com/xuebinsu/plcontainer
+  - https://github.com/yydzero/plcontainer
+  - https://github.com/zhangteng5513/plcontainer
+- https://github.com/andywicht/pldebugger
+- https://github.com/soycacan/pldebugger
+  - https://github.com/jfhyn/pldebugger
+- https://github.com/bigsql/pldebugger2
+- https://github.com/Brick-Abode/pldotnet
+- https://github.com/rongfengliang/plgo-rpm
+- https://github.com/beargiles/pljava-udt-type-extension
+  - https://github.com/jcflack/pljava-udt-type-extension
+- https://github.com/niquola/pljq
+  - https://github.com/davidfetter/pljq
+- https://github.com/JerrySievert/pljs
+- https://github.com/pljulia/pljulia
+  - https://github.com/ImreSamu/pljulia
+  - https://github.com/dai-yamashita/pljulia
+  - https://github.com/konskov/pljulia
+  - https://github.com/zcaudate/pljulia
+- https://github.com/davecramer/pljvm
+- https://github.com/gyepisam/pllua
+  - https://github.com/norman/pllua
+- https://github.com/mauzo/pllua
+- https://github.com/mweber26/pllua
+- https://github.com/pllua/pllua-deprecated
+  - https://github.com/EdwardBetts/pllua
+  - https://github.com/arcapos/pllua
+  - https://github.com/bjne/pllua
+  - https://github.com/daurnimator/pllua
+  - https://github.com/df7cb/pllua
+  - https://github.com/dryangkun/pllua
+  - https://github.com/dzabraev/pllua
+  - https://github.com/eugwne/pllua
+  - https://github.com/golgote/pllua
+  - https://github.com/mteletin/pllua
+  - https://github.com/page2me/pllua
+  - https://github.com/suishaojian/pllua
+  - https://github.com/sunfj/pllua
+  - https://github.com/up1/pllua
+- https://github.com/eugwne/pllua_unstable
+- https://github.com/choplin/plmruby
+  - https://github.com/dai-yamashita/plmruby
+- https://github.com/no0p/plotpg
+- https://github.com/okbob/plpgsql_check
+  - https://github.com/JaspreetSaluja/plpgsql_check
+  - https://github.com/Nogas/plpgsql_check
+  - https://github.com/PierreDucroquet/plpgsql_check
+  - https://github.com/RealEnder/plpgsql_check
+  - https://github.com/RekGRpth/plpgsql_check
+  - https://github.com/RobertMatkulcik/plpgsql_check
+  - https://github.com/andruche/plpgsql_check
+  - https://github.com/blunney1/plpgsql_check
+  - https://github.com/clix-dev-llc/plpgsql_check
+  - https://github.com/codedao-io/plpgsql_check
+  - https://github.com/cybernetics/plpgsql_check
+  - https://github.com/denishpatel/plpgsql_check
+  - https://github.com/dkkuzmin/plpgsql_check
+  - https://github.com/frankies/plpgsql_check
+  - https://github.com/gopiganesh/plpgsql_check
+  - https://github.com/gridl/plpgsql_check
+  - https://github.com/hiranp/plpgsql_check
+  - https://github.com/hoa-nx/plpgsql_check
+  - https://github.com/jfhyn/plpgsql_check
+  - https://github.com/jj80/plpgsql_check
+  - https://github.com/kryonix/plpgsql_check
+  - https://github.com/linuxsch/plpgsql_check
+  - https://github.com/liuyuanyuan/plpgsql_check
+  - https://github.com/marvel-works/plpgsql_check
+  - https://github.com/ozczecho/plpgsql_check
+  - https://github.com/rjuju/plpgsql_check
+  - https://github.com/skyformat99/plpgsql_check
+  - https://github.com/smkingsoft/plpgsql_check
+  - https://github.com/theory/plpgsql_check
+  - https://github.com/turbine/plpgsql_check
+  - https://github.com/vassterg/plpgsql_check
+  - https://github.com/zhihuiFan/plpgsql_check
+  - https://github.com/zhuomingliang/plpgsql_check
+- https://github.com/OmniDB/plpgsql_debugger
+  - https://github.com/credativ/plpgsql_debugger
+- https://github.com/pinkonio/plprofiler
+  - https://github.com/qzren1982/plprofiler
+  - https://github.com/zhuomingliang/plprofiler
+- https://github.com/bigsql/plprofiler
+  - https://github.com/arvidma/plprofiler
+  - https://github.com/guanqingtao/plprofiler
+  - https://github.com/isgasho/plprofiler
+- https://github.com/glynastill/plprofiler
+- https://github.com/nad2000/plproxy
+- https://github.com/ksedgwic/plproxy
+- https://github.com/plproxy/plproxy
+  - https://github.com/BIAOXYZ/plproxy
+  - https://github.com/BaiShaoqi/plproxy
+  - https://github.com/CartoDB/plproxy
+    - https://github.com/oss-spanish-geoserver/plproxy
+  - https://github.com/CyberDem0n/plproxy
+  - https://github.com/Jaime2ndQuadrant/plproxy
+  - https://github.com/NikolayS/plproxy
+  - https://github.com/Ormod/plproxy-dev
+  - https://github.com/SeanLiuID/plproxy
+  - https://github.com/ServiceFoundation/plproxy
+  - https://github.com/SiteSoft/plproxy-dev
+  - https://github.com/connLAN/plproxy
+  - https://github.com/credativ/plproxy
+  - https://github.com/cuulee/plproxy
+  - https://github.com/cybertec-postgresql/plproxy
+  - https://github.com/dai-yamashita/plproxy
+  - https://github.com/dargor/plproxy-dev
+  - https://github.com/eshkinkot/plproxy
+  - https://github.com/fluca1978/plproxy
+  - https://github.com/glubbered/plproxy-dev
+  - https://github.com/isgasho/plproxy
+  - https://github.com/larsvikb/plproxy
+  - https://github.com/laurenz/plproxy
+  - https://github.com/liuxuc63/plproxy
+  - https://github.com/luisbosque/plproxy
+  - https://github.com/markokr/plproxy-dev
+  - https://github.com/moench-tegeder/plproxy
+  - https://github.com/myrkraverk/plproxy
+  - https://github.com/saaros/plproxy-dev
+  - https://github.com/smkingsoft/plproxy
+  - https://github.com/stisti/plproxy-dev
+  - https://github.com/tarvip/plproxy-dev
+  - https://github.com/theory/plproxy-dev
+  - https://github.com/ubuntu-repo/plproxy
+  - https://github.com/z2tzzzz/plproxy
+- https://github.com/singular-labs/plproxy
+- https://github.com/93Alliance/plproxy
+- https://github.com/pykello/plpythont
+- https://github.com/godfat/plruby
+- https://github.com/petere/plsh
+  - https://github.com/Hadryan/plsh
+  - https://github.com/MarHoff/plsh
+  - https://github.com/Maxime2/plsh
+  - https://github.com/RekGRpth/plsh
+  - https://github.com/allanian/plsh
+  - https://github.com/amutu/plsh
+  - https://github.com/baditaflorin/plsh
+  - https://github.com/cesarmarinhorj/plsh
+  - https://github.com/df7cb/plsh
+  - https://github.com/gridl/plsh
+  - https://github.com/moesio/plsh
+  - https://github.com/nathannau/plsh
+  - https://github.com/shereshevsky/plsh-1
+  - https://github.com/wayneeseguin/plsh
+  - https://github.com/ylchou/plsh
+  - https://github.com/zhdk123456/plsh
+- https://github.com/credativ/plsh-mtb
+- https://github.com/drforr/plsix
+- https://github.com/salva/plswipl
+  - https://github.com/fogbeam/plswipl
+- https://github.com/okbob/pltoolbox
+  - https://github.com/lanrat/pltoolbox
+  - https://github.com/silentnull/pltoolbox
+- https://github.com/Geodan/plv8_geo
+  - https://github.com/tomvantilburg/plv8_geo
+- https://github.com/slardiere/plv8_modules
+  - https://github.com/emrul/plv8_modules
+- https://github.com/rapportive-oss/plv8js
+  - https://github.com/strategist922/plv8js
+- https://github.com/javisantana/pmpp
+  - https://github.com/coreyhuinker/pmpp
+    - https://github.com/razielleizar/pmpp
+  - https://github.com/pensnarik/pmpp
+  - https://github.com/yazun/pmpp
+- https://github.com/cristianprice/polycrack
+- https://github.com/patchsoft/postcode
+- https://github.com/cahutton/postgis_domains
+- https://github.com/lidan233/PostgreLidan
+- https://github.com/chimpler/postgres-aws-s3
+  - https://github.com/AngusWaller/postgres-aws-s3
+  - https://github.com/IrishBird/postgres-aws-s3
+  - https://github.com/greghroberts/postgres-aws-s3
+  - https://github.com/ivanaslamov/postgres-aws-s3
+  - https://github.com/mjgp2/postgres-aws-s3
+  - https://github.com/mobikitinc/postgres-aws-s3
+  - https://github.com/oyarushe/postgres-aws-s3
+  - https://github.com/phileon/postgres-aws-s3
+- https://github.com/tychota/postgres-base32
+- https://github.com/anthony3221/Postgres-Calculator-Extension
+- https://github.com/JoanneBogart/postgres-cmath
+- https://github.com/LSSTDESC/postgres-cmath
+  - https://github.com/RekGRpth/postgres-cmath
+  - https://github.com/durango/postgres-cmath
+- https://github.com/Asa-Nisi-Masa/postgres-cosine-similarity
+- https://github.com/dreamsxin/postgres-function
+- https://github.com/gavinwahl/postgres-json-schema
+  - https://github.com/ChiralBehaviors/postgres-json-schema
+  - https://github.com/TRoetz/postgres-json-schema
+  - https://github.com/ayuryshev/postgres-json-schema
+  - https://github.com/cuulee/postgres-json-schema
+  - https://github.com/dags/postgres-json-schema
+  - https://github.com/darioielardi/postgres-json-schema
+  - https://github.com/dreamsxin/postgres-json-schema
+  - https://github.com/enlyze/postgres-json-schema
+  - https://github.com/ganehag/postgres-json-schema
+  - https://github.com/lseppala/postgres-json-schema
+  - https://github.com/prelim/postgres-json-schema
+  - https://github.com/rajdeep26/postgres-json-schema
+  - https://github.com/screencloud/postgres-json-schema
+  - https://github.com/sidec/postgres-json-schema
+  - https://github.com/stvhanna/postgres-json-schema
+  - https://github.com/tailstorm/postgres-json-schema
+  - https://github.com/terminalkitten/postgres-json-schema
+  - https://github.com/thebf/postgres-json-schema
+  - https://github.com/themaick/postgres-json-schema
+  - https://github.com/tilinna/postgres-json-schema
+  - https://github.com/vergenzt/postgres-json-schema
+  - https://github.com/vieiraEverton/postgres-json-schema
+  - https://github.com/vorberohus/postgres-json-schema
+  - https://github.com/wmathes/postgres-json-schema
+- https://github.com/shobhanav/postgres-median
+- https://github.com/PixNyanNyan/postgres-phash-hamming
+  - https://github.com/gordonbanderson/postgres-phash-hamming
+  - https://github.com/h0kd33/postgres-phash-hamming
+- https://github.com/mspiegel/postgres-playground
+- https://github.com/mpartel/postgres-protobuf
+- https://github.com/riyazwalikar/postgres-runcmd-extension
+- https://github.com/dverite/postgres-shacrypt
+  - https://github.com/RekGRpth/postgres-shacrypt
+- https://github.com/maciekgajewski/postgres-uints
+- https://github.com/NaokiNakamichi/postgres_extension
+- https://github.com/commandprompt/postgres_fdw
+  - https://github.com/fabriziomello/postgres_fdw
+  - https://github.com/llcoolchak/postgres_fdw
+  - https://github.com/pchaozhong/postgres_fdw
+- https://github.com/MasaoFujii/postgres_fdw_plus
+  - https://github.com/joe2hpimn/postgres_fdw_plus
+- https://github.com/ccstolley/postgres_median
+- https://github.com/JLockerman/postgres_median_aggregate
+- https://github.com/johto/postgres_numeric_trim
+- https://github.com/vpikulik/postgres_osm_pbf_fdw
+- https://github.com/MasaoFujii/postgres_security
+- https://github.com/citusdata/postgres_vectorization_test
+  - https://github.com/TheFlowerGarden/postgres_vectorization_test
+  - https://github.com/X-erath/postgres_vectorization_test
+  - https://github.com/blunney1/postgres_vectorization_test
+  - https://github.com/canguler/postgres_vectorization_test
+  - https://github.com/digoal/postgres_vectorization_test
+  - https://github.com/isgasho/postgres_vectorization_test
+  - https://github.com/lambder/postgres_vectorization_test
+  - https://github.com/neuroradiology/postgres_vectorization_test
+  - https://github.com/noname-man/postgres_vectorization_test
+  - https://github.com/nvdnkpr/postgres_vectorization_test
+  - https://github.com/ray6080/postgres_vectorization_test
+  - https://github.com/rmoorman/postgres_vectorization_test
+  - https://github.com/sshyran/postgres_vectorization_test
+  - https://github.com/sungsoo/postgres_vectorization_test
+  - https://github.com/weishishuo/postgres_vectorization_test
+  - https://github.com/xifanlou/postgres_vectorization_test
+- https://github.com/jsc0218/PostgresForeignDataWrapper
+  - https://github.com/soarpenguin/PostgresForeignDataWrapper
+- https://github.com/patmandu/postgresmedian
+- https://github.com/yieldsfalsehood/postgresml
+- https://github.com/oknj/postgresql-9.4-pg-bigm
+- https://github.com/ntkme/postgresql-cidr
+- https://github.com/nad2000/postgresql-contrib-uint
+- https://github.com/Katello/postgresql-evr
+- https://github.com/jjw12345/postgresql-extension
+- https://github.com/dyninc/postgresql-fast-guid
+- https://github.com/df7cb/postgresql-hamradio
+- https://github.com/citusdata/postgresql-hll
+  - https://github.com/Erin-H/postgresql-hll
+  - https://github.com/HanumathRao/postgresql-hll
+  - https://github.com/IronNetCybersecurity/postgresql-hll
+    - https://github.com/steven-sheffey-tungsten/postgresql-hll
+  - https://github.com/Karry/postgresql-hll
+  - https://github.com/M-Chin/postgresql-hll
+  - https://github.com/RuthNjeri/postgresql-hll
+  - https://github.com/SaitTalhaNisanci/postgresql-hll
+  - https://github.com/Smithx10/postgresql-hll
+  - https://github.com/The-Alchemist/postgresql-hll
+  - https://github.com/alberts/postgresql-hll
+  - https://github.com/alyo-software/postgresql-hll
+  - https://github.com/benjbaron/postgresql-hll
+  - https://github.com/blunney1/postgresql-hll
+  - https://github.com/brave-intl/postgresql-hll
+  - https://github.com/brk0v/postgresql-hll
+  - https://github.com/chanelm/postgresql-hll
+  - https://github.com/ckh0618/postgresql-hll
+  - https://github.com/cloudflare/postgresql-hll
+  - https://github.com/cwelton/postgresql-hll
+    - https://github.com/yang-f/postgresql-hll
+  - https://github.com/cybernetics/postgresql-hll
+  - https://github.com/data-storage/postgresql-hll
+  - https://github.com/digoal/postgresql-hll
+  - https://github.com/dineshks1/postgresql-hll
+  - https://github.com/etsangsplk/postgresql-hll
+  - https://github.com/fdr/postgresql-hll
+  - https://github.com/forkeer/postgresql-hll
+  - https://github.com/geelweb/postgresql-hll
+  - https://github.com/gmcquillan/postgresql-hll
+  - https://github.com/groestl/postgresql-hll
+  - https://github.com/hidva/postgresql-hll
+  - https://github.com/imace/postgresql-hll
+  - https://github.com/isgasho/postgresql-hll
+  - https://github.com/jamessewell/postgresql-hll
+  - https://github.com/jankatins/postgresql-hll
+  - https://github.com/javartisan/postgresql-hll
+  - https://github.com/jeffjanes/postgresql-hll
+  - https://github.com/jmfn/postgresql-hll
+  - https://github.com/jnicholls/postgresql-hll
+  - https://github.com/jonathankamau/postgresql-hll
+  - https://github.com/josepowera/postgresql-hll
+  - https://github.com/julianpistorius/postgresql-hll
+  - https://github.com/kainwen-zz/postgresql-hll
+  - https://github.com/kerscher/postgresql-hll
+  - https://github.com/leepro/postgresql-hll
+  - https://github.com/linearregression/postgresql-hll
+  - https://github.com/lizhanyang505/postgresql-hll
+  - https://github.com/lviiii/postgresql-hll
+  - https://github.com/mavensky/postgresql-hll
+  - https://github.com/mendel/postgresql-hll
+  - https://github.com/metdos/postgresql-hll
+  - https://github.com/mtuncer/postgresql-hll
+  - https://github.com/mxk1235/postgresql-hll
+  - https://github.com/olavgg/postgresql-hll
+  - https://github.com/ozgune/postgresql-hll
+  - https://github.com/pgasidlo/postgresql-hll
+  - https://github.com/phstudy/postgresql-hll
+  - https://github.com/prateek/postgresql-hll
+  - https://github.com/pykello/postgresql-hll
+    - https://github.com/bredman/postgresql-hll
+  - https://github.com/ragnar-ouchterlony/postgresql-hll
+  - https://github.com/ramseyxu/postgresql-hll
+  - https://github.com/redvel2/postgresql-hll
+  - https://github.com/renesugar/postgresql-hll
+  - https://github.com/richard-adnuntius/postgresql-hll
+  - https://github.com/schwartzmx/postgresql-hll
+  - https://github.com/segmond/postgresql-hll
+  - https://github.com/stevevls/postgresql-hll
+  - https://github.com/taguchimail/postgresql-hll
+  - https://github.com/tempbottle/postgresql-hll
+  - https://github.com/thehydroimpulse/postgresql-hll
+  - https://github.com/theory/postgresql-hll
+  - https://github.com/vinnix/postgresql-hll
+  - https://github.com/vishistm/postgresql-hll
+  - https://github.com/wenke1020/postgresql-hll
+  - https://github.com/yagelix/postgresql-hll
+  - https://github.com/yeeunshim/postgresql-hll
+  - https://github.com/zhuomingliang/postgresql-hll
+  - https://github.com/zsmj513/postgresql-hll
+- https://github.com/SourceNote/postgresql-hll
+- https://github.com/yorickdewid/PostgreSQL-IBAN
+- https://github.com/repology/postgresql-libversion
+  - https://github.com/simon04/postgresql-libversion
+  - https://github.com/sniperkit/snk.fork.repology-postgresql-libversion
+- https://github.com/juaristi/postgresql-median
+- https://github.com/clime/postgresql-median
+- https://github.com/drewc/postgresql-migrations
+- https://github.com/metabrainz/postgresql-musicbrainz-collate
+  - https://github.com/intgr/postgresql-musicbrainz-collate
+  - https://github.com/mediagraph/postgresql-musicbrainz-collate
+  - https://github.com/mwiencek/postgresql-musicbrainz-collate
+  - https://github.com/tihomiro/postgresql-musicbrainz-collate
+- https://github.com/metabrainz/postgresql-musicbrainz-unaccent
+  - https://github.com/intgr/postgresql-musicbrainz-unaccent
+  - https://github.com/mediagraph/postgresql-musicbrainz-unaccent
+  - https://github.com/mwiencek/postgresql-musicbrainz-unaccent
+- https://github.com/df7cb/postgresql-number
+  - https://github.com/RekGRpth/postgresql-number
+  - https://github.com/zr40/postgresql-number
+- https://github.com/df7cb/postgresql-numeral
+  - https://github.com/RekGRpth/postgresql-numeral
+- https://github.com/eschmar/postgresql-popcount
+- https://github.com/urbic/postgresql-similarity
+  - https://github.com/Hadryan/postgresql-similarity
+  - https://github.com/RekGRpth/postgresql-similarity
+- https://github.com/jeff-davis/PostgreSQL-Temporal
+  - https://github.com/ChristinaCK7/PostgreSQL-Temporal
+  - https://github.com/JaimeLynSchatz/PostgreSQL-Temporal
+  - https://github.com/KimoGeo/PostgreSQL-Temporal
+  - https://github.com/bmoar/PostgreSQL-Temporal
+  - https://github.com/chander/PostgreSQL-Temporal
+  - https://github.com/dai-yamashita/PostgreSQL-Temporal
+  - https://github.com/dimitri/PostgreSQL-Temporal
+    - https://github.com/fromz/PostgreSQL-Temporal
+  - https://github.com/isgasho/PostgreSQL-Temporal
+  - https://github.com/jhohm/PostgreSQL-Temporal
+  - https://github.com/nubiofs/PostgreSQL-Temporal
+  - https://github.com/subssn21/PostgreSQL-Temporal
+  - https://github.com/tomaszkrym/PostgreSQL-Temporal
+  - https://github.com/wadaries/PostgreSQL-Temporal
+- https://github.com/df7cb/postgresql-unit
+  - https://github.com/Empia/postgresql-unit
+  - https://github.com/PranayVJain/postgresql-unit
+  - https://github.com/RekGRpth/postgresql-unit
+  - https://github.com/joshuashaffer/postgresql-unit
+  - https://github.com/jzmiller1/postgresql-unit
+  - https://github.com/macoovacany/postgresql-unit
+  - https://github.com/mpdavison/postgresql-unit
+  - https://github.com/none23/postgresql-unit
+  - https://github.com/pyramation/postgresql-unit
+- https://github.com/danielbulger/postgresql-wilson-ext
+- https://github.com/overplumbum/postgresql-zlib
+  - https://github.com/Lemaf/postgresql-zlib
+- https://github.com/pavilkau/postgresql_anatomy
+- https://github.com/webysther/postgresql_anonymizer
+- https://github.com/postgresqlf/PostgreSQL_f
+  - https://github.com/AdalWolf/PostgreSQL_f
+  - https://github.com/cyberfanta/PostgreSQL_f
+  - https://github.com/thomasgirault/PostgreSQL_f-1
+- https://github.com/hollobon/postgresql_track_renames
+- https://github.com/WinteryFox/PostgresSnowflake
+- https://github.com/monacoremo/postgrest-auth
+  - https://github.com/Hadryan/postgrest-auth
+- https://github.com/powa-team/powa-archivist
+  - https://github.com/CyberDem0n/powa-archivist
+  - https://github.com/Krysztophe/powa-archivist
+  - https://github.com/MSNoh/powa-archivist
+  - https://github.com/anayrat/powa-archivist
+  - https://github.com/banlex73/powa-archivist
+  - https://github.com/dlax/powa-archivist
+  - https://github.com/frost242/powa-archivist
+  - https://github.com/girgen/powa-archivist
+  - https://github.com/gridl/powa-archivist
+  - https://github.com/madtibo/powa-archivist
+  - https://github.com/maito26/powa-archivist
+  - https://github.com/mhagander/powa-archivist
+  - https://github.com/nnn-dev/powa-archivist
+  - https://github.com/nonsensecreativity/powa-archivist
+  - https://github.com/ppetrov91/powa-archivist
+  - https://github.com/zhuomingliang/powa-archivist
+- https://github.com/scarbrofair/ppg_fdw
+  - https://github.com/1100hk/ppg_fdw
+  - https://github.com/asdliuquan/ppg_fdw
+  - https://github.com/kmrmshk/ppg_fdw
+  - https://github.com/pborne/ppg_fdw
+- https://github.com/dimitri/prefix
+  - https://github.com/RekGRpth/prefix
+  - https://github.com/cybernetics/prefix
+  - https://github.com/dmitry-sinina/prefix
+  - https://github.com/eremenko/prefix
+  - https://github.com/gigorok/prefix
+  - https://github.com/martinos/prefix
+  - https://github.com/pandrewhk/prefix
+  - https://github.com/wiltonlazary/prefix
+  - https://github.com/yeti-switch/prefix
+- https://github.com/dimitri/preprepare
+  - https://github.com/RekGRpth/preprepare
+  - https://github.com/cuulee/preprepare
+  - https://github.com/lumieru/preprepare
+  - https://github.com/skunkworker/preprepare
+  - https://github.com/thedrow/preprepare
+- https://github.com/kiranekbote/projectsrepo
+- https://github.com/timescale/promscale_extension
+- https://github.com/osnatairy/provSQL
+- https://github.com/MasahikoSawada/pscan
+- https://github.com/postgrespro/ptrack
+  - https://github.com/darthunix/ptrack
+  - https://github.com/isgasho/ptrack
+  - https://github.com/min-mwei/ptrack
+  - https://github.com/sshyran/ptrack
+- https://github.com/rektide/putpostlogic
+- https://github.com/segasai/q3c
+  - https://github.com/andycasey/q3c
+  - https://github.com/credativ/q3c
+  - https://github.com/cybernetics/q3c
+  - https://github.com/digoal/q3c
+  - https://github.com/esabol/q3c
+  - https://github.com/etstant/q3c
+  - https://github.com/jianlirong/q3c
+  - https://github.com/matwey/q3c
+  - https://github.com/mcstroh/q3c
+  - https://github.com/phan-pivotal/q3c
+  - https://github.com/stefco/q3c
+  - https://github.com/xcamilox/q3c
+- https://github.com/tvondra/quantile
+  - https://github.com/Akiva198/quantile
+  - https://github.com/adjust/quantile
+    - https://github.com/min-mwei/quantile
+  - https://github.com/josselinphilippe/quantile
+  - https://github.com/kimhanse/quantile
+  - https://github.com/letorresl/quantile
+  - https://github.com/paudan/quantile
+  - https://github.com/rbranson/quantile
+  - https://github.com/rtr-nettest/quantile
+  - https://github.com/vakabus/quantile
+- https://github.com/slamdata/quasar-fdw
+  - https://github.com/jell0720/quasar-fdw
+  - https://github.com/jesse-osiecki/quasar-fdw
+  - https://github.com/zeeiyerWork/quasar-fdw
+- https://github.com/yanatan16/quasar_fdw
+- https://github.com/thinkprojectgroup/query_cache
+  - https://github.com/zeta1999/query_cache
+- https://github.com/tvondra/query_histogram
+  - https://github.com/jiayuasu/query_histogram
+- https://github.com/tvondra/query_recorder
+- https://github.com/ehfeng/random
+- https://github.com/tvondra/random
+- https://github.com/tvondra/randomstring
+- https://github.com/pjungwir/range_agg
+  - https://github.com/Coffei/range_agg
+  - https://github.com/dai-yamashita/range_agg
+  - https://github.com/min-mwei/range_agg
+- https://github.com/yazun/range_partitioning
+  - https://github.com/coreyhuinker/range_partitioning
+  - https://github.com/corlogic-code/range_partitioning
+- https://github.com/hexiaoting/rasterdb
+- https://github.com/Daleys/redis_fdw
+- https://github.com/pgexperts/redis_fdw-dev
+- https://github.com/qingqibing/redis_fdw-dev
+- https://github.com/fkfk000/redis_link
+- https://github.com/heisice/redis_wrapper
+- https://github.com/asotolongo/rep_fdw
+- https://github.com/dvarrazzo/replisome
+  - https://github.com/GambitResearch/replisome
+  - https://github.com/Zeto-Ltd/replisome
+    - https://github.com/sbreatnach/replisome
+  - https://github.com/nickmyatt/replisome
+  - https://github.com/rai-shivam/replisome
+  - https://github.com/shivamrai94/replisome
+- https://github.com/asotolongo/resources
+- https://github.com/gilt/role_manager
+  - https://github.com/darklag/role_manager
+  - https://github.com/keithf4/role_manager
+- https://github.com/miguel-branco/root_fdw
+- https://github.com/reshke/router
+- https://github.com/ryapric/rpg
+- https://github.com/durch/rpg_base36
+  - https://github.com/gitter-badger/rpg_base36
+- https://github.com/rtosm/rtosm
+- https://github.com/postgrespro/rum
+  - https://github.com/Alexcn/rum
+  - https://github.com/Bond8888/rum
+  - https://github.com/Junvn/rum
+  - https://github.com/Retror/rum
+  - https://github.com/alexunder1/rum
+  - https://github.com/blunney1/rum
+  - https://github.com/cn3c3p/rum
+  - https://github.com/erthalion/rum
+  - https://github.com/feld/rum
+  - https://github.com/funbringer/rum
+  - https://github.com/gridl/rum
+  - https://github.com/itchix/rum
+  - https://github.com/jeffjanes/rum
+  - https://github.com/jmscott/rum
+  - https://github.com/joe2hpimn/rum
+  - https://github.com/juvu/rum
+  - https://github.com/kemala87/rum
+  - https://github.com/min-mwei/rum
+  - https://github.com/monical1/rum
+  - https://github.com/nwaycn/rum
+  - https://github.com/pashkinelfe/rum
+  - https://github.com/playmoweb/rum
+  - https://github.com/pombredanne/rum
+  - https://github.com/renesugar/rum
+  - https://github.com/shubhambaraiss/rum
+  - https://github.com/slangmgh/rum
+  - https://github.com/telescop/rum
+  - https://github.com/tvondra/rum
+  - https://github.com/vincentchen/rum
+  - https://github.com/zhaoshiling1017/rum
+  - https://github.com/zhuomingliang/rum
+- https://github.com/postgrespro/rusmorph
+  - https://github.com/Shyran-Systems/rusmorph
+  - https://github.com/gridl/rusmorph
+- https://github.com/nahanni/rw_redis_fdw
+  - https://github.com/3manuek/rw_redis_fdw
+  - https://github.com/JackGuoo/rw_redis_fdw
+  - https://github.com/Ozhvankov/rw_redis_fdw
+  - https://github.com/aborche/rw_redis_fdw
+  - https://github.com/adamgolebiowski/rw_redis_fdw
+  - https://github.com/b-xiang/rw_redis_fdw
+  - https://github.com/ddiachkov/rw_redis_fdw
+  - https://github.com/gonzopancho/rw_redis_fdw
+  - https://github.com/gsiz007/rw_redis_fdw
+  - https://github.com/i0seph/rw_redis_fdw
+  - https://github.com/iCyberon/rw_redis_fdw
+  - https://github.com/luxms/rw_redis_fdw
+    - https://github.com/and111016/rw_redis_fdw
+  - https://github.com/nkiraly/rw_redis_fdw
+  - https://github.com/schinckel/rw_redis_fdw
+  - https://github.com/schumajs/rw_redis_fdw
+  - https://github.com/zerosign/rw_redis_fdw
+- https://github.com/AfieldTrails/s2-postgis
+  - https://github.com/Fiery/s2-postgis
+  - https://github.com/cuulee/s2-postgis
+  - https://github.com/maesbri-forks-geo/s2-postgis
+- https://github.com/umitanuki/s3_fdw
+  - https://github.com/LonghronShen/s3_fdw
+  - https://github.com/abernard/s3_fdw
+  - https://github.com/alexramos1/s3_fdw
+  - https://github.com/dev360/s3_fdw
+  - https://github.com/disqus/s3_fdw
+  - https://github.com/eligoenergy/s3_fdw
+  - https://github.com/joe2hpimn/s3_fdw
+  - https://github.com/kashif/s3_fdw
+  - https://github.com/zhq651/s3_fdw
+- https://github.com/DanielJDufour/safecast
+- https://github.com/mohangk/sample_pg_extension
+- https://github.com/tvondra/scrub
+- https://github.com/tvondra/sequential-uuids
+  - https://github.com/7u4/sequential-uuids
+  - https://github.com/Layamon/sequential-uuids
+  - https://github.com/MauroJr/sequential-uuids
+  - https://github.com/danielsen/sequential-uuids
+  - https://github.com/diegofsousa/sequential-uuids
+  - https://github.com/dmoose/sequential-uuids
+  - https://github.com/emersongaudencio/sequential-uuids
+  - https://github.com/keke8273/sequential-uuids
+  - https://github.com/m-creations/sequential-uuids
+  - https://github.com/sehrope/sequential-uuids
+    - https://github.com/bwakkie/sequential-uuids
+  - https://github.com/thinkwelltwd/sequential-uuids
+  - https://github.com/tsingson/sequential-uuids
+  - https://github.com/yourkeychen/sequential-uuids
+  - https://github.com/zhangchye/sequential-uuids
+- https://github.com/cjqhenry14/server_orc_fdw
+  - https://github.com/lkf222/server_orc_fdw
+- https://github.com/fabriziomello/session_variables
+  - https://github.com/dmoraisn/session_variables
+- https://github.com/pgaudit/set_user
+  - https://github.com/CyberDem0n/set_user
+  - https://github.com/blunney1/set_user
+  - https://github.com/crunchymaggie/set_user
+  - https://github.com/mpalmi/set_user
+  - https://github.com/nhuff/set_user
+  - https://github.com/scrummyin/set_user
+  - https://github.com/xenophenes/set_user
+  - https://github.com/yulicrunchy/set_user
+- https://github.com/obartunov/setrank
+- https://github.com/bonesmoses/shard_manager
+- https://github.com/tvondra/shared_ispell
+  - https://github.com/Shyran-Systems/shared_ispell
+  - https://github.com/gridl/shared_ispell
+  - https://github.com/postgrespro/shared_ispell
+    - https://github.com/kemala87/shared_ispell
+- https://github.com/sdsmart/shifting-bloom-filter
+- https://github.com/labgeo/siguanet_quest
+  - https://github.com/quommit/siguanet_quest
+- https://github.com/bruce-shi/smlar
+- https://github.com/SZabirov/smlar
+  - https://github.com/stsouko/smlar
+- https://github.com/x4m/smlar
+- https://github.com/jirutka/smlar
+  - https://github.com/6u6a/smlar
+  - https://github.com/Remi-C/smlar
+  - https://github.com/SamMorrowDrums/smlar
+    - https://github.com/JumpWork/smlar
+  - https://github.com/Sxq2004123/smlar
+  - https://github.com/estum/smlar
+  - https://github.com/fcce/smlar
+  - https://github.com/fehimhatipoglu/smlar
+  - https://github.com/folowing/smlar
+  - https://github.com/golem131/smlar
+  - https://github.com/ieure/smlar
+    - https://github.com/NCarson/smlar
+      - https://github.com/ArturFormella/smlar
+        - https://github.com/Irytacja/smlar
+        - https://github.com/warrenwyf/smlar
+  - https://github.com/inshua/smlar
+  - https://github.com/mr-bear/smlar
+  - https://github.com/redraiment/smlar
+  - https://github.com/sunny8898/smlar
+  - https://github.com/syyunn/smlar
+- https://github.com/poppingtonic/smlar
+  - https://github.com/folowing/smlar-1
+- https://github.com/duckbill/sp-gist
+- https://github.com/dimv36/sphinxlink
+  - https://github.com/ArturFormella/sphinxlink
+    - https://github.com/Irytacja/sphinxlink
+  - https://github.com/MGVK/sphinxlink
+- https://github.com/uptimejp/sql_firewall
+  - https://github.com/GanieLinn/sql_firewall
+  - https://github.com/INTMaxMood/sql_firewall
+  - https://github.com/Safe3/sql_firewall
+  - https://github.com/Vadim0908/sql_firewall
+  - https://github.com/aniontsui/sql_firewall
+  - https://github.com/b-xiang/sql_firewall
+  - https://github.com/bradleyf/sql_firewall
+  - https://github.com/chengang358/sql_firewall
+  - https://github.com/dai-yamashita/sql_firewall
+  - https://github.com/dazuiba008/sql_firewall
+  - https://github.com/fengjixuchui/sql_firewall
+  - https://github.com/huiwenhan/sql_firewall
+  - https://github.com/joe2hpimn/sql_firewall
+  - https://github.com/mbona92/sql_firewall
+  - https://github.com/patrickpreuss/sql_firewall
+  - https://github.com/pombredanne/sql_firewall
+  - https://github.com/poreklo/sql_firewall
+    - https://github.com/turgs/sql_firewall
+      - https://github.com/arnegrim/sql_firewall
+      - https://github.com/ctxer/sql_firewall
+  - https://github.com/rodo/sql_firewall
+  - https://github.com/saisai/sql_firewall
+  - https://github.com/segmond/sql_firewall
+  - https://github.com/tysonclugg/sql_firewall
+  - https://github.com/zone1511/sql_firewall
+- https://github.com/pgspider/sqlite_fdw
+  - https://github.com/HarmonyAngel/sqlite_fdw
+  - https://github.com/KyleLilly/sqlite_fdw
+  - https://github.com/MinhLA1410/sqlite_fdw
+  - https://github.com/aka-sps/sqlite_fdw
+  - https://github.com/arunk-s/sqlite_fdw
+  - https://github.com/evicertia/sqlite_fdw
+    - https://github.com/dbuenor/sqlite_fdw
+  - https://github.com/hamster518/sqlite_fdw
+  - https://github.com/ibarwick/sqlite_fdw
+  - https://github.com/khieuvm/sqlite_fdw
+  - https://github.com/liuxuc63/sqlite_fdw
+  - https://github.com/mesherinovivan/sqlite_fdw
+  - https://github.com/mlt/sqlite_fdw
+  - https://github.com/mochizk/sqlite_fdw
+  - https://github.com/rodrigoieh/sqlite_fdw
+  - https://github.com/scj643/sqlite_fdw
+  - https://github.com/skyformat99/sqlite_fdw
+  - https://github.com/theory/sqlite_fdw
+  - https://github.com/tunghdt/sqlite_fdw
+  - https://github.com/unshare/sqlite_fdw
+  - https://github.com/vinicius-ianni/sqlite_fdw
+- https://github.com/gleu/sqlite_fdw
+  - https://github.com/3manuek/sqlite_fdw
+  - https://github.com/amitlan/sqlite_fdw
+  - https://github.com/doublefint/sqlite_fdw
+  - https://github.com/jim-mlodgenski/sqlite_fdw
+  - https://github.com/laurenz/sqlite_fdw
+    - https://github.com/ubuntu-repo/sqlite_fdw
+  - https://github.com/rjuju/sqlite_fdw
+- https://github.com/aganatramoat/sqlite_fdw
+  - https://github.com/coreyhuinker/sqlite_fdw
+    - https://github.com/apthorpe/sqlite_fdw
+- https://github.com/zombodb/srf
+- https://github.com/frost242/ssi_failures
+- https://github.com/EnterpriseDB/sslutils
+  - https://github.com/Shyran-Systems/sslutils
+- https://github.com/asotolongo/stat_record_old
+- https://github.com/slardiere/streaminglag
+- https://github.com/burggraf/SupaScript
+- https://github.com/raitech/sybase_fdw
+  - https://github.com/leandrohm/sybase_fdw
+- https://github.com/vibhorkum/synchronize-logical-slots
+- https://github.com/pgstuff/sys_syn_dblink
+- https://github.com/EnterpriseDB/system_stats
+  - https://github.com/cybernetics/system_stats
+  - https://github.com/datasentinel/system_stats
+  - https://github.com/efynn/system_stats
+  - https://github.com/joe2hpimn/system_stats
+  - https://github.com/macdice/system_stats
+- https://github.com/peak6/tab_tier
+  - https://github.com/bonesmoses/tab_tier
+- https://github.com/psoo/table_log
+  - https://github.com/credativ/table_log
+    - https://github.com/tbe/table_log
+- https://github.com/glynastill/table_log_pl
+  - https://github.com/jeffjanes/table_log_pl
+- https://github.com/snaga/tablelog
+- https://github.com/ergo70/tanimoto
+- https://github.com/beargiles/tarfile-fdw
+- https://github.com/julmon/tcle
+  - https://github.com/ioguix/tcle
+- https://github.com/ArturFormella/tcn_json
+  - https://github.com/Irytacja/tcn_json
+- https://github.com/tvondra/tdigest
+  - https://github.com/Godwottery/tdigest
+  - https://github.com/cailin-lai/tdigest
+  - https://github.com/citusdata/tdigest
+  - https://github.com/datadevopscloud/tdigest
+  - https://github.com/eMerzh/tdigest
+  - https://github.com/min-mwei/tdigest
+  - https://github.com/zhuomingliang/tdigest
+- https://github.com/tds-fdw/tds_fdw
+  - https://github.com/4321ip/tds_fdw
+  - https://github.com/GermanGlushkov/tds_fdw
+  - https://github.com/GilbertoCuba/tds_fdw
+  - https://github.com/Laeeth/tds_fdw
+  - https://github.com/MThomassen/tds_fdw
+  - https://github.com/Neopallium/tds_fdw
+  - https://github.com/RAFAELDEV2016/tds_fdw
+  - https://github.com/Sabihashaik/tds_fdw
+  - https://github.com/SerialVelocity/tds_fdw
+  - https://github.com/Smtgr14/tds_fdw
+  - https://github.com/TheNorthMemory/tds_fdw
+  - https://github.com/TheRevenantStar/tds_fdw
+  - https://github.com/ZFlyGuy/tds_fdw
+  - https://github.com/angel460grd/tds_fdw
+  - https://github.com/apparentorder/tds_fdw
+  - https://github.com/ayaheka/tds_fdw
+  - https://github.com/bantya/tds_fdw
+  - https://github.com/bikethis81/tds_fdw
+  - https://github.com/briankrznarich/tds_fdw
+  - https://github.com/bullwasher/tds_fdw
+  - https://github.com/calebthompson/tds_fdw
+  - https://github.com/cstork/tds_fdw
+  - https://github.com/cuulee/tds_fdw
+  - https://github.com/cybertec-postgresql/tds_fdw
+  - https://github.com/decibel/tds_fdw
+  - https://github.com/devrimgunduz/tds_fdw
+  - https://github.com/deyiyangyang/tds_fdw
+  - https://github.com/edib/tds_fdw
+  - https://github.com/frbsfri/tds_fdw
+  - https://github.com/gjalves/tds_fdw
+  - https://github.com/hispa-net/tds_fdw
+  - https://github.com/hristogv/tds_fdw
+  - https://github.com/itpizza/tds_fdw
+  - https://github.com/jcarnu/tds_fdw
+  - https://github.com/jerome-peng/tds_fdw
+  - https://github.com/jprice-da15252/tds_fdw
+  - https://github.com/jqnatividad/tds_fdw
+  - https://github.com/juliogonzalez/tds_fdw
+  - https://github.com/kirychenkav/tds_fdw
+  - https://github.com/l-we/tds_fdw
+  - https://github.com/linjose/tds_fdw
+  - https://github.com/lokeshsp/tds_fdw
+  - https://github.com/lxh023/tds_fdw
+  - https://github.com/m-shaytan/tds_fdw
+  - https://github.com/maiolif/tds_fdw
+  - https://github.com/mattiamarzo/tds_fdw
+  - https://github.com/minskmaz/tds_fdw
+  - https://github.com/mnietz/tds_fdw
+  - https://github.com/oduse/tds_fdw
+  - https://github.com/oycl/tds_fdw
+  - https://github.com/phiat/tds_fdw
+  - https://github.com/phord/tds_fdw
+  - https://github.com/postsql/tds_fdw
+  - https://github.com/rmarzocchi84/tds_fdw
+  - https://github.com/rodrigoieh/tds_fdw
+  - https://github.com/ruo2012/tds_fdw
+  - https://github.com/shawjef3/tds_fdw
+  - https://github.com/shoupifeng/tds_fdw
+  - https://github.com/sravan-velagandula/tds_fdw
+  - https://github.com/suishaojian/tds_fdw
+  - https://github.com/taylorthrasher/tds_fdw
+  - https://github.com/tinydevcrm/tds_fdw
+  - https://github.com/tjkluska/tds_fdw
+  - https://github.com/tubaarat/tds_fdw
+  - https://github.com/vagnerdev/tds_fdw
+  - https://github.com/wchmei/tds_fdw
+- https://github.com/okbob/template_fdw
+- https://github.com/rambos22/test
+- https://github.com/sqljson/test
+- https://github.com/r888888888/test_parser
+- https://github.com/x4m/test_pglz
+  - https://github.com/djydewang/test_pglz
+- https://github.com/cahutton/text_domains
+- https://github.com/oknj/textsearch_ja
+  - https://github.com/kyodocn/textsearch_ja
+  - https://github.com/nuko-yokohama/textsearch_ja
+  - https://github.com/postgres-japanese/textsearch_ja
+- https://github.com/pjungwir/time_for_keys
+- https://github.com/scheca/timescale
+- https://github.com/Veera28/timescale
+- https://github.com/cosmicrocks/timescaledb
+  - https://github.com/bygui86/timescaledb
+  - https://github.com/venkatagajara/timescaledb
+    - https://github.com/GAJARA/timescaledb
+- https://github.com/mweber26/timestampandtz
+  - https://github.com/benthomasson/timestampandtz
+  - https://github.com/jordansexton/timestampandtz
+  - https://github.com/shokurov/timestampandtz
+- https://github.com/liguangxian/timing
+  - https://github.com/skyformat99/timing
+- https://github.com/umitanuki/tinyint-postgresql
+  - https://github.com/Dead2/tinyint-postgresql
+  - https://github.com/adjust/tinyint-postgresql
+    - https://github.com/min-mwei/tinyint-postgresql
+  - https://github.com/elwali6/tinyint-postgresql
+  - https://github.com/k-gun/tinyint-postgresql
+- https://github.com/trimark-jp/tm-postgres-basics
+- https://github.com/trimark-jp/tm-updated-date
+- https://github.com/credativ/toastinfo
+  - https://github.com/bdrouvot/toastinfo
+  - https://github.com/ddeka2910/toastinfo
+  - https://github.com/psoo/toastinfo
+- https://github.com/alexeyklyukin/translate_isbn
+- https://github.com/komamitsu/treasuredata_fdw
+  - https://github.com/danielward/treasuredata_fdw
+  - https://github.com/yajirobee/treasuredata_fdw
+- https://github.com/komamitsu/treasuredata_fdw_test
+  - https://github.com/peek-a-boon/treasuredata_fdw_test
+- https://github.com/evetion/trianglearray
+- https://github.com/tvondra/trimmed_aggregates
+  - https://github.com/min-mwei/trimmed_aggregates
+- https://github.com/BrandwatchLtd/trunkfingerprint
+  - https://github.com/bashtanov/trunkfingerprint
+- https://github.com/zulip/tsearch_extras
+  - https://github.com/andersk/tsearch_extras
+  - https://github.com/isabella232/tsearch_extras
+  - https://github.com/likebirds/tsearch_extras
+  - https://github.com/pombredanne/tsearch_extras
+  - https://github.com/sampritipanda/tsearch_extras
+  - https://github.com/timabbott/tsearch_extras
+  - https://github.com/tony/tsearch_extras
+  - https://github.com/yakkl/tsearch_extras
+- https://github.com/postgrespro/tsexact
+  - https://github.com/Shyran-Systems/tsexact
+  - https://github.com/alexshavelev/tsexact
+  - https://github.com/gridl/tsexact
+- https://github.com/goldenhelix/tsf-fdw
+- https://github.com/postgrespro/tsvector2
+  - https://github.com/RekGRpth/tsvector2
+  - https://github.com/ildus/tsvector2
+  - https://github.com/joe2hpimn/tsvector2
+  - https://github.com/sshyran/tsvector2
+- https://github.com/zilder/tuple_fdw
+- https://github.com/umitanuki/twitter_fdw
+  - https://github.com/GunioRobot/twitter_fdw
+  - https://github.com/apsaltis/twitter_fdw
+  - https://github.com/bw-matthew/twitter_fdw
+  - https://github.com/daiti0804/twitter_fdw
+  - https://github.com/davidfetter/twitter_fdw
+  - https://github.com/fferriere/twitter_fdw
+  - https://github.com/nekia/twitter_fdw
+  - https://github.com/rapimo/twitter_fdw
+  - https://github.com/yilab/twitter_fdw
+- https://github.com/3manuek/twitter_parser
+- https://github.com/postgrespro/undam
+  - https://github.com/April01xxx/undam
+  - https://github.com/digoal/undam
+  - https://github.com/min-mwei/undam
+  - https://github.com/qiuwenhuifx/undam
+    - https://github.com/zpzhao/undam
+  - https://github.com/wenshengzhang/undam
+- https://github.com/truthly/uniphant
+- https://github.com/autodatadirect/uniqueidentifier
+- https://github.com/freevryheid/units
+- https://github.com/pgexperts/unnest_ordinality
+- https://github.com/darold/uri
+- https://github.com/okbob/url_encode
+  - https://github.com/GeeeXXX/url_encode
+  - https://github.com/RekGRpth/url_encode
+  - https://github.com/ibotty/url_encode
+  - https://github.com/mavensky/url_encode
+  - https://github.com/rijaslive/url_encode
+  - https://github.com/saber-hyw/url_encode
+  - https://github.com/sify21/url_encode
+  - https://github.com/skyformat99/url_encode
+  - https://github.com/triptone/url_encode
+- https://github.com/tvondra/user_info
+  - https://github.com/dnunezRF/user_info
+- https://github.com/blueskylxb/utinyint
+- https://github.com/RhodiumToad/uuid-freebsd
+  - https://github.com/godouxm/uuid-freebsd
+- https://github.com/asotolongo/vacuum_utils
+- https://github.com/accarniel/VagueGeometry
+  - https://github.com/danielems/VagueGeometry
+- https://github.com/guedes/validadores
+  - https://github.com/sebastianwebber/validadores
+- https://github.com/BlueTreble/variant
+  - https://github.com/decibel/variant
+  - https://github.com/viktorvasyliev/variant-1
+- https://github.com/cybertec-postgresql/vectoragg
+- https://github.com/zhangh43/vectorize_engine
+  - https://github.com/wubeen/vectorize_engine
+- https://github.com/akorotkov/vgram
+  - https://github.com/sech9446/vgram
+- https://github.com/nuko-yokohama/vmatch
+- https://github.com/postgrespro/vops
+  - https://github.com/Komzpa/vops
+  - https://github.com/RekGRpth/vops
+  - https://github.com/ahnqirage/vops
+  - https://github.com/blunney1/vops
+  - https://github.com/corporatepiyush/vops
+  - https://github.com/digoal/vops
+  - https://github.com/gavioto/vops
+  - https://github.com/github-lab/vops
+  - https://github.com/godouxm/vops
+  - https://github.com/gridl/vops
+  - https://github.com/jianlirong/vops
+  - https://github.com/joe2hpimn/vops
+  - https://github.com/kelvich/vops
+  - https://github.com/min-mwei/vops
+  - https://github.com/mindis/vops
+  - https://github.com/ray6080/vops
+  - https://github.com/sshyran/vops
+  - https://github.com/tvesely/vops
+  - https://github.com/wenke1020/vops
+  - https://github.com/wenqzheng/vops
+  - https://github.com/yanyu510/vops
+  - https://github.com/yu45020/vops
+- https://github.com/moritetu/walreader
+- https://github.com/kentik/wdb_fdw
+  - https://github.com/cuulee/wdb_fdw
+- https://github.com/Kozea/weighted_mean
+  - https://github.com/davidfetter/weighted_stats
+    - https://github.com/cbrichford/weighted_stats
+      - https://github.com/alexmac/weighted_stats
+  - https://github.com/petere/weighted_mean
+  - https://github.com/swuecho/weighted_mean
+- https://github.com/postgrespro/wildspeed
+  - https://github.com/Shyran-Systems/wildspeed
+  - https://github.com/gridl/wildspeed
+- https://github.com/adjust/wltree
+  - https://github.com/dreamsxin/ltree
+  - https://github.com/emrul/ltree
+  - https://github.com/loveencounterflow/ltree
+  - https://github.com/min-mwei/wltree
+  - https://github.com/ntemocentr/ltree
+- https://github.com/Sasasu/worker_spi_table_not_exist
+- https://github.com/cyga/www_fdw
+  - https://github.com/ATLTed/www_fdw
+  - https://github.com/Erika31/www_fdw
+  - https://github.com/KrzysztofCzajkaTURCOM/www_fdw-fork
+  - https://github.com/TyrfingMjolnir/www_fdw
+  - https://github.com/bitnitdit/www_fdw
+  - https://github.com/brian612/www_fdw
+  - https://github.com/datadevopscloud/www_fdw
+  - https://github.com/dreamsxin/www_fdw
+  - https://github.com/ioanadanes/www_fdw
+  - https://github.com/jamesnvc/www_fdw
+  - https://github.com/kwesterfeld/www_fdw
+  - https://github.com/lepot311/www_fdw
+  - https://github.com/lifubang/www_fdw
+  - https://github.com/mathroc/www_fdw
+  - https://github.com/olehs/www_fdw
+    - https://github.com/manueltimita/www_fdw
+  - https://github.com/pandrewhk/www_fdw
+  - https://github.com/pchaozhong/www_fdw
+  - https://github.com/robe2/www_fdw
+  - https://github.com/shapingcloud/www_fdw
+  - https://github.com/takanoriyanagitani/www_fdw
+- https://github.com/darthunix/x5fix
+- https://github.com/yazun/xl_global_views
+- https://github.com/snaga/xlogging
+  - https://github.com/fabriziomello/xlogging
+- https://github.com/yeti-switch/yeti-pg-ext
+  - https://github.com/dmitry-sinina/yeti-pg-ext
+- https://github.com/bmuratshin/zcurve
+- https://github.com/amutu/zhparser
+  - https://github.com/326615186/zhparser
+  - https://github.com/759126711/zhparser
+  - https://github.com/AlekseyEf/zhparser
+    - https://github.com/Lurunchik/zhparser
+  - https://github.com/Alexcn/zhparser
+  - https://github.com/CecileJiaqiWang/zhparser
+  - https://github.com/GinPonson/zhparser
+  - https://github.com/ProgrammerHuang/zhparser
+  - https://github.com/Runur/zhparser
+  - https://github.com/awakax/zhparser
+  - https://github.com/binque/zhparser
+  - https://github.com/caichangqi/zhparser
+  - https://github.com/caiguanhao/zhparser
+  - https://github.com/coin8086/zhparser
+  - https://github.com/danielviolin0723/zhparser
+  - https://github.com/defaultRobot/zhparser
+  - https://github.com/digoal/zhparser
+  - https://github.com/dreamsxin/zhparser
+  - https://github.com/eitazhou/zhparser
+  - https://github.com/eric-seekas/zhparser
+  - https://github.com/geeknvs/zhparser
+  - https://github.com/gialib/zhparser
+  - https://github.com/greg2600/zhparser
+  - https://github.com/gshang2017/zhparser
+  - https://github.com/hellobenz/zhparser
+  - https://github.com/hotvulcan/zhparser
+  - https://github.com/howardyan93/zhparser
+  - https://github.com/huangyezuojia/zhparser
+  - https://github.com/huayl/zhparser
+  - https://github.com/jaiminpan/zhparser
+  - https://github.com/jfhyn/zhparser
+  - https://github.com/jifuyi/zhparser
+  - https://github.com/joliny/zhparser
+  - https://github.com/kerneltravel/zhparser
+    - https://github.com/luyaotang/zhparser
+  - https://github.com/kingxsp/zhparser
+  - https://github.com/lcp580/zhparser
+  - https://github.com/liuzongquan/zhparser
+  - https://github.com/lvpython/scws_parser
+    - https://github.com/yzhanginwa/scws_parser
+  - https://github.com/nvs9527/zhparser
+  - https://github.com/osdba/zhparser
+  - https://github.com/paladin74/zhparser
+  - https://github.com/roofeel/zhparser
+  - https://github.com/shredderzwj/zhparser
+  - https://github.com/singletracksystems/zhparser
+  - https://github.com/slangmgh/zhparser
+  - https://github.com/springylm/zhparser
+  - https://github.com/wanghaisheng/zhparser
+  - https://github.com/wangmengyu/zhparser
+  - https://github.com/wangshiyang/zhparser
+  - https://github.com/wolfjiang/zhparser
+  - https://github.com/xiejing2014/zhparser
+  - https://github.com/xuronghao/zhparser
+  - https://github.com/xydoublez/zhparser
+  - https://github.com/zhanglimin/zhparser
+  - https://github.com/zhangsxeryu/zhparser
+  - https://github.com/zhaoshiling1017/zhparser
+  - https://github.com/zhuomingliang/zhparser
+  - https://github.com/zjucsxxd/zhparser
+  - https://github.com/zlianzhuang/zhparser
+  - https://github.com/zpzhao/zhparser
+- https://github.com/beargiles/zipfile-fdw
+- https://github.com/postgrespro/zson
+  - https://github.com/1848/zson
+  - https://github.com/Shyran-Systems/zson
+  - https://github.com/arssher/zson
+  - https://github.com/bjne/zson
+  - https://github.com/bruce-one/zson
+    - https://github.com/nyseion/zson
+  - https://github.com/digoal/zson
+  - https://github.com/emrul/zson
+  - https://github.com/ggapennyworth/zson
+  - https://github.com/gridl/zson
+  - https://github.com/ildus/zson
+  - https://github.com/madislohmus/zson
+  - https://github.com/olshevskiy87/zson
+  - https://github.com/rijalati/zson
+  - https://github.com/umeike/zson
+  - https://github.com/vkey/zson
+  - https://github.com/zheka-13/zson
