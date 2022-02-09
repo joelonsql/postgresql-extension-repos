@@ -22,6 +22,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zdenekhbr/acl
   - https://github.com/zerojuls/acl
 - https://github.com/satya10x/advcopy
+- https://github.com/sanglijunfengDev/aerospike_fdw
+  - https://github.com/smkingsoft/aerospike_fdw
 - https://github.com/bitnine-oss/AgensGraph-Extension
   - https://github.com/JoshInnis/AgensGraph-Extension
   - https://github.com/aysko75/AgensGraph-Extension
@@ -46,11 +48,16 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/min-mwei/aggs_for_arrays
   - https://github.com/semaperepelitsa/aggs_for_arrays
   - https://github.com/tah-alv/aggs_for_arrays
+- https://github.com/ArturFormella/aggs_for_arrays
+  - https://github.com/Irytacja/aggs_for_arrays
 - https://github.com/pjungwir/aggs_for_vecs
   - https://github.com/leszarna/aggs_for_vecs
   - https://github.com/min-mwei/aggs_for_vecs
   - https://github.com/tah-alv/aggs_for_vecs
 - https://github.com/x4m/ags
+- https://github.com/adjust/ajbool
+  - https://github.com/alexeyklyukin/ajbool
+  - https://github.com/min-mwei/ajbool
 - https://github.com/adjust/all_substrings_tokenizer
   - https://github.com/chochkov/all_substrings_tokenizer
 - https://github.com/petergeoghegan/amcheck
@@ -90,6 +97,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/vadv/aqo
   - https://github.com/yoer77/aqo
   - https://github.com/zhihuiFan/aqo
+- https://github.com/chubbymaggie/aqo
+  - https://github.com/JackBro/aqo
 - https://github.com/bashtanov/argm
   - https://github.com/ddryden/argm
   - https://github.com/matthewfranglen/argm
@@ -104,12 +113,21 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/ArturFormella/async_response
   - https://github.com/Irytacja/async_response
 - https://github.com/XiaYingyin/atree
+- https://github.com/2ndQuadrant/audit-trigger
+  - https://github.com/oetiker/pg-audit-json
+    - https://github.com/aciprian/pg-audit-json
+    - https://github.com/balakoder/pg-audit-json
+    - https://github.com/timbod7/pg-audit-json
 - https://github.com/gfphoenix78/autofailover
 - https://github.com/petere/autopex
 - https://github.com/okbob/autoreindex
   - https://github.com/RekGRpth/autoreindex
 - https://github.com/gleu/autovacuum_informations
+- https://github.com/pgstuff/base32_4b
+  - https://github.com/maksart72/base32_4b
 - https://github.com/JLockerman/bench_pg_unwind
+- https://github.com/CyberDem0n/bg_mon
+  - https://github.com/a1exsh/bg_mon
 - https://github.com/sany1231/binvec
 - https://github.com/chenquanzhao/blackhole_fdw
 - https://github.com/pgsql-tw/blackhole_fdw
@@ -135,10 +153,12 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/jaiminpan/cassandra2_fdw
   - https://github.com/cristianprice/cassandra2_fdw
   - https://github.com/wjch-krl/cassandra2_fdw
+- https://github.com/The-Alchemist/cassandra_fdw
 - https://github.com/fedesilva/cassandra_fdw
   - https://github.com/aosmith/cassandra_fdw
 - https://github.com/pgsql-io/cassandra_fdw
-- https://github.com/The-Alchemist/cassandra_fdw
+- https://github.com/QuantamHD/cassandra_fdw
+  - https://github.com/tomwganem/cassandra_fdw
 - https://github.com/yanliu8/cbtree
 - https://github.com/tvondra/ccnumber
   - https://github.com/catharsis256/ccnumber
@@ -184,12 +204,12 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/thebf/clickhousedb_fdw
   - https://github.com/wenqzheng/clickhousedb_fdw
 - https://github.com/vibhorkum/cloneschema
-- https://github.com/remzicanaksoy/cms_topn
 - https://github.com/ozturkosu/cms_topn
   - https://github.com/SufianHassan/cms_topn
   - https://github.com/blunney1/cms_topn
   - https://github.com/mikeizbicki/cms_topn
   - https://github.com/oudalab/mms
+- https://github.com/remzicanaksoy/cms_topn
 - https://github.com/theory/colnames
   - https://github.com/schalas2/colnames
 - https://github.com/semenikhind/complex_contrib
@@ -207,6 +227,11 @@ If some repo is missing, please add it and send a Pull Request.
     - https://github.com/gsiz007/couchdb_fdw
     - https://github.com/ivandasch/couchdb_fdw
   - https://github.com/yaozhangPAN/couchdb_fdw
+- https://github.com/golgauth/couchdb_fdw
+  - https://github.com/gsiz007/couchdb_fdw
+  - https://github.com/ivandasch/couchdb_fdw
+- https://github.com/GuiPerGD/count_distinct
+  - https://github.com/jakubjedelsky/count_distinct
 - https://github.com/tvondra/count_distinct
   - https://github.com/ArturFormella/count_distinct
     - https://github.com/Irytacja/count_distinct
@@ -220,6 +245,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/rattrayalex/count_distinct
   - https://github.com/theory/count_distinct
   - https://github.com/wenqzheng/count_distinct
+- https://github.com/ArturFormella/count_distinct
+  - https://github.com/Irytacja/count_distinct
 - https://github.com/CrunchyData/crunchy_check_access
   - https://github.com/Mechachleopteryx/crunchy_check_access
   - https://github.com/ThomasPoty/crunchy_check_access
@@ -227,7 +254,6 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/keithf4/crunchy_check_access
   - https://github.com/roberto-mello/crunchy_check_access
 - https://github.com/dverite/cryptint
-- https://github.com/wanghongxiang2018/cstore_fdw
 - https://github.com/citusdata/cstore_fdw
   - https://github.com/8adre/cstore_fdw
   - https://github.com/AnimeshChaudhry/cstore_fdw
@@ -365,6 +391,13 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zhdk123456/cstore_fdw
   - https://github.com/zhuomingliang/cstore_fdw
   - https://github.com/zpzhao/cstore_fdw
+- https://github.com/dotnwat/cstore_fdw
+  - https://github.com/maduhu/cstore_fdw
+- https://github.com/junfenglu2016/cstore_fdw
+  - https://github.com/sanglijunfengDev/cstore_fdw
+- https://github.com/ibrarahmad/cstore_fdw
+  - https://github.com/ubuntu-repo/cstore_fdw
+- https://github.com/wanghongxiang2018/cstore_fdw
 - https://github.com/XiaYingyin/ctidscan
   - https://github.com/Fibird/ctidscan
 - https://github.com/kaigai/ctidscan
@@ -372,14 +405,22 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/kelvich/cube
 - https://github.com/fusiongyro/damm
 - https://github.com/Octonica/data_rig
-- https://github.com/darold/datalink
 - https://github.com/lacanoid/datalink
+- https://github.com/darold/datalink
 - https://github.com/apache/datasketches-postgresql
   - https://github.com/erichilarysmithsr/datasketches-postgresql
   - https://github.com/joe2hpimn/incubator-datasketches-postgresql
   - https://github.com/mmusnjak/datasketches-postgresql
   - https://github.com/phstudy/incubator-datasketches-postgresql
   - https://github.com/yvette903/incubator-datasketches-postgresql
+- https://github.com/wolfgangbrandl/db2_fdw
+  - https://github.com/cybernetics/db2_fdw
+  - https://github.com/danielwestermann/db2_fdw
+  - https://github.com/jsoler/db2_fdw
+  - https://github.com/larsvikb/db2_fdw
+  - https://github.com/nicksherron/db2_fdw
+  - https://github.com/roganp/db2_fdw
+  - https://github.com/srqway/db2_fdw
 - https://github.com/credativ/db2fce
   - https://github.com/fglueck/db2fce
   - https://github.com/jsoler/db2fce
@@ -396,6 +437,9 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/vinpokale/dblink_plus
 - https://github.com/okbob/dbms_sql
 - https://github.com/spd010273/dbstat
+- https://github.com/ZhengYang/dc_fdw
+  - https://github.com/alexeyfadeev/dc_fdw
+  - https://github.com/snaga/dc_fdw
 - https://github.com/asotolongo/ddla
 - https://github.com/sebschrader/debian-pkg-postgresql-mysql-fdw
 - https://github.com/MasahikoSawada/debug_funcs
@@ -436,11 +480,14 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/no0p/dict_exclude
 - https://github.com/mohangk/dict_id
   - https://github.com/andhikayuana/dict_id
-- https://github.com/obartunov/dict_regex
 - https://github.com/postgrespro/dict_regex
   - https://github.com/gridl/dict_regex
+- https://github.com/obartunov/dict_regex
 - https://github.com/obartunov/dict_roman
 - https://github.com/za-arthur/dict_translate
+- https://github.com/sarkkine/dict_voikko
+  - https://github.com/pjlampil/dict_voikko
+  - https://github.com/tnatshood/dict_voikko
 - https://github.com/Houston-Inc/dict_voikko
   - https://github.com/MattiL/dict_voikko
   - https://github.com/hlinnaka/dict_voikko
@@ -457,6 +504,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/weinan003/diskquota
   - https://github.com/zhangh43/diskquota
   - https://github.com/zwunix/diskquota
+- https://github.com/tvondra/distinct_estimators
+  - https://github.com/conversant/postgres_hyperloglog
+    - https://github.com/devkong/postgres_hyperloglog
+    - https://github.com/dtatter/postgres_hyperloglog
+    - https://github.com/pivotaldata/postgres_hyperloglog
 - https://github.com/s-hironobu/dont_drop_db
 - https://github.com/xiaowing/douban_fdw
 - https://github.com/cybertec-postgresql/drop_role_helper
@@ -481,6 +533,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/vibhorkum/efm_extension
 - https://github.com/asotolongo/email
 - https://github.com/Kozea/emaj
+- https://github.com/dalibo/emaj
+  - https://github.com/mayeulk/emaj
 - https://github.com/tvondra/empty
 - https://github.com/spd010273/event_manager
 - https://github.com/danolivo/execplan
@@ -500,14 +554,34 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/accarniel/FESTIval
 - https://github.com/niquola/fhir_jsonb
 - https://github.com/niquola/fhirbase
+- https://github.com/wanghaisheng/fhirbase
+  - https://github.com/MrApe/fhirbase
+  - https://github.com/Semalexa/fhirbase
+  - https://github.com/alexpetrov/fhirbase
+  - https://github.com/dheeraj510/fhirbase
+  - https://github.com/gauravkantgoel/fhirbase
+  - https://github.com/pavelone/fhirbase
 - https://github.com/niquola/fhirpath-pg
   - https://github.com/billkien-github/fhirpath-pg
   - https://github.com/datadevopscloud/fhirpath-pg
   - https://github.com/koprinkov/fhirpath-pg
   - https://github.com/nazrulworld/fhirpath-pg
 - https://github.com/japinli/fibonacci
+- https://github.com/lianhuiwang/file_fdw
+  - https://github.com/cpcloud/file_fdw
+  - https://github.com/geezer-workshop/file_fdw
+  - https://github.com/nubiofs/file_fdw
 - https://github.com/corlogic-code/file_fdw_program
   - https://github.com/coreyhuinker/file_fdw_program
+- https://github.com/adunstan/file_fixed_length_record_fdw
+  - https://github.com/davidfetter/file_fixed_length_record_fdw
+  - https://github.com/dchichkov/file_fixed_length_record_fdw
+  - https://github.com/joe2hpimn/file_fixed_length_record_fdw
+- https://github.com/adunstan/file_text_array_fdw
+  - https://github.com/NastyLucas/file_text_array_fdw
+  - https://github.com/hlinnaka/file_text_array_fdw
+  - https://github.com/min-mwei/file_text_array_fdw
+  - https://github.com/pchaozhong/file_text_array_fdw
 - https://github.com/ibarwick/filenode_map_inspect
 - https://github.com/ibarwick/firebird_fdw
   - https://github.com/ms3rgio/firebird_fdw
@@ -523,6 +597,9 @@ If some repo is missing, please add it and send a Pull Request.
     - https://github.com/min-mwei/first_last_agg
   - https://github.com/jacaetevha/first_last_agg
   - https://github.com/mrimbault/first_last_agg
+- https://github.com/adjust/first_last_agg
+  - https://github.com/einhverfr/first_last_agg
+  - https://github.com/min-mwei/first_last_agg
 - https://github.com/2ndQuadrant/fixeddecimal
   - https://github.com/commandprompt/fixeddecimal
   - https://github.com/digoal/fixeddecimal
@@ -533,6 +610,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/pjungwir/floatvec
   - https://github.com/widemeadows/floatvec
 - https://github.com/benchub/flux
+- https://github.com/amutu/fnvhash
+  - https://github.com/klucar/fnvhash
 - https://github.com/komamitsu/foreign_table_exposer
   - https://github.com/bernochoa/foreign_table_exposer
 - https://github.com/melanieplageman/format
@@ -555,6 +634,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/krasnoukhov/geoip
   - https://github.com/min-mwei/geoip
   - https://github.com/rvsoni/geoip
+- https://github.com/parkag/geqo
+  - https://github.com/bcui6611/geqo
 - https://github.com/idrawone/get_sum
 - https://github.com/x4m/gevel
 - https://github.com/hoangpham96/gist-isax
@@ -565,6 +646,10 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/dmolik/git_fdw
   - https://github.com/ryanfmurphy/git_fdw
 - https://github.com/dennwc/go-fdw
+- https://github.com/hangzhou-cstech/gogudb
+  - https://github.com/isgasho/gogudb
+  - https://github.com/tom2jack/gogudb
+  - https://github.com/zhq651/gogudb
 - https://github.com/durch/google-bigtable-postgres-extension
 - https://github.com/durch/google-bigtable-postgres-fdw
   - https://github.com/hcyGo/google-bigtable-postgres-fdw
@@ -622,18 +707,51 @@ If some repo is missing, please add it and send a Pull Request.
     - https://github.com/myrkraverk/hashtypes
   - https://github.com/aleksabl/hashtypes
   - https://github.com/rapimo/hashtypes
+- https://github.com/adjust/hashtypes
+  - https://github.com/alexeyklyukin/hashtypes
+  - https://github.com/min-mwei/hashtypes
+  - https://github.com/myrkraverk/hashtypes
 - https://github.com/fabriziomello/hba_fdw
 - https://github.com/timbira/hba_sql
   - https://github.com/umovme/hba_sql
 - https://github.com/troels/hbase_fdw
+- https://github.com/EnterpriseDB/hdfs_fdw
+  - https://github.com/AlexanderTolstoy/hdfs_fdw
+  - https://github.com/LueChen/hdfs_fdw
+  - https://github.com/Postgres-Connect/hadoopdb_fdw
+  - https://github.com/Shyran-Systems/hdfs_fdw
+  - https://github.com/VinACE/hdfs_fdw
+  - https://github.com/bestyond/hdfs_fdw
+  - https://github.com/datadevopscloud/hdfs_fdw
+  - https://github.com/dreamsxin/hdfs_fdw
+  - https://github.com/gabbasb/hdfs_fdw
+  - https://github.com/isgasho/hdfs_fdw
+  - https://github.com/jasonliaoxiaoge/hdfs_fdw
+  - https://github.com/jeevanladhe/hdfs_fdw
+  - https://github.com/jianlirong/hdfs_fdw
+  - https://github.com/joe2hpimn/hdfs_fdw
+  - https://github.com/kashifzeeshan/hdfs_fdw
+  - https://github.com/mengjin001/hdfs_fdw
+  - https://github.com/mohan-chinnappan-n/hdfs_fdw
+  - https://github.com/nubiofs/hdfs_fdw
+  - https://github.com/oss-qm/hdfs_fdw
+  - https://github.com/ppKrauss/hdfs_fdw
+  - https://github.com/rogervaas/hdfs_fdw
+  - https://github.com/rsahu/hdfs_fdw
+  - https://github.com/sksundaram-learning/hdfs_fdw
+  - https://github.com/sshellmann/hdfs_fdw
+  - https://github.com/sterling312/hdfs_fdw
+  - https://github.com/talhabinrizwan/hdfs_fdw
+  - https://github.com/teaguesterling/hdfs_fdw
+  - https://github.com/wIlliam23o/hdfs_fdw
 - https://github.com/wikrsh/hello_fdw
   - https://github.com/xingweitian/hello_fdw
 - https://github.com/vadv/hide_statements_in_log
 - https://github.com/IrNesterova/hierarchicalClusteringForDiploma
 - https://github.com/GeoHistoricalData/historical_geocoding
-- https://github.com/pgsql-io/hive_fdw
 - https://github.com/bigsql/hive_fdw
   - https://github.com/datadevopscloud/hive_fdw
+- https://github.com/pgsql-io/hive_fdw
 - https://github.com/franckverrot/holycorn
   - https://github.com/abrandoned/holycorn
   - https://github.com/dai-yamashita/holycorn
@@ -686,6 +804,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/PierreDucroquet/icu_ext
   - https://github.com/RekGRpth/icu_ext
   - https://github.com/jakob/icu_ext
+- https://github.com/wangguoke/imcs
+  - https://github.com/aidahz/imcs
 - https://github.com/knizhnik/imcs
   - https://github.com/Junvn/imcs
   - https://github.com/Madusudanan/imcs
@@ -713,6 +833,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/wangguoke/imcs
     - https://github.com/aidahz/imcs
   - https://github.com/zhdk123456/imcs
+- https://github.com/ArturFormella/imgsmlr
+  - https://github.com/Irytacja/imgsmlr
 - https://github.com/postgrespro/imgsmlr
   - https://github.com/ArturFormella/imgsmlr
     - https://github.com/Irytacja/imgsmlr
@@ -744,6 +866,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zgsxwsdxg/imgsmlr
   - https://github.com/zhuomingliang/imgsmlr
   - https://github.com/zjucsxxd/imgsmlr
+- https://github.com/mickeyhaha/imgsmlr
+  - https://github.com/XDYB/imgsmlr
 - https://github.com/apache/incubator-age
   - https://github.com/Cafemug/incubator-age
   - https://github.com/Hadryan/incubator-age
@@ -770,6 +894,9 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/syyunn/incubator-age
   - https://github.com/xocolatl/incubator-age
 - https://github.com/tvondra/index_analyzer
+- https://github.com/pjungwir/inetrange
+  - https://github.com/timbunce/inetrange
+  - https://github.com/zhutony/inetrange
 - https://github.com/pgspider/influxdb_fdw
   - https://github.com/isgasho/influxdb_fdw
   - https://github.com/kanegoon/influxdb_fdw
@@ -779,6 +906,12 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/robe2/influxdb_fdw
   - https://github.com/skyformat99/influxdb_fdw
   - https://github.com/tunghdt/influxdb_fdw
+- https://github.com/credativ/informix_fdw
+  - https://github.com/joe2hpimn/informix_fdw
+  - https://github.com/linuxitux/informix_fdw
+  - https://github.com/psoo/informix_fdw
+  - https://github.com/viewpnt/informix_fdw
+  - https://github.com/ww-it/informix_fdw
 - https://github.com/RhodiumToad/ip4r
   - https://github.com/amutu/ip4r
   - https://github.com/antoniovl/ip4r
@@ -893,7 +1026,13 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/solidsnack/jsoncdc
   - https://github.com/uphold-forks/jsoncdc
   - https://github.com/venuebook/jsoncdc
+- https://github.com/instructure/jsoncdc
+  - https://github.com/ponimas/jsoncdc
+  - https://github.com/zhaoshiling1017/jsoncdc
 - https://github.com/everilae/jsonfun
+- https://github.com/niquola/jsonknife
+  - https://github.com/ir4y/jsonknife
+  - https://github.com/sqljson/jsonknife
 - https://github.com/postgrespro/jsquery
   - https://github.com/FadiZahhar/jsquery
   - https://github.com/RekGRpth/jsquery
@@ -925,6 +1064,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/rschumann/jsquery
   - https://github.com/vlubarsky/jsquery
   - https://github.com/y2kforever23/jsquery
+- https://github.com/alexeyfadeev/jsquery
+  - https://github.com/mobiletta/jsquery
 - https://github.com/asotolongo/jx_io
 - https://github.com/arenadata/kafka-adb-os
 - https://github.com/BrandwatchLtd/kafka_fdw
@@ -1012,6 +1153,9 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/postgrespro/lsm
   - https://github.com/isgasho/lsm
   - https://github.com/joe2hpimn/lsm
+- https://github.com/postgrespro/lsm3
+  - https://github.com/Watch-Later/lsm3
+  - https://github.com/min-mwei/lsm3
 - https://github.com/topretejal/lsm_idx
 - https://github.com/jianingy/ltree
 - https://github.com/seanpringle/lua_fdw
@@ -1022,9 +1166,9 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/matlads/mapcode-postgres
 - https://github.com/tvondra/md5hash
 - https://github.com/NikitOS94/MDBQT
-- https://github.com/sgichohi/median
-- https://github.com/Rahila/Median
 - https://github.com/plotts/median
+- https://github.com/Rahila/Median
+- https://github.com/sgichohi/median
 - https://github.com/jyosoman/median_aggregate
 - https://github.com/postgrespro/memstat
   - https://github.com/ChenHuajun/memstat
@@ -1045,6 +1189,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/syaroslavtsev/mimeo
   - https://github.com/thorpulse/mimeo
   - https://github.com/zhuomingliang/mimeo
+- https://github.com/keithf4/mimeo
+  - https://github.com/perlchild/mimeo
 - https://github.com/leskin-in/mipt-asj
 - https://github.com/postgrespro/mmts
 - https://github.com/snaga/monetdb_fdw
@@ -1054,8 +1200,134 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/nickinchina/monetdb_fdw
   - https://github.com/ray2501/monetdb_fdw
   - https://github.com/vagmi/monetdb_fdw
-- https://github.com/digoal/mongo_fdw
 - https://github.com/RelateIQ-chef/mongo_fdw
+- https://github.com/citusdata/mongo_fdw
+  - https://github.com/EnterpriseDB/mongo_fdw
+    - https://github.com/GaelMagnan/mongo_fdw
+      - https://github.com/joelfillon/mongo_fdw
+    - https://github.com/Innokentiy-Alaytsev/mongo_fdw
+    - https://github.com/InverseLina/mongo_fdw
+    - https://github.com/LeonidChetverikov/mongo_fdw
+    - https://github.com/MikhailJDobrynin/mongo_fdw
+    - https://github.com/Morabaraba/mongo_fdw
+    - https://github.com/Percona-Lab/mongodb_fdw
+      - https://github.com/EvgeniyPatlan/mongodb_fdw
+    - https://github.com/Postgres-Connect/mongodb_fdw
+    - https://github.com/Reimus/mongo_fdw
+    - https://github.com/Shopximity/mongo_fdw
+    - https://github.com/Shyran-Systems/mongo_fdw
+    - https://github.com/Thrash92/mongo_fdw
+    - https://github.com/YuanDdQiao/mongo_fdw
+    - https://github.com/a2ikm/mongo_fdw
+    - https://github.com/alfredclub/mongo_fdw
+    - https://github.com/andreasscherbaum/mongo_fdw
+    - https://github.com/ashevchuk/mongo_fdw
+    - https://github.com/bigo2050/mongo_fdw
+    - https://github.com/blunney1/mongo_fdw
+    - https://github.com/bremac/mongo_fdw
+    - https://github.com/craftdata/mongo_fdw
+    - https://github.com/dreamsxin/mongo_fdw
+    - https://github.com/dtheodor/mongo_fdw
+    - https://github.com/efron/mongo_fdw
+    - https://github.com/guanqingtao/mongo_fdw
+    - https://github.com/ibrarahmad/mongo_fdw
+    - https://github.com/inventionzhang/mongo_fdw
+    - https://github.com/isgasho/mongo_fdw
+    - https://github.com/jjlakis/mongo_fdw
+    - https://github.com/jmcabandara/mongo_fdw
+    - https://github.com/joe2hpimn/mongo_fdw
+    - https://github.com/jungmtg/mongo_fdw
+    - https://github.com/leechunghwan/mongo_fdw
+    - https://github.com/leviysoft/mongo_fdw
+    - https://github.com/lifubang/mongo_fdw
+    - https://github.com/niedfelj/mongo_fdw
+    - https://github.com/nubiofs/mongo_fdw
+    - https://github.com/peterbecich/mongo_fdw
+    - https://github.com/pinkonio/mongo_fdw
+    - https://github.com/rjmcguire/mongo_fdw
+    - https://github.com/sheim-dev/mongo_fdw
+    - https://github.com/siilike/mongo_fdw
+    - https://github.com/templaryan/mongo_fdw
+    - https://github.com/truongsinh/mongo_fdw
+    - https://github.com/vishalbelsare/mongo_fdw
+  - https://github.com/adityaiitd/mongo_fdw
+  - https://github.com/armos-pg/mongo_fdw
+  - https://github.com/bohengchen/mongo_fdw
+  - https://github.com/bredman/mongo_fdw
+  - https://github.com/davidcrawford/mongo_fdw
+    - https://github.com/ldagum/mongo_fdw
+  - https://github.com/eligoenergy/mongo_fdw
+  - https://github.com/gilby125/mongo_fdw
+  - https://github.com/hgmnz/mongo_fdw
+  - https://github.com/jaanek/mongo_fdw
+  - https://github.com/michael-dev/mongo_fdw
+  - https://github.com/nelhage/mongo_fdw
+  - https://github.com/oraclepost/mongo_fdw
+  - https://github.com/pdam/mongo_fdw
+  - https://github.com/pombredanne/mongo_fdw
+  - https://github.com/pritisarode/mongo_fdw
+  - https://github.com/scuiJsonar/mongo_fdw
+  - https://github.com/sumedhpathak/mongo_fwd
+  - https://github.com/theory/mongo_fdw
+  - https://github.com/vedatyrt/mongo_fdw
+  - https://github.com/x746e/mongo_fdw
+  - https://github.com/yilab/mongo_fdw
+  - https://github.com/zerosign/mongo_fdw
+- https://github.com/GaelMagnan/mongo_fdw
+  - https://github.com/joelfillon/mongo_fdw
+- https://github.com/EnterpriseDB/mongo_fdw
+  - https://github.com/GaelMagnan/mongo_fdw
+    - https://github.com/joelfillon/mongo_fdw
+  - https://github.com/Innokentiy-Alaytsev/mongo_fdw
+  - https://github.com/InverseLina/mongo_fdw
+  - https://github.com/LeonidChetverikov/mongo_fdw
+  - https://github.com/MikhailJDobrynin/mongo_fdw
+  - https://github.com/Morabaraba/mongo_fdw
+  - https://github.com/Percona-Lab/mongodb_fdw
+    - https://github.com/EvgeniyPatlan/mongodb_fdw
+  - https://github.com/Postgres-Connect/mongodb_fdw
+  - https://github.com/Reimus/mongo_fdw
+  - https://github.com/Shopximity/mongo_fdw
+  - https://github.com/Shyran-Systems/mongo_fdw
+  - https://github.com/Thrash92/mongo_fdw
+  - https://github.com/YuanDdQiao/mongo_fdw
+  - https://github.com/a2ikm/mongo_fdw
+  - https://github.com/alfredclub/mongo_fdw
+  - https://github.com/andreasscherbaum/mongo_fdw
+  - https://github.com/ashevchuk/mongo_fdw
+  - https://github.com/bigo2050/mongo_fdw
+  - https://github.com/blunney1/mongo_fdw
+  - https://github.com/bremac/mongo_fdw
+  - https://github.com/craftdata/mongo_fdw
+  - https://github.com/dreamsxin/mongo_fdw
+  - https://github.com/dtheodor/mongo_fdw
+  - https://github.com/efron/mongo_fdw
+  - https://github.com/guanqingtao/mongo_fdw
+  - https://github.com/ibrarahmad/mongo_fdw
+  - https://github.com/inventionzhang/mongo_fdw
+  - https://github.com/isgasho/mongo_fdw
+  - https://github.com/jjlakis/mongo_fdw
+  - https://github.com/jmcabandara/mongo_fdw
+  - https://github.com/joe2hpimn/mongo_fdw
+  - https://github.com/jungmtg/mongo_fdw
+  - https://github.com/leechunghwan/mongo_fdw
+  - https://github.com/leviysoft/mongo_fdw
+  - https://github.com/lifubang/mongo_fdw
+  - https://github.com/niedfelj/mongo_fdw
+  - https://github.com/nubiofs/mongo_fdw
+  - https://github.com/peterbecich/mongo_fdw
+  - https://github.com/pinkonio/mongo_fdw
+  - https://github.com/rjmcguire/mongo_fdw
+  - https://github.com/sheim-dev/mongo_fdw
+  - https://github.com/siilike/mongo_fdw
+  - https://github.com/templaryan/mongo_fdw
+  - https://github.com/truongsinh/mongo_fdw
+  - https://github.com/vishalbelsare/mongo_fdw
+- https://github.com/digoal/mongo_fdw
+- https://github.com/davidcrawford/mongo_fdw
+  - https://github.com/ldagum/mongo_fdw
+- https://github.com/Percona-Lab/mongodb_fdw
+  - https://github.com/EvgeniyPatlan/mongodb_fdw
 - https://github.com/frost242/monitoring_role
 - https://github.com/NikitOS94/MonQ
   - https://github.com/zilder/MonQ
@@ -1066,8 +1338,12 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/asotolongo/msmov
 - https://github.com/zhongjn/mtree
 - https://github.com/NaughtyDogOfSchrodinger/multicorn
-- https://github.com/AndrewFribush/Multicorn
+- https://github.com/vmora/Multicorn
+  - https://github.com/mhugo/Multicorn
 - https://github.com/olshevskiy87/multicorn
+- https://github.com/asya999/Multicorn
+  - https://github.com/jdegoes/Multicorn
+  - https://github.com/tdcdiegoh/Multicorn
 - https://github.com/Segfault-Inc/Multicorn
   - https://github.com/1210958801/Multicorn
   - https://github.com/1go/Multicorn
@@ -1186,9 +1462,19 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/youngwookim/Multicorn
   - https://github.com/yyscamper/Multicorn
   - https://github.com/zheya08/Multicorn
+- https://github.com/AndrewFribush/Multicorn
 - https://github.com/evetion/multistar
   - https://github.com/Hellblazer/multistar
 - https://github.com/tongxin/mypg_sharding
+- https://github.com/akamajoris/mysql_fdw
+  - https://github.com/ubuntu-repo/mysql_fdw
+- https://github.com/mrendi29/mysql_fdw
+  - https://github.com/mwarren/mysql_fdw
+- https://github.com/jpohlmann/mysql_fdw
+  - https://github.com/EducationalMeasures/mysql_fdw
+- https://github.com/pgspider/mysql_fdw
+  - https://github.com/Takuma-Kinugawa9730/mysql_fdw
+  - https://github.com/khieuvm/mysql_fdw
 - https://github.com/EnterpriseDB/mysql_fdw
   - https://github.com/AutumnFox/mysql_fdw
   - https://github.com/ChesterHsieh/mysql_fdw
@@ -1301,6 +1587,27 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/ywh1357/mysql_fdw_windows
   - https://github.com/zerosign/mysql_fdw
   - https://github.com/zhaoshiling1017/mysql_fdw
+- https://github.com/postgrespro/mysql_fdw
+  - https://github.com/akamajoris/mysql_fdw
+    - https://github.com/ubuntu-repo/mysql_fdw
+  - https://github.com/gridl/mysql_fdw
+- https://github.com/adam8157/mysql_fdw_greenplum
+  - https://github.com/joe2hpimn/mysql_fdw_greenplum
+- https://github.com/intgr/mysqlcompat
+  - https://github.com/2ndQuadrant/mysqlcompat
+    - https://github.com/commandprompt/mysqlcompat
+    - https://github.com/pyramation/mysqlcompat
+    - https://github.com/skyformat99/mysqlcompat
+- https://github.com/2ndQuadrant/mysqlcompat
+  - https://github.com/commandprompt/mysqlcompat
+  - https://github.com/pyramation/mysqlcompat
+  - https://github.com/skyformat99/mysqlcompat
+- https://github.com/kornelski/mysqlcompat
+  - https://github.com/intgr/mysqlcompat
+    - https://github.com/2ndQuadrant/mysqlcompat
+      - https://github.com/commandprompt/mysqlcompat
+      - https://github.com/pyramation/mysqlcompat
+      - https://github.com/skyformat99/mysqlcompat
 - https://github.com/sangli00/nanomsgtopdb
   - https://github.com/joe2hpimn/nanomsgtopdb
   - https://github.com/skyformat99/nanomsgtopdb
@@ -1321,6 +1628,50 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/tarkmeper/numpgsql
 - https://github.com/rongfengliang/nvl-pg-extension
 - https://github.com/rogerioacp/oblivpg_ftw
+- https://github.com/sgsfak/ocgeo_fdw
+  - https://github.com/0xflotus/ocgeo_fdw
+  - https://github.com/cule/ocgeo_fdw
+- https://github.com/dmdm/odbc_fdw
+  - https://github.com/golgauth/odbc_fdw
+- https://github.com/bluthg/odbc_fdw
+  - https://github.com/CartoDB/odbc_fdw
+    - https://github.com/Algunenano/odbc_fdw
+    - https://github.com/OlderOne2S/odbc_fdw
+    - https://github.com/adunstan/odbc_fdw
+    - https://github.com/bacchuswng/odbc_fdw
+    - https://github.com/jacekrembisz/odbc_fdw
+    - https://github.com/mbona92/odbc_fdw
+    - https://github.com/mlt/odbc_fdw
+    - https://github.com/nhochdrei/odbc_fdw
+    - https://github.com/nikolaysu/odbc_fdw
+    - https://github.com/oss-spanish-geoserver/odbc_fdw
+    - https://github.com/pborne/odbc_fdw
+    - https://github.com/pmonster/odbc_fdw
+    - https://github.com/suishaojian/odbc_fdw
+    - https://github.com/ulfj/odbc_fdw
+    - https://github.com/waTeim/odbc_fdw
+  - https://github.com/matthieupeeters/odbc_fdw
+- https://github.com/hangzhou-cstech/odbc_fdw
+  - https://github.com/dlp-cwarren/odbc_fdw
+  - https://github.com/li8033/odbc_fdw
+- https://github.com/klando/odbc_fdw
+  - https://github.com/credativ/odbc_fdw
+- https://github.com/CartoDB/odbc_fdw
+  - https://github.com/Algunenano/odbc_fdw
+  - https://github.com/OlderOne2S/odbc_fdw
+  - https://github.com/adunstan/odbc_fdw
+  - https://github.com/bacchuswng/odbc_fdw
+  - https://github.com/jacekrembisz/odbc_fdw
+  - https://github.com/mbona92/odbc_fdw
+  - https://github.com/mlt/odbc_fdw
+  - https://github.com/nhochdrei/odbc_fdw
+  - https://github.com/nikolaysu/odbc_fdw
+  - https://github.com/oss-spanish-geoserver/odbc_fdw
+  - https://github.com/pborne/odbc_fdw
+  - https://github.com/pmonster/odbc_fdw
+  - https://github.com/suishaojian/odbc_fdw
+  - https://github.com/ulfj/odbc_fdw
+  - https://github.com/waTeim/odbc_fdw
 - https://github.com/ZhengYang/odbc_fdw
   - https://github.com/GeoffOs/odbc_fdw
   - https://github.com/RicardoLastKiller/odbc_fdw
@@ -1355,9 +1706,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/philipedalla/odbc_fdw
   - https://github.com/skyformat99/odbc_fdw
   - https://github.com/tureba/odbc_fdw
-- https://github.com/hangzhou-cstech/odbc_fdw
-  - https://github.com/dlp-cwarren/odbc_fdw
-  - https://github.com/li8033/odbc_fdw
+- https://github.com/digoal/ora_migrator
+  - https://github.com/jampaniuday/ora_migrator
 - https://github.com/cybertec-postgresql/ora_migrator
   - https://github.com/1newstar/ora_migrator
   - https://github.com/Elias481/ora_migrator
@@ -1376,6 +1726,16 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/supitchayapat/ora_migrator
   - https://github.com/the4thdoctor/ora_migrator
   - https://github.com/zhuomingliang/ora_migrator
+- https://github.com/buke/oracle_fdw
+  - https://github.com/Tempfox/oracle_fdw
+  - https://github.com/ccdos/oracle_fdw
+  - https://github.com/homelink/oracle_fdw
+  - https://github.com/vnsofthe/oracle_fdw
+  - https://github.com/yanggg1133/oracle_fdw
+- https://github.com/ibrarahmad/oracle_fdw
+  - https://github.com/ubuntu-repo/oracle_fdw
+- https://github.com/Morabaraba/oracle_fdw
+  - https://github.com/larryklean/oracle_fdw
 - https://github.com/laurenz/oracle_fdw
   - https://github.com/AlexanderAA/oracle_fdw
   - https://github.com/AlexanderTolstoy/oracle_fdw
@@ -1471,6 +1831,10 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/ww-it/oracle_fdw
   - https://github.com/yamatattsu/oracle_fdw
   - https://github.com/zekiyeaydemir/oracle_fdw
+- https://github.com/adam8157/oracle_fdw_greenplum
+  - https://github.com/quentinliu/oracle_fdw_greenplum
+- https://github.com/linwanggm/orafce
+  - https://github.com/wanglinn/orafce
 - https://github.com/orafce/orafce
   - https://github.com/FilipinOTech/orafce
   - https://github.com/GanieLinn/orafce
@@ -1598,6 +1962,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/dturon/partman_to_cstore
   - https://github.com/emacsway/partman_to_cstore
   - https://github.com/onderkalaci/partman_to_cstore
+- https://github.com/slardiere/PartMgr
+  - https://github.com/thomasboussekey/PartMgr
 - https://github.com/beargiles/passwd-fdw
   - https://github.com/CC-Hsu/passwd-fdw
 - https://github.com/asio/password
@@ -1623,9 +1989,26 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/theleague/pg-audit-json
   - https://github.com/westrac/pg-audit-json
   - https://github.com/zaucker/pg-audit-json
+- https://github.com/oetiker/pg-audit-json
+  - https://github.com/aciprian/pg-audit-json
+  - https://github.com/balakoder/pg-audit-json
+  - https://github.com/timbod7/pg-audit-json
+- https://github.com/adjust/pg-base36
+  - https://github.com/LaughDonor/pg-base36
+  - https://github.com/isgasho/pg-base36
+  - https://github.com/min-mwei/pg-base36
+- https://github.com/beargiles/pg-bignum
+  - https://github.com/BenBE/pg-bignum
+  - https://github.com/EvanCarroll/pg-bignum
+    - https://github.com/coinmetrics-io/pg-bignum
+    - https://github.com/wiltonlazary/pg-bignum
+  - https://github.com/sergeybe/pg-bignum
+- https://github.com/EvanCarroll/pg-bignum
+  - https://github.com/coinmetrics-io/pg-bignum
+  - https://github.com/wiltonlazary/pg-bignum
 - https://github.com/craigbranscom/pg-biguint
-- https://github.com/paroga/pg-cbor
 - https://github.com/truthly/pg-cbor
+- https://github.com/paroga/pg-cbor
 - https://github.com/beargiles/pg-cert
 - https://github.com/NCarson/pg-chessboard
 - https://github.com/zejn/pg-colors
@@ -1643,6 +2026,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/ameensol/pg-ecdsa
   - https://github.com/mikalv/pg-ecdsa
   - https://github.com/truthly/pg-ecdsa
+- https://github.com/truthly/pg-emoji
+  - https://github.com/TrendingTechnology/pg-emoji
 - https://github.com/pborne/pg-file-fdw-gds
 - https://github.com/hooopo/pg-fuzzywuzzy
 - https://github.com/scottjustin5000/pg-gcd
@@ -1669,6 +2054,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/rodolfodpk/pg-message-queue
 - https://github.com/dalbani/pg-modeshape-bson
 - https://github.com/adjust/pg-mvtbl
+- https://github.com/wellmart/pg-nextid
+  - https://github.com/dai-yamashita/pg-nextid
 - https://github.com/adjust/pg-numhstore
   - https://github.com/antpas14/pg-numhstore
   - https://github.com/min-mwei/pg-numhstore
@@ -1677,11 +2064,32 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/wulczer/pg-progress
   - https://github.com/mickpah/pg-progress
 - https://github.com/trlorenz/PG-recursively_delete
+- https://github.com/adjust/pg-roleman
+  - https://github.com/scpike/pg-roleman
 - https://github.com/sbertrang/pg-ruid
 - https://github.com/sylvainv/pg-salesforce-id
+- https://github.com/theory/pg-semver
+  - https://github.com/ArmMbedCloud/pg-semver
+  - https://github.com/GeoffMontee/pg-semver
+  - https://github.com/Innokentiy-Alaytsev/pg-semver
+  - https://github.com/JohnPeacockMessageSystems/pg-semver
+  - https://github.com/cybernetics/pg-semver
+  - https://github.com/decibel/pg-semver
+  - https://github.com/drivergroup/pg-semver
+  - https://github.com/dvdmgl/pg-semver64
+  - https://github.com/ilovejs/pg-semver
+  - https://github.com/jwdonahue/pg-semver
+  - https://github.com/maspalio/pg-semver
+  - https://github.com/sorki/pg-semver
+  - https://github.com/tdavis/pg-semver
+  - https://github.com/troian/pg-semver
+  - https://github.com/viktike/pg-semver
+  - https://github.com/zavorka/pg-semver
 - https://github.com/mgit-at/pg-semver-debian
   - https://github.com/lechner/pg-semver-debian
 - https://github.com/arunchaganty/pg-span
+- https://github.com/dmitry-fomin/pg-sphinx
+  - https://github.com/Sinvit/pg-sphinx
 - https://github.com/andy128k/pg-sphinx
   - https://github.com/221V/pg-sphinx
   - https://github.com/capomafiosoken/pg-sphinx
@@ -1789,25 +2197,88 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/ancoron/pg-uuid-int64
 - https://github.com/truthly/pg-webauthn
 - https://github.com/gciolli/pg2podg
+- https://github.com/akorotkov/pg_aa
+  - https://github.com/rgordeev/pg_aa
 - https://github.com/abris-platform/pg_abris
 - https://github.com/papercompute/pg_acce
 - https://github.com/acoustid/pg_acoustid
 - https://github.com/mikeizbicki/pg_agg
 - https://github.com/jwdeitch/pg_agg_sample
 - https://github.com/kostiantyn-nemchenko/pg_algorithms
+- https://github.com/OnShift/pg_amqp
+  - https://github.com/MichaelConrad/pg_amqp
+  - https://github.com/NeuroScouting/pg_amqp
+- https://github.com/omniti-labs/pg_amqp
+  - https://github.com/2shortplanks/pg_amqp
+  - https://github.com/Godwottery/pg_amqp
+  - https://github.com/JuliuszJ/pg_amqp
+  - https://github.com/NotBrianZach/pg_amqp
+  - https://github.com/OnShift/pg_amqp
+    - https://github.com/MichaelConrad/pg_amqp
+    - https://github.com/NeuroScouting/pg_amqp
+  - https://github.com/RekGRpth/pg_amqp
+  - https://github.com/TakT/pg_amqp
+  - https://github.com/alexander-shcheglov/pg_amqp
+  - https://github.com/blaet/pg_amqp
+  - https://github.com/bmoar/pg_amqp
+  - https://github.com/ccooss/pg_amqp
+  - https://github.com/charygao/pg_amqp
+  - https://github.com/damajor/pg_amqp
+  - https://github.com/darwinserrano/pg_amqp
+  - https://github.com/davidfetter/pg_amqp
+  - https://github.com/draaglom/pg_amqp
+  - https://github.com/duncanburke/pg_amqp
+    - https://github.com/magenta-aps/pg_amqp
+  - https://github.com/edavidmv/pg_amqp
+  - https://github.com/esatterwhite/pg_amqp
+  - https://github.com/frankbv/pg_amqp
+    - https://github.com/bayclosed/pg_amqp
+  - https://github.com/jhicks-camgian/pg_amqp
+  - https://github.com/joe2hpimn/pg_amqp
+  - https://github.com/keithf4/pg_amqp
+  - https://github.com/kyoden/pg_amqp
+  - https://github.com/lidarr/pg_amqp
+  - https://github.com/lieutdan13/pg_amqp
+  - https://github.com/loyaltylion/pg_amqp
+  - https://github.com/marcelloceschia/pg_amqp
+    - https://github.com/Kuzmenko-Pavel/pg_amqp
+    - https://github.com/alien11689/pg_amqp
+    - https://github.com/compudiva/pg_amqp
+  - https://github.com/maxfrei/pg_amqp
+  - https://github.com/motord/pg_amqp
+  - https://github.com/pmwebster/pg_amqp
+  - https://github.com/ravibhure/pg_amqp
+  - https://github.com/redrick/pg_amqp
+  - https://github.com/revoohc/pg_amqp
+  - https://github.com/scr34m/pg_amqp
+  - https://github.com/silentnull/pg_amqp
+  - https://github.com/theory/pg_amqp
+  - https://github.com/vkonstantin/pg_amqp
+  - https://github.com/woltere/pg_amqp
+  - https://github.com/xstevens/pg_amqp
+- https://github.com/duncanburke/pg_amqp
+  - https://github.com/magenta-aps/pg_amqp
+- https://github.com/frankbv/pg_amqp
+  - https://github.com/bayclosed/pg_amqp
+- https://github.com/marcelloceschia/pg_amqp
+  - https://github.com/Kuzmenko-Pavel/pg_amqp
+  - https://github.com/alien11689/pg_amqp
+  - https://github.com/compudiva/pg_amqp
 - https://github.com/rlichtenwalter/pg_array_multi_index
 - https://github.com/RekGRpth/pg_async
-- https://github.com/ttfkam/pg_audit
 - https://github.com/disqus/pg_audit
   - https://github.com/davidfetter/pg_audit
   - https://github.com/pombredanne/pg_audit
   - https://github.com/thekashifmalik/pg_audit
+- https://github.com/ttfkam/pg_audit
 - https://github.com/alexandersamoylov/pg_audit_tools
 - https://github.com/kouber/pg_auditor
 - https://github.com/RafiaSabih/pg_auth_mon
   - https://github.com/CyberDem0n/pg_auth_mon
   - https://github.com/GanieLinn/pg_auth_mon
 - https://github.com/adunstan/pg_b64enc_rust
+- https://github.com/RekGRpth/pg_background
+  - https://github.com/svorcmar/pg_background
 - https://github.com/vibhorkum/pg_background
   - https://github.com/JimFAmazon/pg_background
   - https://github.com/RekGRpth/pg_background
@@ -1837,11 +2308,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/kostiantyn-nemchenko/pg_badplan
   - https://github.com/legrandlegrand/pg_badplan
   - https://github.com/turgs/pg_badplan
+- https://github.com/kou/pg_bigm
+- https://github.com/MasahikoSawada/pg_bigm
 - https://github.com/pgbigm/pg_bigm
   - https://github.com/liubiaoyong/pg_bigm
   - https://github.com/shinyaaa/pg_bigm
-- https://github.com/MasahikoSawada/pg_bigm
-- https://github.com/kou/pg_bigm
 - https://github.com/aotake/pg_bigm-masahiko
 - https://github.com/tomhebbron/pg_bitstring_helpers
 - https://github.com/blkchain/pg_blkchain
@@ -1872,6 +2343,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/MasahikoSawada/pg_cgroup
   - https://github.com/GanieLinn/pg_cgroup
   - https://github.com/joe2hpimn/pg_cgroup
+- https://github.com/digoal/pg_cheat_funcs
+  - https://github.com/iceplumblossom/pg_cheat_funcs
 - https://github.com/MasaoFujii/pg_cheat_funcs
   - https://github.com/NemoAA/pg_cheat_funcs
   - https://github.com/bdrouvot/pg_cheat_funcs
@@ -1897,6 +2370,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/snake404/pg_check
   - https://github.com/subhankarc/pg_check
   - https://github.com/zwily/pg_check
+- https://github.com/hlinnaka/pg_check
+  - https://github.com/denishpatel/pg_check
 - https://github.com/sshutdownow/pg_check-chap-md5
   - https://github.com/RekGRpth/pg_check-chap-md5
 - https://github.com/sangli00/pg_checkdestroy
@@ -1912,10 +2387,20 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/ttfkam/pg_content_utils
 - https://github.com/MasaoFujii/pg_control_priority
 - https://github.com/segasai/pg_coordconvert
-- https://github.com/s-hironobu/pg_crash
 - https://github.com/cybertec-postgresql/pg_crash
+- https://github.com/s-hironobu/pg_crash
 - https://github.com/davidcrawford/pg_crasher
   - https://github.com/metdos/pg_crasher
+- https://github.com/postgrespro/pg_credereum
+  - https://github.com/cendhu/pg_credereum
+  - https://github.com/datadevopscloud/pg_credereum
+  - https://github.com/sambacha/pg_credereum
+  - https://github.com/sshyran/pg_credereum
+- https://github.com/laurenz/pg_cron
+  - https://github.com/ubuntu-repo/pg_cron
+- https://github.com/fluca1978/pg_cron
+  - https://github.com/SamiLekesiz/pg_cron
+- https://github.com/samber/pg_cron
 - https://github.com/citusdata/pg_cron
   - https://github.com/Airconaaron/pg_cron
   - https://github.com/Artielkami/pg_cron
@@ -2003,7 +2488,6 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/wwalda/pg_cron
   - https://github.com/zhuomingliang/pg_cron
   - https://github.com/zpzhao/pg_cron
-- https://github.com/samber/pg_cron
 - https://github.com/adjust/pg_cryogen
   - https://github.com/min-mwei/pg_cryogen
 - https://github.com/RekGRpth/pg_curl
@@ -2039,6 +2523,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/VladimirMikhailov/pg_dirtyread
 - https://github.com/abris-platform/pg_dms
 - https://github.com/keithf4/pg_doc_store
+- https://github.com/robconery/pg_docs_api
+  - https://github.com/keithf4/pg_docs_api
 - https://github.com/rjuju/pg_dropbuffers
   - https://github.com/bdrouvot/pg_dropbuffers
 - https://github.com/zilder/pg_dropcache
@@ -2082,6 +2568,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/jabastien/pg_geohash
 - https://github.com/siose-innova/pg_geohash_extra
 - https://github.com/ttfkam/pg_geoip
+- https://github.com/sangli00/pg_get_page_tuple
+  - https://github.com/skyformat99/pg_get_page_tuple
 - https://github.com/pgsentinel/pg_get_queryid
 - https://github.com/postgrespro/pg_grab_statement
   - https://github.com/gridl/pg_grab_statement
@@ -2156,9 +2644,13 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/za-arthur/pg_hint_plan
   - https://github.com/zhuomingliang/pg_hint_plan
   - https://github.com/ziva777/pg_hint_plan
+- https://github.com/bboad/pg_hint_plan
+  - https://github.com/kgtdbx/pg_hint_plan
 - https://github.com/segasai/pg_hist
 - https://github.com/eugwne/pg_hook_lj
 - https://github.com/RekGRpth/pg_htmldoc
+- https://github.com/pasha132/pg_idm
+  - https://github.com/vovik0134/pg_idm
 - https://github.com/cohenjo/pg_idx_advisor
   - https://github.com/JerrySievert/pg_idx_advisor
   - https://github.com/godouxm/pg_idx_advisor
@@ -2178,6 +2670,25 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/heap/pg_intpair
   - https://github.com/timothyandrew/pg_intpair
   - https://github.com/wiltonlazary/pg_intpair
+- https://github.com/digoal/pg_jieba
+  - https://github.com/Junvn/pg_jieba
+- https://github.com/jaiminpan/pg_jieba
+  - https://github.com/Alexcn/pg_jieba
+  - https://github.com/Krystaljingjing/pg_jieba
+  - https://github.com/digoal/pg_jieba
+    - https://github.com/Junvn/pg_jieba
+  - https://github.com/erickguan/pg_jieba
+  - https://github.com/fumengyao5544/pg_jieba
+  - https://github.com/jfhyn/pg_jieba
+  - https://github.com/jgzmlmf/pg_jieba
+  - https://github.com/joe2hpimn/pg_jieba
+  - https://github.com/kerneltravel/pg_jieba
+  - https://github.com/kowen0813/pg_jieba
+  - https://github.com/liangkai/pg_jieba
+  - https://github.com/myaniu/pg_jieba
+  - https://github.com/shenzt/pg_jieba
+  - https://github.com/simple555a/pg_jieba
+  - https://github.com/yanyiwu/pg_jieba
 - https://github.com/philwinn/pg_jit
 - https://github.com/michelmilezzi/pg_job_queue
 - https://github.com/omniti-labs/pg_jobmon
@@ -2217,6 +2728,9 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/alaisi/pg_kafka_events
   - https://github.com/skyformat99/pg_kafka_events
   - https://github.com/xkr47/pg_kafka_events
+- https://github.com/MasahikoSawada/pg_keeper
+  - https://github.com/baptistemanson/pg_keeper
+  - https://github.com/vinpokale/pg_keeper
 - https://github.com/kmblack1/pg_kmcb
 - https://github.com/siose-innova/pg_landmetrics
   - https://github.com/BorjaZ/pg_landmetrics
@@ -2235,11 +2749,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/heroku/pg_logfebe
 - https://github.com/logplex/pg_logfebe-debian
   - https://github.com/heroku/pg_logfebe-debian
+- https://github.com/funbringer/pg_logging
 - https://github.com/postgrespro/pg_logging
   - https://github.com/RekGRpth/pg_logging
   - https://github.com/ildus/pg_logging
   - https://github.com/sshyran/pg_logging
-- https://github.com/funbringer/pg_logging
 - https://github.com/pierreforstmann/pg_logqueryid
   - https://github.com/hunleyd/pg_logqueryid
 - https://github.com/bishtgayatri/pg_logs_kafka
@@ -2249,8 +2763,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/skyformat99/pg_lz4
 - https://github.com/semenikhind/pg_map
 - https://github.com/sycobuny/pg_markdown
-- https://github.com/kalman5/pg_median
 - https://github.com/za-arthur/pg_median
+- https://github.com/kalman5/pg_median
 - https://github.com/greenape/pg_median_utils
 - https://github.com/topharley/pg_mem_counters
 - https://github.com/jackgo73/pg_memorycontext
@@ -2262,7 +2776,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/Arthurgyh/pg_metricus_c
   - https://github.com/avito-tech/pg_metricus_c
   - https://github.com/gridl/pg_metricus_c
+- https://github.com/lithp/pg_micromanage
+  - https://github.com/RekGRpth/pg_micromanage
 - https://github.com/moritetu/pg_mod_sample
+- https://github.com/RafiaSabih/pg_mon
+  - https://github.com/Jan-M/pg_mon
 - https://github.com/choplin/pg_msgpack
   - https://github.com/iCyberon/pg_msgpack
 - https://github.com/RekGRpth/pg_mupdf
@@ -2301,7 +2819,11 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/disqus/pg_partition
   - https://github.com/davidfetter/pg_partition
   - https://github.com/thekashifmalik/pg_partition
+- https://github.com/heroku/pg_partman
+  - https://github.com/raeoks/pg_partman
 - https://github.com/alytics/pg_partman
+- https://github.com/omniti-labs/pg_partman
+  - https://github.com/rishards/pg_partman
 - https://github.com/pgpartman/pg_partman
   - https://github.com/Akagutz/pg_partman
   - https://github.com/Aladinbasha/pg_partman
@@ -2470,6 +2992,10 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zhq651/pg_partman
   - https://github.com/zhuomingliang/pg_partman
   - https://github.com/zoglesby/pg_partman
+- https://github.com/eroad/pg_partman
+  - https://github.com/david-morton/pg_partman
+  - https://github.com/hopesea/pg_partman
+  - https://github.com/samgurtman/pg_partman
 - https://github.com/denishpatel/pg_partman_v2RC1
 - https://github.com/postgrespro/pg_pathman
   - https://github.com/Alexcn/pg_pathman
@@ -2520,6 +3046,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zhuomingliang/pg_pathman
   - https://github.com/zilder/pg_pathman
   - https://github.com/zpzhao/pg_pathman
+- https://github.com/saaros/pg_pathman
+  - https://github.com/pavel-kolla-kampiki/pg_pathman
 - https://github.com/citusdata/pg_paxos
   - https://github.com/0xack13/pg_paxos
   - https://github.com/3manuek/pg_paxos
@@ -2584,6 +3112,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/rlichtenwalter/pg_postal_code_ca
 - https://github.com/Timosha/pg_prewarm
 - https://github.com/schmiddy/pg_prioritize
+- https://github.com/junegunn/pg_proctab
+  - https://github.com/rubythonode/pg_proctab
 - https://github.com/markwkm/pg_proctab
   - https://github.com/bigsql/pg_proctab
   - https://github.com/frost242/pg_proctab
@@ -2595,6 +3125,13 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/srqway/pg_proctab
   - https://github.com/ve9u/pg_proctab
   - https://github.com/zhangguohan/pg_proctab
+- https://github.com/zubkov-andrei/pg_profile
+  - https://github.com/AndrewKhitrin/pg_profile
+  - https://github.com/abdul-git/pg_profile
+  - https://github.com/guanqingtao/pg_profile
+  - https://github.com/konduktor4ik/pg_profile
+  - https://github.com/qiuwenhuifx/pg_profile
+  - https://github.com/vgrails/pg_profile
 - https://github.com/akatruk/pg_profile_old
 - https://github.com/timescale/pg_prometheus
   - https://github.com/Johnny-Three/pg_prometheus
@@ -2709,6 +3246,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/edpratomo/pg_redispub
   - https://github.com/rogervaas/pg_redispub
 - https://github.com/katsuragi-y/pg_reject_truncate
+- https://github.com/cybertec-postgresql/pg_remote_exec
+  - https://github.com/Laeeth/pg_remote_exec
 - https://github.com/danolivo/pg_repeater
 - https://github.com/realyota/pg_repl
 - https://github.com/nuko-yokohama/pg_reversi
@@ -2766,13 +3305,20 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zhuomingliang/pg_scws
   - https://github.com/zwunix/pg_scws
 - https://github.com/TypedLambda/pg_secret
+- https://github.com/Fenoman/pg_self_query
+  - https://github.com/Volodemar/pg_query_state
+  - https://github.com/a-guzhin/pg_self_query
 - https://github.com/eendroroy/pg_semver
 - https://github.com/sshutdownow/pg_sendmail
   - https://github.com/RekGRpth/pg_sendmail
+- https://github.com/RyanMarcus/pg_session_stats
+  - https://github.com/ZhengtongYan/pg_session_stats
 - https://github.com/menardorama/pg_sessions
 - https://github.com/sshutdownow/pg_setpriority
   - https://github.com/PuppyChildren/pg_setpriority
   - https://github.com/RekGRpth/pg_setpriority
+- https://github.com/jberkus/pg_shard
+  - https://github.com/godouxm/pg_shard
 - https://github.com/citusdata/pg_shard
   - https://github.com/3manuek/pg_shard
   - https://github.com/Bendalexis/pg_shard
@@ -2831,6 +3377,16 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/weishishuo/pg_shard
   - https://github.com/wtfuzz/pg_shard
   - https://github.com/zfsndtl/pg_shard
+- https://github.com/josephmisiti/pg_shard
+  - https://github.com/syaroslavtsev/pg_shard
+- https://github.com/totalorder/pg_shard
+  - https://github.com/admenva/pg_shard
+- https://github.com/begriffs/pg_shard
+  - https://github.com/ubuntu-repo/pg_shard
+- https://github.com/kelvich/pg_shard
+  - https://github.com/nagyist/pg_shard
+- https://github.com/knizhnik/pg_shard
+  - https://github.com/gavioto/pg_shard
 - https://github.com/citusdata/pg_shard-old
 - https://github.com/vibhorkum/pg_shard_ppas
 - https://github.com/funbringer/pg_shardman
@@ -2849,6 +3405,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/qiuwenhuifx/pg_show_plans
 - https://github.com/erthalion/pg_simdjson
   - https://github.com/min-mwei/pg_simdjson
+- https://github.com/ekzhu/pg_similarity
+  - https://github.com/rootoor225/pg_similarity
 - https://github.com/eulerto/pg_similarity
   - https://github.com/JVillella/pg_similarity
   - https://github.com/JohnHVancouver/pg_similarity
@@ -2882,8 +3440,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/MasahikoSawada/pg_simula
   - https://github.com/elvis2workspace/pg_simula
   - https://github.com/mattn/pg_simula
-- https://github.com/labgeo/pg_siose_bench
 - https://github.com/siose-innova/pg_siose_bench
+- https://github.com/labgeo/pg_siose_bench
 - https://github.com/quentusrex/pg_sip
 - https://github.com/samber/pg_sleep
 - https://github.com/pindlebot/pg_slugify
@@ -2892,6 +3450,9 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/hunleyd/pg_snakeoil
 - https://github.com/the4thdoctor/pg_snapshot_too_old
   - https://github.com/matthewfranglen/pg_snapshot_too_old
+- https://github.com/powa-team/pg_sortstats
+  - https://github.com/abevieiramota/pg_sortstats
+  - https://github.com/min-mwei/pg_sortstats
 - https://github.com/MarkAntipin/pg_sparse_vector
 - https://github.com/maahl/pg_spi_examples
 - https://github.com/kouber/pg_sqlog
@@ -2996,6 +3557,13 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/laorunsen/pg_test
 - https://github.com/za-arthur/pg_textparser
 - https://github.com/cuprumtan/pg_textvector
+- https://github.com/cossacklabs/pg_themis
+  - https://github.com/Sosodope/pg_themis
+  - https://github.com/cybernetics/pg_themis
+  - https://github.com/gridl/pg_themis
+  - https://github.com/joe2hpimn/pg_themis
+  - https://github.com/mnaza/pg_themis
+  - https://github.com/sm-tradeboox/pg_themis
 - https://github.com/ycui1984/pg_thrift
 - https://github.com/BlueTreble/pg_thud
   - https://github.com/decibel/pg_thud
@@ -3022,6 +3590,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/joe2hpimn/pg_trgm_pro
   - https://github.com/kuustudio/pg_trgm_pro
   - https://github.com/qiuwenhuifx/pg_trgm_pro
+- https://github.com/postgrespro/pg_tsdtm
+  - https://github.com/Vereschak/pg_tsdtm
+  - https://github.com/cuulee/pg_tsdtm
+  - https://github.com/gridl/pg_tsdtm
+  - https://github.com/quinndiggity/pg_tsdtm
 - https://github.com/kelvich/pg_tsdtm
   - https://github.com/Shyran-Systems/pg_tsdtm
   - https://github.com/postgrespro/pg_tsdtm
@@ -3063,6 +3636,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/rlichtenwalter/pg_variant_functions
 - https://github.com/dgillis/pg_vartype
 - https://github.com/eendroroy/pg_vercomp
+- https://github.com/MasahikoSawada/pg_visibilitymap
+  - https://github.com/snaga/pg_visibilitymap
 - https://github.com/postgrespro/pg_wait_sampling
   - https://github.com/FranckPachot/pg_wait_sampling
   - https://github.com/GanieLinn/pg_wait_sampling
@@ -3079,6 +3654,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/kasaharatt/pg_wait_sampling
   - https://github.com/rjuju/pg_wait_sampling
   - https://github.com/zhuomingliang/pg_wait_sampling
+- https://github.com/gridl/pg_wait_sampling
+  - https://github.com/LoveSQL/pg_wait_sampling
 - https://github.com/le0pard/pg_web
 - https://github.com/RekGRpth/pg_wkhtmltopdf
 - https://github.com/RekGRpth/pg_wthtmltopdf
@@ -3093,6 +3670,19 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/ildus/pg_zstd
 - https://github.com/yonj1e/pgagent-c
   - https://github.com/hailanwhu/pgagent-c
+- https://github.com/EnterpriseDB/pgaudit
+  - https://github.com/Shobha987/pgaudit
+  - https://github.com/commandprompt/pgaudit
+  - https://github.com/yydzero/pgaudit
+- https://github.com/dvarrazzo/pgaudit
+  - https://github.com/GambitResearch/pgaudit
+- https://github.com/qadahtm/pgaudit
+  - https://github.com/YahyaJaved/pgaudit
+- https://github.com/ossc-db/pgaudit
+  - https://github.com/harada-toshi/pgaudit
+  - https://github.com/higuchi-daisuke/pgaudit
+  - https://github.com/ooyamams/pgaudit
+  - https://github.com/tameguro/pgaudit
 - https://github.com/pgaudit/pgaudit
   - https://github.com/7u4/pgaudit
   - https://github.com/ApollusEHS-OSS/pgaudit
@@ -3184,8 +3774,6 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/ivoras/pgaudit
   - https://github.com/jonranes/pgaudit
   - https://github.com/uptimejp/pgaudit
-- https://github.com/dvarrazzo/pgaudit
-  - https://github.com/GambitResearch/pgaudit
 - https://github.com/fmbiete/pgauditlogtofile
   - https://github.com/hunleyd/pgauditlogtofile
 - https://github.com/redraiment/pgaut
@@ -3207,6 +3795,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/gplv2/pgbouncer_wrapper
   - https://github.com/valehdba/pgbouncer_wrapper
 - https://github.com/johto/pgbrotli
+- https://github.com/marconeperes/pgBRTypes
+  - https://github.com/Nogas/pgBRTypes
 - https://github.com/fengttt/pgc_fdw
   - https://github.com/cktan/pgc_fdw
   - https://github.com/joe2hpimn/pgc_fdw
@@ -3223,6 +3813,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/grzm/pgcrockford
 - https://github.com/pandrewhk/pgcurl
 - https://github.com/rustprooflabs/pgdd
+- https://github.com/davidfetter/pgddl
+  - https://github.com/dattatraya-nirmal/pgddl
 - https://github.com/lacanoid/pgddl
   - https://github.com/ayuryshev/pgddl
   - https://github.com/datadevopscloud/pgddl
@@ -3256,8 +3848,6 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/ycku/pgeyes
 - https://github.com/pme/pgfft
   - https://github.com/min-mwei/pgfft
-- https://github.com/pgfincore/pgfincore
-  - https://github.com/isgasho/pgfincore
 - https://github.com/klando/pgfincore
   - https://github.com/EmptyLi/pgfincore
   - https://github.com/RatanGithub/pgfincore
@@ -3269,7 +3859,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/dimitri/pgfincore
   - https://github.com/dut3062796s/pgfincore
   - https://github.com/isgasho/pgfincore-1
+- https://github.com/pgfincore/pgfincore
+  - https://github.com/isgasho/pgfincore
 - https://github.com/mausimag/pgflake
+- https://github.com/grahamedgecombe/pgflate
+  - https://github.com/timurgarif/pgflate
 - https://github.com/michelp/pgfsm
   - https://github.com/dejan-stankovic/sqlfsm
   - https://github.com/emrul/sqlfsm
@@ -3295,6 +3889,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/szarnyasg/pggraphblas
   - https://github.com/zhangaz1/pggraphblas
   - https://github.com/zhaonaiy/pggraphblas
+- https://github.com/willcohen/pgh3
+  - https://github.com/jfrez/pgh3
 - https://github.com/dlr-eoc/pgh3
   - https://github.com/ArnaudSwail/pgh3
   - https://github.com/greatathrun/pgh3
@@ -3302,6 +3898,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/nmandery/pgh3
   - https://github.com/willcohen/pgh3
     - https://github.com/jfrez/pgh3
+- https://github.com/deepfryed/pghammer
+  - https://github.com/overplumbum/pghammer
 - https://github.com/markokr/pghashlib
   - https://github.com/David-Gould/pghashlib
   - https://github.com/NightTsarina/pghashlib
@@ -3376,10 +3974,17 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/pilgrim-push/pgl_ddl_deploy
   - https://github.com/sham6215/pgl_ddl_deploy
   - https://github.com/vipgh0828/pgl_ddl_deploy
+- https://github.com/df7cb/pgl_ddl_deploy
+  - https://github.com/okbob/pgl_ddl_deploy
 - https://github.com/petere/pglibuuid
   - https://github.com/theory/pglibuuid
 - https://github.com/2ndQuadrant/pglog
   - https://github.com/commandprompt/pglog
+- https://github.com/ozgune/pglogical
+  - https://github.com/onderkalaci/pglogical
+- https://github.com/commandprompt/pglogical
+  - https://github.com/nucleoosystem/pglogical
+- https://github.com/vibhorkum/pglogical
 - https://github.com/2ndQuadrant/pglogical
   - https://github.com/BlackSakura3C/pglogical
   - https://github.com/CommandPromptOSS/pglogical
@@ -3442,7 +4047,8 @@ If some repo is missing, please add it and send a Pull Request.
     - https://github.com/skyformat99/pglogical
   - https://github.com/zesoup/pglogical
   - https://github.com/zhaoshiling1017/pglogical
-- https://github.com/vibhorkum/pglogical
+- https://github.com/unotech001/pglogical
+  - https://github.com/skyformat99/pglogical
 - https://github.com/unotech001/pglogical-2.0
   - https://github.com/skyformat99/pglogical-2.0
 - https://github.com/enova/pglogical_ticker
@@ -3451,6 +4057,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/jfinzel/pglogical_ticker
 - https://github.com/citusdata/pgmasq
 - https://github.com/sveljko/pgmedian
+- https://github.com/Ormod/pgmemcache
+  - https://github.com/megothss/pgmemcache
+- https://github.com/ohmu/pgmemcache
+  - https://github.com/Ormod/pgmemcache
+    - https://github.com/megothss/pgmemcache
 - https://github.com/F28956/pgmigrations
 - https://github.com/avito-tech/pgmock
 - https://github.com/dvarrazzo/pgmp
@@ -3482,6 +4093,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/gridl/pgpool_adm
   - https://github.com/ioguix/pgpool_adm
     - https://github.com/atullalwani/pgpool_adm
+- https://github.com/ioguix/pgpool_adm
+  - https://github.com/atullalwani/pgpool_adm
 - https://github.com/wttw/pgpsl
   - https://github.com/gmekhrenin/pgpsl
 - https://github.com/Minoro/pgpyml
@@ -3497,10 +4110,15 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/rim99/pgrocks-fdw
   - https://github.com/tenghuanhe/PostgresForeignDataWrapper
 - https://github.com/mikeizbicki/pgrollup
+- https://github.com/pgroonga/pgroonga
+  - https://github.com/D-Turtle/pgroonga
+  - https://github.com/hnakamur/pgroonga
 - https://github.com/no0p/pgsampler
   - https://github.com/i0seph/pgsampler
 - https://github.com/CrunchyData/pgseccomp
   - https://github.com/Mechachleopteryx/pgseccomp
+- https://github.com/pgsentinel/pgsentinel
+  - https://github.com/RekGRpth/pgsentinel
 - https://github.com/OnroerendErfgoed/pgSFTI
   - https://github.com/cahytinne/pgSFTI
   - https://github.com/soduco/pgSFTI
@@ -3522,6 +4140,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/lacanoid/pgsparql
 - https://github.com/johto/pgspeck
   - https://github.com/TribalKnowledgeGroup/pgspeck
+- https://github.com/geo-msp/pgsql-addressing-dictionary
+  - https://github.com/Chealer/pgsql-addressing-dictionary
 - https://github.com/pramsey/pgsql-addressing-dictionary
   - https://github.com/darrell/pgsql-addressing-dictionary
   - https://github.com/geo-msp/pgsql-addressing-dictionary
@@ -3558,6 +4178,10 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/nyurik/pgsql-gzip
   - https://github.com/olksdr/pgsql-gzip
   - https://github.com/void52/pgsql-gzip
+- https://github.com/clojurians-org/pgsql-http
+  - https://github.com/clonekim/pgsql-http
+- https://github.com/reignmaker/pgsql-http
+  - https://github.com/Higgs1/pgsql-fox-http
 - https://github.com/pramsey/pgsql-http
   - https://github.com/Apsalar/pgsql-http
   - https://github.com/Florents-Tselai/pgsql-http
@@ -3662,6 +4286,9 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/rouault/pgsql-ogr-fdw
   - https://github.com/stev-0/pgsql-ogr-fdw
 - https://github.com/cayetanobv/pgsql-pcg-random
+- https://github.com/openvenues/pgsql-postal
+  - https://github.com/GilbertoBotaro/pgsql-postal
+  - https://github.com/pks-os/pgsql-postal
 - https://github.com/pramsey/pgsql-postal
   - https://github.com/DevMui/pgsql-postal
   - https://github.com/cuulee/pgsql-postal
@@ -3679,6 +4306,9 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/AbdulYadi/pgstrtranslate
 - https://github.com/MIuserX/pgsword
   - https://github.com/skyformat99/pgsword
+- https://github.com/jconway/pgsynck
+  - https://github.com/gurjeet/pgsynck
+  - https://github.com/skyformat99/pgsynck
 - https://github.com/theory/pgtap
   - https://github.com/DailyActie/WEB_DB_TEST-pgtap
   - https://github.com/Godwottery/pgtap
@@ -3736,8 +4366,10 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/wwalda/pgtap
 - https://github.com/panwenhang/pgtools
   - https://github.com/caichangqi/pgtools
-- https://github.com/gavioto/pgtsql
 - https://github.com/bigsql/pgtsql
+- https://github.com/gavioto/pgtsql
+- https://github.com/darold/pgtt
+  - https://github.com/cybernetics/pgtt
 - https://github.com/darold/pgtt-rsl
   - https://github.com/stelf/pgtt
 - https://github.com/petere/pguint
@@ -3753,6 +4385,10 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/sguzman/pguint
   - https://github.com/sherlockcpp/pguint
   - https://github.com/theory/pguint
+- https://github.com/proger10/pguint
+  - https://github.com/asenchenko/pguint
+  - https://github.com/kwikwag/pguint
+  - https://github.com/zlojvavan/pguint
 - https://github.com/madebykite/pgunicoll
 - https://github.com/dylex/pguri
 - https://github.com/petere/pguri
@@ -3786,6 +4422,7 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/grahamedgecombe/pgzstd
   - https://github.com/kadu-ribeiro/pgzstd
 - https://github.com/a5221985/PhaseZero_Scripts
+- https://github.com/yexiaoxin1992/pipeline_kafka
 - https://github.com/pipelinedb/pipeline_kafka
   - https://github.com/GZ315200/pipeline_kafka
   - https://github.com/JiaxingSong/pipeline_kafka
@@ -3808,7 +4445,6 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/wenqzheng/pipeline_kafka
   - https://github.com/www3838438/pipeline_kafka
   - https://github.com/zxh2013/pipeline_kafka
-- https://github.com/yexiaoxin1992/pipeline_kafka
 - https://github.com/pipelinedb/pipeline_kinesis
   - https://github.com/blunney1/pipeline_kinesis
 - https://github.com/pipelinedb/pipeline_odbc
@@ -3875,6 +4511,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/yydzero/pipelinedb
   - https://github.com/zhuomingliang/pipelinedb
   - https://github.com/zmmfsj-z/pipelinedb
+- https://github.com/2ndQuadrant/pipelinedb
+  - https://github.com/commandprompt/pipelinedb
 - https://github.com/qingqibing/pipelinedb
 - https://github.com/pjungwir/pjpg
 - https://github.com/mejedi/planscape-postgresql-module
@@ -3893,9 +4531,13 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/xuebinsu/plcontainer
   - https://github.com/yydzero/plcontainer
   - https://github.com/zhangteng5513/plcontainer
-- https://github.com/andywicht/pldebugger
+- https://github.com/rmyva/plcontainer
+  - https://github.com/yva/plcontainer
 - https://github.com/soycacan/pldebugger
   - https://github.com/jfhyn/pldebugger
+- https://github.com/EnterpriseDB/pldebugger
+  - https://github.com/RekGRpth/pldebugger
+- https://github.com/andywicht/pldebugger
 - https://github.com/bigsql/pldebugger2
 - https://github.com/Brick-Abode/pldotnet
 - https://github.com/rongfengliang/plgo-rpm
@@ -3912,8 +4554,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/davecramer/pljvm
 - https://github.com/gyepisam/pllua
   - https://github.com/norman/pllua
-- https://github.com/mauzo/pllua
 - https://github.com/mweber26/pllua
+- https://github.com/mauzo/pllua
 - https://github.com/pllua/pllua-deprecated
   - https://github.com/EdwardBetts/pllua
   - https://github.com/arcapos/pllua
@@ -3977,8 +4619,12 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/guanqingtao/plprofiler
   - https://github.com/isgasho/plprofiler
 - https://github.com/glynastill/plprofiler
-- https://github.com/nad2000/plproxy
+- https://github.com/93Alliance/plproxy
+- https://github.com/CartoDB/plproxy
+  - https://github.com/oss-spanish-geoserver/plproxy
 - https://github.com/ksedgwic/plproxy
+- https://github.com/singular-labs/plproxy
+- https://github.com/nad2000/plproxy
 - https://github.com/plproxy/plproxy
   - https://github.com/BIAOXYZ/plproxy
   - https://github.com/BaiShaoqi/plproxy
@@ -4015,9 +4661,71 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/theory/plproxy-dev
   - https://github.com/ubuntu-repo/plproxy
   - https://github.com/z2tzzzz/plproxy
-- https://github.com/singular-labs/plproxy
-- https://github.com/93Alliance/plproxy
 - https://github.com/pykello/plpythont
+- https://github.com/greenplum-db/plr
+  - https://github.com/HaozhouWang/plr
+  - https://github.com/davecramer/plr-1
+  - https://github.com/ictmalili/plr
+  - https://github.com/stanlyxiang/plr
+- https://github.com/jconway/plr
+  - https://github.com/3manuek/plr
+  - https://github.com/MatthewALanham/plr
+  - https://github.com/Swatisoni/plr
+  - https://github.com/fschopp/plr
+  - https://github.com/hanzheng/plr
+  - https://github.com/lawrenceue/plr
+  - https://github.com/nunb/plr
+  - https://github.com/petere/plr
+  - https://github.com/postgres-plr/plr
+    - https://github.com/AndreMikulec/plr
+    - https://github.com/HaozhouWang/plr-1
+    - https://github.com/T-H-I-N-K/plr
+    - https://github.com/anayrat/plr
+    - https://github.com/crunchymaggie/plr
+    - https://github.com/cuulee/plr
+    - https://github.com/cybernetics/plr
+    - https://github.com/d3v3l0/plr
+    - https://github.com/dai-yamashita/plr
+    - https://github.com/davecramer/plr
+    - https://github.com/eleakin/plr
+    - https://github.com/gridl/plr
+    - https://github.com/ikasou/plr
+    - https://github.com/jkatz/plr
+    - https://github.com/joe2hpimn/plr
+      - https://github.com/kellylg/plr
+    - https://github.com/mcaramma/plr
+    - https://github.com/mlt/plr
+    - https://github.com/prlaurence/plr
+    - https://github.com/say501/plr
+    - https://github.com/shywel/plr
+    - https://github.com/vishalbelsare/plr
+  - https://github.com/rbracket/plr
+  - https://github.com/rootfs/plr
+- https://github.com/joe2hpimn/plr
+  - https://github.com/kellylg/plr
+- https://github.com/postgres-plr/plr
+  - https://github.com/AndreMikulec/plr
+  - https://github.com/HaozhouWang/plr-1
+  - https://github.com/T-H-I-N-K/plr
+  - https://github.com/anayrat/plr
+  - https://github.com/crunchymaggie/plr
+  - https://github.com/cuulee/plr
+  - https://github.com/cybernetics/plr
+  - https://github.com/d3v3l0/plr
+  - https://github.com/dai-yamashita/plr
+  - https://github.com/davecramer/plr
+  - https://github.com/eleakin/plr
+  - https://github.com/gridl/plr
+  - https://github.com/ikasou/plr
+  - https://github.com/jkatz/plr
+  - https://github.com/joe2hpimn/plr
+    - https://github.com/kellylg/plr
+  - https://github.com/mcaramma/plr
+  - https://github.com/mlt/plr
+  - https://github.com/prlaurence/plr
+  - https://github.com/say501/plr
+  - https://github.com/shywel/plr
+  - https://github.com/vishalbelsare/plr
 - https://github.com/godfat/plruby
 - https://github.com/petere/plsh
   - https://github.com/Hadryan/plsh
@@ -4049,12 +4757,21 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/emrul/plv8_modules
 - https://github.com/rapportive-oss/plv8js
   - https://github.com/strategist922/plv8js
+- https://github.com/petere/plxslt
+  - https://github.com/JazMagno/plxslt
+  - https://github.com/wanghaisheng/plxslt
+- https://github.com/coreyhuinker/pmpp
+  - https://github.com/razielleizar/pmpp
 - https://github.com/javisantana/pmpp
   - https://github.com/coreyhuinker/pmpp
     - https://github.com/razielleizar/pmpp
   - https://github.com/pensnarik/pmpp
   - https://github.com/yazun/pmpp
 - https://github.com/cristianprice/polycrack
+- https://github.com/no0p/postbis
+  - https://github.com/ctSkennerton/postbis
+  - https://github.com/flinz/postbis
+  - https://github.com/zhuomingliang/postbis
 - https://github.com/patchsoft/postcode
 - https://github.com/cahutton/postgis_domains
 - https://github.com/lidan233/PostgreLidan
@@ -4069,11 +4786,37 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/phileon/postgres-aws-s3
 - https://github.com/tychota/postgres-base32
 - https://github.com/anthony3221/Postgres-Calculator-Extension
-- https://github.com/JoanneBogart/postgres-cmath
 - https://github.com/LSSTDESC/postgres-cmath
   - https://github.com/RekGRpth/postgres-cmath
   - https://github.com/durango/postgres-cmath
+- https://github.com/JoanneBogart/postgres-cmath
 - https://github.com/Asa-Nisi-Masa/postgres-cosine-similarity
+- https://github.com/debezium/postgres-decoderbufs
+  - https://github.com/2877206/postgres-decoderbufs
+  - https://github.com/CyberDem0n/postgres-decoderbufs
+  - https://github.com/Jacksn2014/postgres-decoderbufs
+  - https://github.com/Laeeth/postgres-decoderbufs
+  - https://github.com/LeonOnRoad/postgres-decoderbufs
+  - https://github.com/Naros/postgres-decoderbufs
+  - https://github.com/NemoAA/postgres-decoderbufs
+  - https://github.com/QazerLab/postgres-decoderbufs
+  - https://github.com/datadevopscloud/postgres-decoderbufs
+  - https://github.com/emrul/postgres-decoderbufs
+  - https://github.com/film42/postgres-decoderbufs
+  - https://github.com/gunnarmorling/postgres-decoderbufs
+  - https://github.com/hchiorean/postgres-decoderbufs
+  - https://github.com/jamestut/postgres-decoderbufs
+  - https://github.com/jpechane/postgres-decoderbufs
+  - https://github.com/kgtdbx/postgres-decoderbufs
+  - https://github.com/laxhcxh/postgres-decoderbufs
+  - https://github.com/markfarnan/postgres-decoderbufs
+  - https://github.com/maxim-s/postgres-decoderbufs
+  - https://github.com/phoenixhadoop/postgres-decoderbufs
+  - https://github.com/rhauch/postgres-decoderbufs
+  - https://github.com/taylor-rolison/postgres-decoderbufs
+  - https://github.com/wttw/postgres-decoderbufs
+  - https://github.com/xydoublez/postgres-decoderbufs
+  - https://github.com/zhaoshiling1017/postgres-decoderbufs
 - https://github.com/dreamsxin/postgres-function
 - https://github.com/gavinwahl/postgres-json-schema
   - https://github.com/ChiralBehaviors/postgres-json-schema
@@ -4117,6 +4860,10 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/pchaozhong/postgres_fdw
 - https://github.com/MasaoFujii/postgres_fdw_plus
   - https://github.com/joe2hpimn/postgres_fdw_plus
+- https://github.com/conversant/postgres_hyperloglog
+  - https://github.com/devkong/postgres_hyperloglog
+  - https://github.com/dtatter/postgres_hyperloglog
+  - https://github.com/pivotaldata/postgres_hyperloglog
 - https://github.com/ccstolley/postgres_median
 - https://github.com/JLockerman/postgres_median_aggregate
 - https://github.com/johto/postgres_numeric_trim
@@ -4232,12 +4979,18 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zhuomingliang/postgresql-hll
   - https://github.com/zsmj513/postgresql-hll
 - https://github.com/SourceNote/postgresql-hll
+- https://github.com/IronNetCybersecurity/postgresql-hll
+  - https://github.com/steven-sheffey-tungsten/postgresql-hll
+- https://github.com/pykello/postgresql-hll
+  - https://github.com/bredman/postgresql-hll
+- https://github.com/cwelton/postgresql-hll
+  - https://github.com/yang-f/postgresql-hll
 - https://github.com/yorickdewid/PostgreSQL-IBAN
 - https://github.com/repology/postgresql-libversion
   - https://github.com/simon04/postgresql-libversion
   - https://github.com/sniperkit/snk.fork.repology-postgresql-libversion
-- https://github.com/juaristi/postgresql-median
 - https://github.com/clime/postgresql-median
+- https://github.com/juaristi/postgresql-median
 - https://github.com/drewc/postgresql-migrations
 - https://github.com/metabrainz/postgresql-musicbrainz-collate
   - https://github.com/intgr/postgresql-musicbrainz-collate
@@ -4253,6 +5006,9 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zr40/postgresql-number
 - https://github.com/df7cb/postgresql-numeral
   - https://github.com/RekGRpth/postgresql-numeral
+- https://github.com/hipay/postgresql-partition-manager
+  - https://github.com/slardiere/PartMgr
+    - https://github.com/thomasboussekey/PartMgr
 - https://github.com/eschmar/postgresql-popcount
 - https://github.com/urbic/postgresql-similarity
   - https://github.com/Hadryan/postgresql-similarity
@@ -4272,6 +5028,32 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/subssn21/PostgreSQL-Temporal
   - https://github.com/tomaszkrym/PostgreSQL-Temporal
   - https://github.com/wadaries/PostgreSQL-Temporal
+- https://github.com/dimitri/PostgreSQL-Temporal
+  - https://github.com/fromz/PostgreSQL-Temporal
+- https://github.com/citusdata/postgresql-topn
+  - https://github.com/Erin-H/postgresql-topn
+  - https://github.com/IronNetCybersecurity/postgresql-topn
+  - https://github.com/RekGRpth/postgresql-topn
+  - https://github.com/anilmor23/postgresql-topn
+  - https://github.com/cuulee/postgresql-topn
+  - https://github.com/cybernetics/postgresql-topn
+  - https://github.com/dreamsxin/postgresql-topn
+  - https://github.com/furkansahin/postgresql-topn
+  - https://github.com/isgasho/postgresql-topn
+  - https://github.com/jfhyn/postgresql-topn
+  - https://github.com/jnicholls/postgresql-topn
+  - https://github.com/kerscher/postgresql-topn
+  - https://github.com/kostiantyn-nemchenko/postgresql-topn
+  - https://github.com/l-we/postgresql-topn
+  - https://github.com/mengjin001/postgresql-topn
+  - https://github.com/meson10/postgresql-topn
+  - https://github.com/nagyandras/postgresql-topn
+  - https://github.com/sheroz/postgresql-topn
+  - https://github.com/silentnull/postgresql-topn
+  - https://github.com/weiboyiyou/postgresql-topn
+  - https://github.com/wiltonlazary/postgresql-topn
+  - https://github.com/wrrn/postgresql-topn
+  - https://github.com/zhuomingliang/postgresql-topn
 - https://github.com/df7cb/postgresql-unit
   - https://github.com/Empia/postgresql-unit
   - https://github.com/PranayVJain/postgresql-unit
@@ -4295,6 +5077,24 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/WinteryFox/PostgresSnowflake
 - https://github.com/monacoremo/postgrest-auth
   - https://github.com/Hadryan/postgrest-auth
+- https://github.com/powa-team/powa
+  - https://github.com/abessifi/powa
+    - https://github.com/nnn-dev/powa
+    - https://github.com/nucleoosystem/powa
+  - https://github.com/daamien/powa
+  - https://github.com/frost242/powa
+  - https://github.com/gavioto/powa
+  - https://github.com/gregors/powa
+  - https://github.com/iapilgrim/powa
+  - https://github.com/isdom/powa
+  - https://github.com/lifeles666/powa
+  - https://github.com/rgordeev/powa
+  - https://github.com/rodo/powa
+  - https://github.com/yoloseem/powa
+  - https://github.com/zhuomingliang/powa
+- https://github.com/abessifi/powa
+  - https://github.com/nnn-dev/powa
+  - https://github.com/nucleoosystem/powa
 - https://github.com/powa-team/powa-archivist
   - https://github.com/CyberDem0n/powa-archivist
   - https://github.com/Krysztophe/powa-archivist
@@ -4336,6 +5136,11 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/kiranekbote/projectsrepo
 - https://github.com/timescale/promscale_extension
 - https://github.com/osnatairy/provSQL
+- https://github.com/PierreSenellart/provsql
+  - https://github.com/Amr-YMohamed/provsql
+  - https://github.com/a3nm/provsql
+  - https://github.com/graydon/provsql
+  - https://github.com/smaniu/provsql
 - https://github.com/MasahikoSawada/pscan
 - https://github.com/postgrespro/ptrack
   - https://github.com/darthunix/ptrack
@@ -4356,6 +5161,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/phan-pivotal/q3c
   - https://github.com/stefco/q3c
   - https://github.com/xcamilox/q3c
+- https://github.com/adjust/quantile
+  - https://github.com/min-mwei/quantile
 - https://github.com/tvondra/quantile
   - https://github.com/Akiva198/quantile
   - https://github.com/adjust/quantile
@@ -4377,8 +5184,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/tvondra/query_histogram
   - https://github.com/jiayuasu/query_histogram
 - https://github.com/tvondra/query_recorder
-- https://github.com/ehfeng/random
 - https://github.com/tvondra/random
+- https://github.com/ehfeng/random
 - https://github.com/tvondra/randomstring
 - https://github.com/pjungwir/range_agg
   - https://github.com/Coffei/range_agg
@@ -4388,12 +5195,129 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/coreyhuinker/range_partitioning
   - https://github.com/corlogic-code/range_partitioning
 - https://github.com/hexiaoting/rasterdb
+- https://github.com/pg-redis-fdw/redis_fdw
+  - https://github.com/314937885/redis_fdw
+  - https://github.com/3manuek/redis_fdw
+  - https://github.com/ChrisGhenea/redis_fdw
+  - https://github.com/Datalization/redis_fdw
+  - https://github.com/DrLou/redis_fdw
+  - https://github.com/Fiekers/redis_fdw
+  - https://github.com/YuanDdQiao/redis_fdw
+  - https://github.com/aegorenkov/redis_fdw
+  - https://github.com/alexKeleon/redis_fdw
+  - https://github.com/alexisWTD/redis_fdw
+  - https://github.com/b-xiang/redis_fdw
+  - https://github.com/c0d3x42/redis_fdw
+  - https://github.com/commandprompt/redis_fdw
+    - https://github.com/nucleoosystem/redis_fdw
+  - https://github.com/cutso/redis_fdw
+  - https://github.com/digoal/redis_fdw
+  - https://github.com/dreamsxin/redis_fdw
+  - https://github.com/filipposc5/redis_fdw
+  - https://github.com/guljarpd/redis_fdw
+  - https://github.com/heroku/redis_fdw
+    - https://github.com/hgfdsa102/redis_fdw
+  - https://github.com/hom3chuk/redis_fdw
+  - https://github.com/hqren/redis_fdw
+  - https://github.com/inno-v/redis_fdw
+  - https://github.com/jaanek/redis_fdw
+  - https://github.com/jackliusr/redis_fdw
+  - https://github.com/jsc0218/redis_fdw
+  - https://github.com/kiddfz/redis_fdw
+  - https://github.com/kuien/redis_fdw
+  - https://github.com/leechunghwan/redis_fdw
+  - https://github.com/litterbug23/redis_fdw
+  - https://github.com/llcoolchak/redis_fdw
+  - https://github.com/luxms/redis_fdw
+  - https://github.com/nightweb/redis_fdw
+  - https://github.com/nodecarter/redis_fdw
+  - https://github.com/oseferi/redis_fdw
+  - https://github.com/pgsql-io/redis_fdw
+  - https://github.com/plupy/redis_fdw
+  - https://github.com/pzchan/redis_fdw
+  - https://github.com/qiutianhao/redis_fdw
+  - https://github.com/robsonfranklin/redis_fdw
+  - https://github.com/rogervaas/redis_fdw
+  - https://github.com/shaunstoltz/redis_fdw
+  - https://github.com/skyformat99/redis_fdw
+  - https://github.com/suhongrui/redis_fdw
+  - https://github.com/takanoriyanagitani/redis_fdw
+  - https://github.com/valley51/redis_fdw
+  - https://github.com/wylttt/redis_fdw
+  - https://github.com/xserve98/redis_fdw
+  - https://github.com/yihuang/redis_fdw
+  - https://github.com/zard14/redis_fdw
+  - https://github.com/zhaoshiling1017/redis_fdw
+- https://github.com/heroku/redis_fdw
+  - https://github.com/hgfdsa102/redis_fdw
+- https://github.com/commandprompt/redis_fdw
+  - https://github.com/nucleoosystem/redis_fdw
 - https://github.com/Daleys/redis_fdw
+- https://github.com/dpage/redis_fdw
+  - https://github.com/bparker98/redis_fdw
+  - https://github.com/hasegeli/redis_fdw
+  - https://github.com/pg-redis-fdw/redis_fdw
+    - https://github.com/314937885/redis_fdw
+    - https://github.com/3manuek/redis_fdw
+    - https://github.com/ChrisGhenea/redis_fdw
+    - https://github.com/Datalization/redis_fdw
+    - https://github.com/DrLou/redis_fdw
+    - https://github.com/Fiekers/redis_fdw
+    - https://github.com/YuanDdQiao/redis_fdw
+    - https://github.com/aegorenkov/redis_fdw
+    - https://github.com/alexKeleon/redis_fdw
+    - https://github.com/alexisWTD/redis_fdw
+    - https://github.com/b-xiang/redis_fdw
+    - https://github.com/c0d3x42/redis_fdw
+    - https://github.com/commandprompt/redis_fdw
+      - https://github.com/nucleoosystem/redis_fdw
+    - https://github.com/cutso/redis_fdw
+    - https://github.com/digoal/redis_fdw
+    - https://github.com/dreamsxin/redis_fdw
+    - https://github.com/filipposc5/redis_fdw
+    - https://github.com/guljarpd/redis_fdw
+    - https://github.com/heroku/redis_fdw
+      - https://github.com/hgfdsa102/redis_fdw
+    - https://github.com/hom3chuk/redis_fdw
+    - https://github.com/hqren/redis_fdw
+    - https://github.com/inno-v/redis_fdw
+    - https://github.com/jaanek/redis_fdw
+    - https://github.com/jackliusr/redis_fdw
+    - https://github.com/jsc0218/redis_fdw
+    - https://github.com/kiddfz/redis_fdw
+    - https://github.com/kuien/redis_fdw
+    - https://github.com/leechunghwan/redis_fdw
+    - https://github.com/litterbug23/redis_fdw
+    - https://github.com/llcoolchak/redis_fdw
+    - https://github.com/luxms/redis_fdw
+    - https://github.com/nightweb/redis_fdw
+    - https://github.com/nodecarter/redis_fdw
+    - https://github.com/oseferi/redis_fdw
+    - https://github.com/pgsql-io/redis_fdw
+    - https://github.com/plupy/redis_fdw
+    - https://github.com/pzchan/redis_fdw
+    - https://github.com/qiutianhao/redis_fdw
+    - https://github.com/robsonfranklin/redis_fdw
+    - https://github.com/rogervaas/redis_fdw
+    - https://github.com/shaunstoltz/redis_fdw
+    - https://github.com/skyformat99/redis_fdw
+    - https://github.com/suhongrui/redis_fdw
+    - https://github.com/takanoriyanagitani/redis_fdw
+    - https://github.com/valley51/redis_fdw
+    - https://github.com/wylttt/redis_fdw
+    - https://github.com/xserve98/redis_fdw
+    - https://github.com/yihuang/redis_fdw
+    - https://github.com/zard14/redis_fdw
+    - https://github.com/zhaoshiling1017/redis_fdw
+  - https://github.com/wishdev/redis_fdw
 - https://github.com/pgexperts/redis_fdw-dev
 - https://github.com/qingqibing/redis_fdw-dev
 - https://github.com/fkfk000/redis_link
 - https://github.com/heisice/redis_wrapper
 - https://github.com/asotolongo/rep_fdw
+- https://github.com/okbob/replace_empty_string
+  - https://github.com/RekGRpth/replace_empty_string
+  - https://github.com/skyformat99/replace_empty_string
 - https://github.com/dvarrazzo/replisome
   - https://github.com/GambitResearch/replisome
   - https://github.com/Zeto-Ltd/replisome
@@ -4401,6 +5325,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/nickmyatt/replisome
   - https://github.com/rai-shivam/replisome
   - https://github.com/shivamrai94/replisome
+- https://github.com/Zeto-Ltd/replisome
+  - https://github.com/sbreatnach/replisome
 - https://github.com/asotolongo/resources
 - https://github.com/gilt/role_manager
   - https://github.com/darklag/role_manager
@@ -4446,6 +5372,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/postgrespro/rusmorph
   - https://github.com/Shyran-Systems/rusmorph
   - https://github.com/gridl/rusmorph
+- https://github.com/luxms/rw_redis_fdw
+  - https://github.com/and111016/rw_redis_fdw
 - https://github.com/nahanni/rw_redis_fdw
   - https://github.com/3manuek/rw_redis_fdw
   - https://github.com/JackGuoo/rw_redis_fdw
@@ -4479,8 +5407,15 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/kashif/s3_fdw
   - https://github.com/zhq651/s3_fdw
 - https://github.com/DanielJDufour/safecast
+- https://github.com/wulczer/saio
+  - https://github.com/andyprasetya/saio
+  - https://github.com/parkag/saio
 - https://github.com/mohangk/sample_pg_extension
 - https://github.com/tvondra/scrub
+- https://github.com/lvpython/scws_parser
+  - https://github.com/yzhanginwa/scws_parser
+- https://github.com/sehrope/sequential-uuids
+  - https://github.com/bwakkie/sequential-uuids
 - https://github.com/tvondra/sequential-uuids
   - https://github.com/7u4/sequential-uuids
   - https://github.com/Layamon/sequential-uuids
@@ -4517,13 +5452,16 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/gridl/shared_ispell
   - https://github.com/postgrespro/shared_ispell
     - https://github.com/kemala87/shared_ispell
+- https://github.com/postgrespro/shared_ispell
+  - https://github.com/kemala87/shared_ispell
 - https://github.com/sdsmart/shifting-bloom-filter
 - https://github.com/labgeo/siguanet_quest
   - https://github.com/quommit/siguanet_quest
+- https://github.com/SamMorrowDrums/smlar
+  - https://github.com/JumpWork/smlar
 - https://github.com/bruce-shi/smlar
-- https://github.com/SZabirov/smlar
-  - https://github.com/stsouko/smlar
-- https://github.com/x4m/smlar
+- https://github.com/poppingtonic/smlar
+  - https://github.com/folowing/smlar-1
 - https://github.com/jirutka/smlar
   - https://github.com/6u6a/smlar
   - https://github.com/Remi-C/smlar
@@ -4545,13 +5483,38 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/redraiment/smlar
   - https://github.com/sunny8898/smlar
   - https://github.com/syyunn/smlar
-- https://github.com/poppingtonic/smlar
-  - https://github.com/folowing/smlar-1
+- https://github.com/SZabirov/smlar
+  - https://github.com/stsouko/smlar
+- https://github.com/NCarson/smlar
+  - https://github.com/ArturFormella/smlar
+    - https://github.com/Irytacja/smlar
+    - https://github.com/warrenwyf/smlar
+- https://github.com/ArturFormella/smlar
+  - https://github.com/Irytacja/smlar
+  - https://github.com/warrenwyf/smlar
+- https://github.com/x4m/smlar
+- https://github.com/ieure/smlar
+  - https://github.com/NCarson/smlar
+    - https://github.com/ArturFormella/smlar
+      - https://github.com/Irytacja/smlar
+      - https://github.com/warrenwyf/smlar
+- https://github.com/postgrespro/snowball_ext
+  - https://github.com/RekGRpth/snowball_ext
+  - https://github.com/Shyran-Systems/snowball_ext
 - https://github.com/duckbill/sp-gist
+- https://github.com/ArturFormella/sphinxlink
+  - https://github.com/Irytacja/sphinxlink
 - https://github.com/dimv36/sphinxlink
   - https://github.com/ArturFormella/sphinxlink
     - https://github.com/Irytacja/sphinxlink
   - https://github.com/MGVK/sphinxlink
+- https://github.com/poreklo/sql_firewall
+  - https://github.com/turgs/sql_firewall
+    - https://github.com/arnegrim/sql_firewall
+    - https://github.com/ctxer/sql_firewall
+- https://github.com/turgs/sql_firewall
+  - https://github.com/arnegrim/sql_firewall
+  - https://github.com/ctxer/sql_firewall
 - https://github.com/uptimejp/sql_firewall
   - https://github.com/GanieLinn/sql_firewall
   - https://github.com/INTMaxMood/sql_firewall
@@ -4578,6 +5541,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/segmond/sql_firewall
   - https://github.com/tysonclugg/sql_firewall
   - https://github.com/zone1511/sql_firewall
+- https://github.com/laurenz/sqlite_fdw
+  - https://github.com/ubuntu-repo/sqlite_fdw
 - https://github.com/pgspider/sqlite_fdw
   - https://github.com/HarmonyAngel/sqlite_fdw
   - https://github.com/KyleLilly/sqlite_fdw
@@ -4600,6 +5565,13 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/tunghdt/sqlite_fdw
   - https://github.com/unshare/sqlite_fdw
   - https://github.com/vinicius-ianni/sqlite_fdw
+- https://github.com/evicertia/sqlite_fdw
+  - https://github.com/dbuenor/sqlite_fdw
+- https://github.com/aganatramoat/sqlite_fdw
+  - https://github.com/coreyhuinker/sqlite_fdw
+    - https://github.com/apthorpe/sqlite_fdw
+- https://github.com/coreyhuinker/sqlite_fdw
+  - https://github.com/apthorpe/sqlite_fdw
 - https://github.com/gleu/sqlite_fdw
   - https://github.com/3manuek/sqlite_fdw
   - https://github.com/amitlan/sqlite_fdw
@@ -4608,9 +5580,14 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/laurenz/sqlite_fdw
     - https://github.com/ubuntu-repo/sqlite_fdw
   - https://github.com/rjuju/sqlite_fdw
-- https://github.com/aganatramoat/sqlite_fdw
-  - https://github.com/coreyhuinker/sqlite_fdw
-    - https://github.com/apthorpe/sqlite_fdw
+- https://github.com/postgrespro/sr_plan
+  - https://github.com/Erin-H/sr_plan
+  - https://github.com/PizzaL/sr_plan
+  - https://github.com/RekGRpth/sr_plan
+  - https://github.com/funbringer/sr_plan
+  - https://github.com/gridl/sr_plan
+  - https://github.com/sshyran/sr_plan
+  - https://github.com/zhihuiFan/sr_plan
 - https://github.com/zombodb/srf
 - https://github.com/frost242/ssi_failures
 - https://github.com/EnterpriseDB/sslutils
@@ -4630,6 +5607,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/macdice/system_stats
 - https://github.com/peak6/tab_tier
   - https://github.com/bonesmoses/tab_tier
+- https://github.com/credativ/table_log
+  - https://github.com/tbe/table_log
 - https://github.com/psoo/table_log
   - https://github.com/credativ/table_log
     - https://github.com/tbe/table_log
@@ -4717,9 +5696,26 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/tubaarat/tds_fdw
   - https://github.com/vagnerdev/tds_fdw
   - https://github.com/wchmei/tds_fdw
+- https://github.com/pgstuff/telephone
+  - https://github.com/jrlodden/telephone
 - https://github.com/okbob/template_fdw
-- https://github.com/rambos22/test
+- https://github.com/arkhipov/temporal_tables
+  - https://github.com/NemoAA/temporal_tables
+  - https://github.com/PourSafe/temporal_tables
+  - https://github.com/RomanTkachuk/temporal_tables
+    - https://github.com/BitterSweetUA/temporal_tables
+  - https://github.com/benthomasson/temporal_tables
+  - https://github.com/cachique/temporal_tables
+  - https://github.com/clarkdave/temporal_tables
+  - https://github.com/emrul/temporal_tables
+  - https://github.com/henriavelabarbe/temporal_tables
+  - https://github.com/klando/temporal_tables
+  - https://github.com/nileshdudhal/temporal_tables
+  - https://github.com/nubiofs/temporal_tables
+- https://github.com/RomanTkachuk/temporal_tables
+  - https://github.com/BitterSweetUA/temporal_tables
 - https://github.com/sqljson/test
+- https://github.com/rambos22/test
 - https://github.com/r888888888/test_parser
 - https://github.com/x4m/test_pglz
   - https://github.com/djydewang/test_pglz
@@ -4731,16 +5727,116 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/pjungwir/time_for_keys
 - https://github.com/scheca/timescale
 - https://github.com/Veera28/timescale
+- https://github.com/timescale/timescaledb
+  - https://github.com/382411196/timescaledb
+  - https://github.com/Barathwaja/timescaledb
+  - https://github.com/Genius38/timescaledb
+  - https://github.com/HappySky2046/timescaledb
+  - https://github.com/Intellifora/timescaledb
+  - https://github.com/JohnnySapient/timescaledb
+  - https://github.com/Solertis/timescaledb
+  - https://github.com/TheArchiver/timescaledb
+  - https://github.com/akirabaruah/timescaledb
+  - https://github.com/banyue/timescaledb
+  - https://github.com/battbeach/timescaledb
+  - https://github.com/benthomasson/timescaledb
+  - https://github.com/blunney1/timescaledb
+  - https://github.com/bricklen/timescaledb
+  - https://github.com/carbonin/timescaledb
+  - https://github.com/cuulee/timescaledb
+  - https://github.com/dataignite/timescaledb
+  - https://github.com/db4u/timescaledb
+  - https://github.com/ddm/timescaledb
+  - https://github.com/devopsmi/timescaledb
+  - https://github.com/dineshkumares/timescaledb
+  - https://github.com/duzhanyuan/timescaledb
+  - https://github.com/e346m/timescaledb
+  - https://github.com/eagle518/timescaledb
+  - https://github.com/emrul/timescaledb
+  - https://github.com/fengweijp/timescaledb
+  - https://github.com/frederikhermans/timescaledb
+  - https://github.com/fskang/timescaledb
+  - https://github.com/guptam/timescaledb
+  - https://github.com/gurjeet/timescaledb
+  - https://github.com/h87kg/timescaledb
+  - https://github.com/harvic3/timescaledb
+  - https://github.com/hemin1003/timescaledb
+  - https://github.com/hhy5277/timescaledb
+  - https://github.com/himanshpal/timescaledb
+  - https://github.com/ikvm/timescaledb
+  - https://github.com/ipapasa/timescaledb
+  - https://github.com/iuliandumitru/timescaledb
+  - https://github.com/jarrmy/timescaledb
+  - https://github.com/jcesareo/timescaledb
+  - https://github.com/jianlirong/timescaledb
+  - https://github.com/joe2hpimn/timescaledb
+  - https://github.com/jqnatividad/timescaledb
+  - https://github.com/kakkulap/timescaledb
+  - https://github.com/kangkot/timescaledb
+  - https://github.com/kassandry/timescaledb
+  - https://github.com/kommiharibabu/timescaledb
+  - https://github.com/ktaranov/timescaledb
+  - https://github.com/ldbslovis/timescaledb
+  - https://github.com/lessc0de/timescaledb
+  - https://github.com/lidi100/timescaledb
+  - https://github.com/lsxredrain/timescaledb
+  - https://github.com/maniacs-db/timescaledb
+  - https://github.com/mbrukman/timescaledb
+  - https://github.com/michaelrp/timescaledb
+  - https://github.com/mylearning2017/timescaledb
+  - https://github.com/myso42/timescaledb
+  - https://github.com/neuroradiology/timescaledb
+  - https://github.com/newlysoft/timescaledb
+  - https://github.com/nikolayvoronchikhin/timescaledb
+  - https://github.com/nitinreddy3/timescaledb
+  - https://github.com/nnorris7/timescaledb
+  - https://github.com/nunb/timescaledb
+  - https://github.com/olofr/timescaledb
+  - https://github.com/practise2017/timescaledb
+  - https://github.com/qccr-twl2123/timescaledb
+  - https://github.com/qianxueseng-com/timescaledb
+  - https://github.com/radoraykov/timescaledb
+  - https://github.com/raghavsethi/timescaledb
+  - https://github.com/rkreddy559/timescaledb
+  - https://github.com/rlugojr/timescaledb
+  - https://github.com/robin900/timescaledb
+  - https://github.com/rogervaas/timescaledb
+  - https://github.com/rongliang666/timescaledb
+  - https://github.com/sensecollective/timescaledb
+  - https://github.com/skyformat99/timescaledb
+  - https://github.com/snmpboy/timescaledb
+  - https://github.com/sp37344/timescaledb
+  - https://github.com/stephensebastin/timescaledb
+  - https://github.com/strogo/timescaledb
+  - https://github.com/tavarma/timescaledb
+  - https://github.com/tchen0123/timescaledb
+  - https://github.com/thomasdesr/timescaledb
+  - https://github.com/v8labx/timescaledb
+  - https://github.com/wanghao1985/timescaledb
+  - https://github.com/xephon-contrib/timescaledb
+  - https://github.com/xlong88/timescaledb
+  - https://github.com/xubingyue/timescaledb
+  - https://github.com/xvaara/timescaledb
+  - https://github.com/yanghongkjxy/timescaledb
+  - https://github.com/yiwang/timescaledb
+  - https://github.com/younghai/timescaledb
+  - https://github.com/yuanfeng0905/timescaledb
+  - https://github.com/zhoudaqing/timescaledb
+  - https://github.com/ziXet/timescaledb
 - https://github.com/cosmicrocks/timescaledb
   - https://github.com/bygui86/timescaledb
   - https://github.com/venkatagajara/timescaledb
     - https://github.com/GAJARA/timescaledb
+- https://github.com/venkatagajara/timescaledb
+  - https://github.com/GAJARA/timescaledb
 - https://github.com/mweber26/timestampandtz
   - https://github.com/benthomasson/timestampandtz
   - https://github.com/jordansexton/timestampandtz
   - https://github.com/shokurov/timestampandtz
 - https://github.com/liguangxian/timing
   - https://github.com/skyformat99/timing
+- https://github.com/adjust/tinyint-postgresql
+  - https://github.com/min-mwei/tinyint-postgresql
 - https://github.com/umitanuki/tinyint-postgresql
   - https://github.com/Dead2/tinyint-postgresql
   - https://github.com/adjust/tinyint-postgresql
@@ -4777,6 +5873,11 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/Shyran-Systems/tsexact
   - https://github.com/alexshavelev/tsexact
   - https://github.com/gridl/tsexact
+- https://github.com/postgrespro/tsexample
+  - https://github.com/ArturFormella/tsexample
+  - https://github.com/gridl/tsexample
+  - https://github.com/raminisai/tsexample
+  - https://github.com/vdedyukhin/tsexample
 - https://github.com/goldenhelix/tsf-fdw
 - https://github.com/postgrespro/tsvector2
   - https://github.com/RekGRpth/tsvector2
@@ -4802,6 +5903,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/qiuwenhuifx/undam
     - https://github.com/zpzhao/undam
   - https://github.com/wenshengzhang/undam
+- https://github.com/qiuwenhuifx/undam
+  - https://github.com/zpzhao/undam
 - https://github.com/truthly/uniphant
 - https://github.com/autodatadirect/uniqueidentifier
 - https://github.com/freevryheid/units
@@ -4868,6 +5971,11 @@ If some repo is missing, please add it and send a Pull Request.
       - https://github.com/alexmac/weighted_stats
   - https://github.com/petere/weighted_mean
   - https://github.com/swuecho/weighted_mean
+- https://github.com/cbrichford/weighted_stats
+  - https://github.com/alexmac/weighted_stats
+- https://github.com/davidfetter/weighted_stats
+  - https://github.com/cbrichford/weighted_stats
+    - https://github.com/alexmac/weighted_stats
 - https://github.com/postgrespro/wildspeed
   - https://github.com/Shyran-Systems/wildspeed
   - https://github.com/gridl/wildspeed
@@ -4900,6 +6008,8 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/robe2/www_fdw
   - https://github.com/shapingcloud/www_fdw
   - https://github.com/takanoriyanagitani/www_fdw
+- https://github.com/olehs/www_fdw
+  - https://github.com/manueltimita/www_fdw
 - https://github.com/darthunix/x5fix
 - https://github.com/yazun/xl_global_views
 - https://github.com/snaga/xlogging
@@ -4907,6 +6017,8 @@ If some repo is missing, please add it and send a Pull Request.
 - https://github.com/yeti-switch/yeti-pg-ext
   - https://github.com/dmitry-sinina/yeti-pg-ext
 - https://github.com/bmuratshin/zcurve
+- https://github.com/AlekseyEf/zhparser
+  - https://github.com/Lurunchik/zhparser
 - https://github.com/amutu/zhparser
   - https://github.com/326615186/zhparser
   - https://github.com/759126711/zhparser
@@ -4970,7 +6082,77 @@ If some repo is missing, please add it and send a Pull Request.
   - https://github.com/zjucsxxd/zhparser
   - https://github.com/zlianzhuang/zhparser
   - https://github.com/zpzhao/zhparser
+- https://github.com/kerneltravel/zhparser
+  - https://github.com/luyaotang/zhparser
 - https://github.com/beargiles/zipfile-fdw
+- https://github.com/jimmykirk/zombodb
+  - https://github.com/eeeebbbbrrrr/zombodb
+- https://github.com/zombodb/zombodb
+  - https://github.com/30s/zombodb
+  - https://github.com/GEverding/zombodb
+  - https://github.com/Godwottery/zombodb
+  - https://github.com/JulienLuxx/zombodb
+  - https://github.com/Laeeth/zombodb
+  - https://github.com/MoskitoHero/zombodb
+  - https://github.com/NeoTim/zombodb
+  - https://github.com/PGer/zombodb
+  - https://github.com/RYefccd/zombodb
+  - https://github.com/awesomeDataTool/zombodb
+  - https://github.com/azywait/zombodb
+  - https://github.com/bdue/zombodb
+  - https://github.com/blunney1/zombodb
+  - https://github.com/bylee5/zombodb
+  - https://github.com/cambrown11/zombodb
+  - https://github.com/cyang-el/zombodb
+  - https://github.com/dailysse/zombodb
+  - https://github.com/edwinyzh/zombodb
+  - https://github.com/enkayz/zombodb
+  - https://github.com/fsiler/zombodb
+  - https://github.com/gtsalles/zombodb
+  - https://github.com/ilovejs/zombodb
+  - https://github.com/imran273/zombodb
+  - https://github.com/iqbalme/zombodb
+  - https://github.com/ivawzh/zombodb
+  - https://github.com/jaikanthjay46/zombodb
+  - https://github.com/jianlirong/zombodb
+  - https://github.com/jibrel/zombodb
+  - https://github.com/jimmykirk/zombodb
+    - https://github.com/eeeebbbbrrrr/zombodb
+  - https://github.com/jonike/zombodb
+  - https://github.com/keramist/zombodb
+  - https://github.com/krisskross/zombodb
+  - https://github.com/lineCode/zombodb
+  - https://github.com/link5209/zombodb
+  - https://github.com/mandel59/zombodb
+  - https://github.com/martha-dev/zombodb
+  - https://github.com/mcaramma/zombodb
+  - https://github.com/mlipscombe/zombodb
+  - https://github.com/montanafish/zombodb
+  - https://github.com/netiz21/zombodb
+  - https://github.com/neuroforgede/zombodb
+  - https://github.com/ngaut/zombodb
+  - https://github.com/patrickfung/zombodb
+  - https://github.com/ra2003/zombodb
+  - https://github.com/rakibulislam/zombodb
+  - https://github.com/rasata/zombodb
+  - https://github.com/rogeriofalcone/zombodb
+  - https://github.com/rongfengliang/zombodb
+  - https://github.com/schroedinger-survey/zombodb
+  - https://github.com/setras/zombodb
+  - https://github.com/shunpeizhang/zombodb
+  - https://github.com/smaingi/zombodb
+  - https://github.com/toluaina/zombodb
+  - https://github.com/triplekill/zombodb
+  - https://github.com/valera-shulghin/zombodb
+  - https://github.com/wagjo/zombodb
+  - https://github.com/weiboyiyou/zombodb
+  - https://github.com/wengyanqing/zombodb
+  - https://github.com/williamhatch/zombodb
+  - https://github.com/yourkeychen/zombodb
+  - https://github.com/zampaleu/zombodb
+  - https://github.com/zhuomingliang/zombodb
+- https://github.com/bruce-one/zson
+  - https://github.com/nyseion/zson
 - https://github.com/postgrespro/zson
   - https://github.com/1848/zson
   - https://github.com/Shyran-Systems/zson
