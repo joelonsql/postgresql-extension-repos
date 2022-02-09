@@ -1,4 +1,4 @@
-# PostgreSQL Extension Repos
+# 🗺🐘 PostgreSQL Extension Repos
 
 This is a list of some PostgreSQL extension repos,
 listed in alphabetical order of parent repos,
